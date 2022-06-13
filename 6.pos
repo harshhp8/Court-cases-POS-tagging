@@ -1,0 +1,154 @@
+<Corpora type="Monolingual-POS-TAGGED" Language="Gujarati">
+
+<Sentence id=1> દાખલ_N_NN તારીખ_N_NN :_RD_PUNC ૦૯_QT_QTC-_RD_PUNC૦૫_QT_QTC-_RD_PUNCર૦૧૬_QT_QTC 
+નોંધ્યા_N_NN તારીખ_N_NN :_RD_PUNC ૦૯_QT_QTC-_RD_PUNC૦૫_QT_QTC-_RD_PUNCર૦૧૬_QT_QTC
+ફેંસલ_N_NN તારીખ_N_NN :_RD_PUNC2૮_QT_QTC-_RD_PUNC૦૨_QT_QTC-_RD_PUNCર૦ર૦_QT_QTC
+સમયગાળો_N_NN :_RD_PUNCવર્ષ_N_NN માસ_N_NN દિવસ_N_NN
+આંક_N_NN -_RD_PUNC ૪૦_QT_QTC
+રાજકોટના_N_NNP મહે_N_NN જ્યુડીશ્યલ_N_NN મેજીસ્ટ્રેટ_N_NN ફર્સ્ટ_N_NN કલાસ_N_NN (_RD_PUNCટ્રાફીક_N_NN)_RD_PUNC સાહેબની_N_NN કોર્ટમાં_N_NN,_RD_PUNC મુ._N_NN રાજકોટ_N_NNP,_RD_PUNC
+ નં._N_NN પ૪૦_QT_QTC._RD_PUNC</Sentence>
+ 
+<Sentence id=2>શ્રી_JJ સરકાર_N_NN ફરીયાદી_N_NN વિરૂઘ્ધ_N_NN ભાવેશભાઈ_N_NNP હરસુખભાઈ_N_NNP ગોરીયા_N_NNP ઉ.વ._N_NN ર૬_QT_QTC,_RD_PUNC રહે_N_NN ૧૫૦_QT_QTC રીંગ_N_NN રોડ_N_NN આકાશદીપ_N_NNP સોસાયટી_N_NN રાધે_N_NNP ચોકડી_N_NN પાસે_PSP રાજકોટ_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=3>ગુન્હો_N_NN :_RD_PUNC ભારતીય_JJ દંડ_N_NN સહિતાની_N_NN કલમ_N_NN -_RD_PUNC ર૭૯_QT_QTC,_RD_PUNC ૩૩૭_QT_QTC,_RD_PUNC ૩૩૮_QT_QTC તથા_CC_CCD એમ.વી._N_NN એકટ_N_NN કલમ_N_NN ૧૭૭_QT_QTC,_RD_PUNC ૧૮૪_QT_QTC,_RD_PUNC ૧૩૪_QT_QTC મુજબ_PSP._RD_PUNC</Sentence>
+
+<Sentence id=4> સરકાર_N_NN તરફે_PSP વિ.એ.પી.પી.શ્રી_JJ કે.એમ.રાવલ_N_NNP આરોપીઓ_N_NN તરફે_PSP વિ.વ.શ્રી_JJ એ.બી.સોલંકી_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=5> રાવડ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=6>(_RD_PUNC૧_QT_QTC)_RD_PUNC ફરીયાદપક્ષના_N_NN કેસની_N_NN ટુંકમાં_JJ હકીકત_N_NN એવી_RP_RPD છે_V_VAUX કે_CC_CCS,_RD_PUNC તા_N_NN 0૯_QT_QTC/_RD_PUNC0૩_QT_QTC/_RD_PUNC૨૦૧૬ના_QT_QTC કલાક_N_NN ૧૨_QT_QTC:_RD_PUNC૦૦_QT_QTC વાગ્યાના_N_NN અરસામા_N_NN આરોપીએ_N_NN પોતાની_PR_PRP કાર_N_NN નં._N_NN જી.જે._N_NN ૩_QT_QTC બી.એ._N_NN ૬૪ર૭ની_QT_QTC મારંમાર_JJ પુરઝડપે_RB ગફલતભરી_N_NN રીતે_N_NN રીવર્સ_N_NN લઈ_V_VM અકસ્માત_N_NN કરી_V_VM પછાડી_N_NN દઈ_V_VM જમણ।_JJ પગમા_N_NN ફેકચર_N_NN જેવી_RP_RPD ઈજા_N_NN કરી_V_VM નાશી_N_NN જઈ_V_VM ગુનો_N_NN કરેલ_V_VAUX જેની_PR_PRL ફરીયાદ_N_NN ફરીયાદીએ_N_NN બી_N_NN ડીવીઝન_N_NN પોલીસ_N_NN સ્ટેશનમાં_N_NN આપેલી_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=7>(_RD_PUNCર_QT_QTC)_RD_PUNC ફરીયાદીની_N_NN ફરીયાદ_N_NN આધારે_PSP બી_N_NN ડીવીઝન_N_NN પોલીસ_N_NN સ્ટેશન_N_NN ગુ.ર.નં._N_NN ૬૯_QT_QTC/_RD_PUNCર૦૧૬થી_QT_QTC તા._N_NN ૦૯_QT_QTC-_RD_PUNC૦૫_QT_QTC-_RD_PUNCર૦૧૬ના_QT_QTC રોજ_N_NN ભારતીય_JJ દંડ_N_NN સહિતાની_N_NN કલમ_N_NN -_RD_PUNC ર૭૯_QT_QTC,_RD_PUNC ૩૩૭_QT_QTC,_RD_PUNC ૩૩૮_QT_QTC તથા_CC_CCD એમ.વી._N_NN એકટ_N_NN કલમ_N_NN ૧૭૭_QT_QTC,_RD_PUNC ૧૮૪_QT_QTC,_RD_PUNC ૧૩૪_QT_QTC મુજબનો_PSP ગુનો_N_NN દાખલ_N_NN કરેલો_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=8>ત્યારબાદ_N_NST પોલીસ_N_NN તપાસમાં_N_NN આરોપી_N_NN મળી_V_VM આવતા_V_VAUX તેઓની_PR_PRP ધરપકડ_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=9>ત્યારબાદ_N_NST પોલીસની_N_NN તપાસ_N_NN પુરી_RB થતા_V_VAUX પોલીસે_N_NN સી.આર.પી.સી_N_NN કલમ_N_NN -_RD_PUNC ૧૭૩_QT_QTC મુજબ_PSP આરોપી_N_NN વિરૂઘ્ધ_N_NN ભારતીય_JJ દંડ_N_NN સહિતાની_N_NN કલમ_N_NN -_RD_PUNC ર૭૯_QT_QTC,_RD_PUNC ૩૩૭_QT_QTC,_RD_PUNC ૩૩૮_QT_QTC તથા_CC_CCD એમ.વી_RP_RPD એકટ_N_NN કલમ_N_NN ૧૭૭_QT_QTC,_RD_PUNC ૧૮૪_QT_QTC,_RD_PUNC ૧૩૪_QT_QTC મુજબના_PSP ગુનાના_N_NN તહોમતનું_N_NN ચાર્જશીટ_N_NN અત્રેની_N_NST અદાલતમાં_N_NN રજુ_V_VM કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=10> (_RD_PUNC૩_QT_QTC)_RD_PUNC આ_DM_DMD કામે_N_NN આરોપીને_N_NN સમન્સની_N_NN બજવણી_N_NN થતાં_V_VAUX તેઓ_PR_PRP હાજર_N_NN થયેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=11>ત્યારબાદ_N_NST આરોપીની_N_NN ભારતીય_JJ દંડ_N_NN સહિતાની_N_NN કલમ_N_NN -_RD_PUNC ર૭૯_QT_QTC,_RD_PUNC ૩૩૭_QT_QTC,_RD_PUNC ૩૩૮_QT_QTC તથા_CC_CCD એમ.વી._N_NN એકટ_N_NN કલમ_N_NN ૧૭૭_QT_QTC,_RD_PUNC ૧૮૪_QT_QTC,_RD_PUNC ૧૩૪_QT_QTC મુજબના_PSP ગુનાની_N_NN પ્લી_N_NN આંક_N_NN -_RD_PUNC ૬થી_QT_QTC લેવામા_V_VAUX આવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=12> જેમા_PR_PRL આરોપી_N_NN ધ્વારા_PSP તેઓ_PR_PRP વિરુઘ્ધના_N_NN તહોમતનો_N_NN ઈન્કાર_N_NN કરવામા_V_VAUX આવતા_V_VAUX,_RD_PUNC સદર_N_NN કામ_N_NN ફરીયાદપક્ષના_N_NN પુરાવા_N_NN પર_PSP રાખવામા_V_VAUX આવેલ_V_VAUX,_RD_PUNC પરંતુ_CC_CCD પુરાવાની_N_NN મુદતે_N_NN પક્ષકારોએ_N_NN ભારતીય_JJ દંડ_N_NN સંહીતાની_N_NN કલમ_N_NN ૩૩૭_QT_QTC,_RD_PUNC ૩૩૮ના_QT_QTC ગુનાનું_N_NN સમાધાન_N_NN કરવાની_V_VAUX પરવાનગી_N_NN અરજી_N_NN આંક_N_NN -_RD_PUNC ૩૩થી_QT_QTC રજુ_V_VM કરતા_V_VAUX તે_PR_PRL ગ્રાહય_JJ રાખતા_V_VM આંક_N_NN -_RD_PUNC ૩૪થી_QT_QTC સમાધાન_N_NN પુરસીસ_N_NN  કરવામા_V_VAUX આવેલ_V_VAUX અને_CC_CCD નામદાર_JJ કોર્ટ_N_NN તરફથી_PSP તે_PR_PRL ગ્રાહય_JJ રાખવામા_V_VAUX આવેલ_V_VAUX અને_CC_CCD આ_DM_DMD કામના_N_NN પક્ષકારોને_N_NN ભારતીય_JJ કમ_N_NN 33૭_QT_QTC,_RD_PUNC ૩૩૮_QT_QTC મુજબના_PSP ગુનાનું_N_NN સમાધાન_N_NN સી.આર.પી.સી._N_NN કલમ_N_NN ૩ર૦_QT_QTC મુજબ_PSP મંજુર_N_NN કરવામા_V_VAUX આવેલ_V_VAUX અને_CC_CCD બાકીની_JJ કલમ_N_NN હેઠળ_N_NN કેસ_N_NN આગળ_N_NST ચલાવવાનો_V_VAUX હુકમ_N_NN નામદાર_JJ કોર્ટે_N_NN ફરમાવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=13> (_RD_PUNC૪_QT_QTC)_RD_PUNC સદર_N_NN કામે_N_NN ફરીયાદ_N_NN પક્ષે_N_NN નીચે_N_NST મુજબનો_PSP મૌખીક_JJ તથા_CC_CCD દસ્તાવેજી_JJ પુરાવો_N_NN રજુ_V_VM કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=14>મૌખીક_JJ પુરાવો_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=15>ક્રમ_N_NN આંક_N_NN  સાહેદની_N_NN વિગત_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=16> ૧૫_QT_QTC સાહેદ_N_NN ધમેન્દ્રભાઈ_N_NNP ભીખુભાઈ_N_NNP મંડીરની_N_NNP જુબાની_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=17> ૩૫_QT_QTC ફરીયાદી_N_NN પુનાભાઈ_N_NNP ભીખાભાઈ_N_NNP રાણેતરાની_N_NNP જુબાની_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=18> દસ્તાવેજી_JJ પુરાવો_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=19>કમ_N_NN આંક_N_NN ૩૬_QT_QTC ફરીયાદ_N_NN ર૩૭_QT_QTC સ્થાનીક_JJ જગ્યાનું_N_NN પંચનામું_N_NN-_RD_PUNC ૩૮_QT_QTC ઈન્જરી_N_NN સર્ટીફીકેટ_N_NN ૪૩૯_QT_QTC કતલોઝીંગ_N_NN પુરસીસ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=20> (_RD_PUNC૫_QT_QTC)_RD_PUNC ફરીયાદ_N_NN પક્ષ_N_NN તરફથી_PSP આંક_N_NN -_RD_PUNC ૩૯થી_QT_QTC પુરાવો_N_NN પુર્ણ_RB થયેલ_V_VAUX હોવાનું_V_VAUX જાહેર_V_VM કરતાં_V_VAUX,_RD_PUNC ફોજદારી_N_NN કાર્યરીતી_N_NN સંહિતાની_N_NN કલમ_N_NN -_RD_PUNC ૩૧૩_QT_QTC મુજબની_PSP જોગવાઈઓ_N_NN અન્વયે_N_NN આરોપીઓનું_N_NN વિશેષ_JJ નિવેદન_N_NN નોંધવા_V_VAUX જેટલા_QT_QTF પુરાવા_N_NN હોય_V_VAUX જેથી_RP_RPD વિશેષ_JJ નિવેદન_N_NN નોંધવામા_V_VAUX આવેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=21>ત્યારબાદ_N_NST પક્ષકારોના_N_NN વિધ્વાન_JJ વકીલશ્રીઓની_JJ દલીલો_N_NN સાંભળી_V_VM,_RD_PUNC તથા_CC_CCD રેકર્ડ_N_NN ઉપરના_N_NST પુરાવાઓ_N_NN ધ્યાને_N_NN લીધા_V_VM._RD_PUNC</Sentence>
+
+<Sentence id=22>(_RD_PUNC ૬_QT_QTC)_RD_PUNC ઉપર_N_NST મુજબની_PSP રૂપરેખા_JJ ધરાવતા_V_VAUX આ_DM_DMD કેસના_N_NN આખરી_JJ નીકાલ_N_NN સારુ_PSP નીચે_N_NST મુજબનાં_PSP મુદાઓ_N_NN ઉપસ્થિત_RP_RPD થાય_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=23> (_RD_PUNC૧_QT_QTC)_RD_PUNC શું_PR_PRQ ફરીયાદપક્ષ_N_NN પુરવાર_N_NN કરે_V_VM છે_V_VAUX કે_CC_CCS,_RD_PUNC તા._N_NN ૦૯_QT_QTC/_RD_PUNC૦૩_QT_QTC/_RD_PUNCર૦૧ ૬ના_QT_QTC કલાક_N_NN ૧૨:૦૦_QT_QTC વાગ્યાના_N_NN અરસામા_N_NN આરોપીએ_N_NN પોતાની_PR_PRP કાર_N_NN નં._N_NN જી.જે._N_NN ૩_QT_QTC બી.એ._N_NN ૬૪ર૭ની_QT_QTC મારંમાર_JJ પુરઝડપે_RB ગફલતભરી_N_NN રીતે_N_NN રીવર્સ_N_NN લઈ_V_VM અકસ્માત_N_NN કરી_V_VM પછાડી_N_NN દઈ_V_VM જમણ ।_JJ પગમા_N_NN ફેકચર_N_NN જેવી_RP_RPD ઈજા_N_NN કરી_V_VM નાશી_N_NN જઈ_V_VM ભારતીય_JJ દંડ_N_NN સહિતાની_N_NN કલમ_N_NN -_RD_PUNC ર૭૯_QT_QTC,_RD_PUNC ૩૩૭_QT_QTC,_RD_PUNC ૩૩૮_QT_QTC તથા_CC_CCD એમ.વી._N_NN એકટ_N_NN કલમ_N_NN ૧૭૭_QT_QTC,_RD_PUNC ૧૮૪_QT_QTC,_RD_PUNC ૧૩૪_QT_QTC મુજબનો_PSP શિક્ષાપાત્ર_JJ ગુનો_N_NN કરેલ_V_VAUX
+છે_V_VAUX?_RD_PUNC</Sentence>
+
+<Sentence id=24> (_RD_PUNC૨_QT_QTC)_RD_PUNC શું_PR_PRQ હુકમ_N_NN?_RD_PUNC</Sentence>
+
+<Sentence id=25> (_RD_PUNC૭_QT_QTC)_RD_PUNC ઉપરોકત_RP_RPD મુદાઓના_N_NN મારા_PR_PRP નિર્ણયો_N_NN નીચે_N_NST મુજબ_PSP છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=26>(_RD_PUNC૧_QT_QTC)_RD_PUNC નકારમાં_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=27>(_RD_PUNCર_QT_QTC)_RD_PUNC આખરી_JJ હુકમ_N_NN મુજબ_PSP._RD_PUNC</Sentence>
+
+<Sentence id=28>ઉપરોકત_RP_RPD મુદાઓના_N_NN નિર્ણયના_N_NN મારા_PR_PRP કારણો_N_NN નીચે_N_NST મુજબ_PSP છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=29>::_RD_PUNC કારણો_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=30> (_RD_PUNC૮_QT_QTC)_RD_PUNC મુદા_N_NN નં._N_NN ૧_QT_QTC :_RD_PUNC-_RD_PUNC આ_DM_DMD કામે_N_NN ફરીયાદપક્ષના_N_NN પુરાવાનું_N_NN મુલ્યાંકન_N_NN કરતા_V_VAUX ફરીયાદપક્ષે_N_NN સાહે_N_NN ધમેન્દ્દભાઈ_N_NNP ભીખુભાઈ_N_NNP મંડીરએ_N_NNP આંક_N_NN -_RD_PUNC ૧૫ની_QT_QTC જુબાનીમાં_N_NN એવું_PR_PRL જણાવેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC તેઓ_PR_PRP ગ્રીનલેન્ડ_N_NN ચોકડીએ_N_NN સીએનજી_N_NN ગેસ_N_NN ભરવાનું_V_VAUX ગુજરાત_N_NNP ગેસના_N_NN પેટ્રોલ_N_NN પંપમા_N_NN ફીલર_N_NN તરીકે_PSP કામ_N_NN કરે_V_VM છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=31>બનાવના_N_NN દીવસે_N_NN તેઓ_PR_PRP ગેસ_N_NN ભરવાનું_V_VAUX કામ_N_NN કરતા_V_VAUX હતા_V_VAUX તેથી_RP_RPD એક_QT_QTC રીક્ષાવાળાને_N_NN કારચાલકે_N_NN રીવર્સ_N_NN લઈ_V_VM અકસ્માત_N_NN કરેલ_V_VAUX હોય_V_VAUX તેઓ_PR_PRP જાણતા_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=32>તેઓને_PR_PRP રીક્ષાના_N_NN નંબર_N_NN ખબર_N_NN નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=33>પોલીસે_N_NN તેઓનું_PR_PRP નીવેદન_N_NN લીધેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=34>સાહેદને_N_NN ફરીયાદપક્ષે_N_NN વિ.એ.પી.પી.શ્રીનાઓએ_N_NN ફરી_RB ગયેલ_V_VAUX જાહેર_V_VM કરેલ_V_VAUX હોવા_V_VAUX છતા_CC_CCD તેઓ_PR_PRP નીવેદનની_N_NN હકીકતને_N_NN સમર્થન_N_NN કરતા_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=35>એ_DM_DMD વાતનો_N_NN ઈન્કાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC તા._N_NN ૯_QT_QTC/_RD_PUNC૩_QT_QTC/_RD_PUNC૧૬ના_QT_QTC રોજ_N_NN તેઓ_PR_PRP ગેસ_N_NN પુરવાનું_V_VAUX કામ_N_NN કરતા_V_VAUX હતા_V_VAUX ત્યારે_N_NST રીક્ષા_N_NN નં._N_NN જી. જે._N_NN ૩_QT_QTC એ._N_NN ડબલ્યુ_N_NN ૪૩૦ના_QT_QTC ચાલક_N_NN ગેસ_N_NN પુરાવવા_V_VAUX માટે_PSP ઉભા_JJ હતા_V_VAUX ત્યારે_N_NST કાર_N_NN નં._N_NN જી.જે._N_NN ૩_QT_QTC બી.એ._N_NN ૬૪ર૭ના_QT_QTC ચાલકે_N_NN પોતાની_PR_PRP કાર_N_NN પુરઝડપે_RB રીવર્સ_N_NN લઈ_V_VM હડફેટે_N_NN લેતા_V_VM રીક્ષાવાળા_N_NN નીચે_N_NST પડી_V_VAUX ગયેલ_V_VAUX જેનું_PR_PRL નામ_N_NN પુનાભાઈ_N_NNP કોળી_N_NNP હોવાનું_V_VAUX જાણવા_V_VAUX મળેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=36>જેને_PR_PRP પગે_N_NN ઈજા_N_NN થઈ_V_VM._RD_PUNC </Sentence>
+
+<Sentence id=37>એ_DM_DMD વાતનો_N_NN ઈન્કાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC બનાવ_N_NN તેઓએ_PR_PRP નજરે_JJ જોયો_V_VAUX અને_CC_CCD ખોટી_JJ જુબાની_N_NN આપે_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=38>આ_DM_DMD કામે_N_NN ફરીયાદપક્ષના_N_NN પુરાવાનું_N_NN મુલ્યાંકન_N_NN કરતા_V_VAUX ફરીયાદપક્ષે_N_NN ફરીયાદી_N_NN પુનાભાઈ_N_NNP ભીખાભાઈ_N_NNP રાણેતરાએ_N_NNP આંક_N_NN -_RD_PUNC ૩૫ની_QT_QTC જુબાનીમાં_N_NN એવું_PR_PRL જણાવેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC તેઓ_PR_PRP રાજકોટ_N_NNP મુકામે_N_NN રહે_V_VAUX છે_V_VAUX અને_CC_CCD ડ્રાઈવીંગ_N_NN કરી_V_VM તેઓના_PR_PRP પરીવારનું_N_NN ગુજરાન_N_NN ચલાવે_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=39>તા._N_NN ૯_QT_QTC/_RD_PUNC૩_QT_QTC/_RD_PUNC૧૬ના_QT_QTC રોજ_N_NN સી.એન.જી_N_NN ઓટો_N_NN રીક્ષા_N_NN લઈને_V_VM ગેસ_N_NN પુરાવવા_V_VAUX લાઈનમા_N_NN ઉભેલ_V_VAUX હતા_V_VAUX ત્યારે_N_NST એક_QT_QTC ફોર_QT_QTC વ્હીલ_N_NN ચાલકે_N_NN ગાડી_N_NN રીવર્સમા_N_NN લેતી_V_VM વખતે_PSP અકસ્માત_N_NN કરેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=40>જેથી_RP_RPD તેઓને_PR_PRP જમણા_JJ પગમા_N_NN ભટકાતા_V_VAUX ઈજા_N_NN કરેલી_V_VAUX અને_CC_CCD તેઓ_PR_PRP ત્યાં_N_NST પડી_V_VAUX ગયેલા_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=41>સી.એન.જી_N_NN પંપમા_N_NN કામ_N_NN કરતા_V_VAUX માણસોએ_N_NN ૧૦૮ને_QT_QTC ફોન_N_NN કરતા_V_VAUX ૧૦૮મા_QT_QTC સરકારી_JJ હોસ્પીટલમા_N_NN સારવર_N_NN માટે_PSP તેઓને_PR_PRP લઈ_V_VM ગયેલા_V_VAUX અને_CC_CCD આ_DM_DMD અકસ્માતની_N_NN જાણ_V_VAUX તેઓના_PR_PRP સગા_JJ ભાઈના_N_NN દીકરા_N_NN પરેશભાઈને_N_NNP થતા_V_VAUX પરેશભાઈ_N_NNP તથા_CC_CCD તેઓના_PR_PRP ભાણેજ_N_NN મનસુખભાઈ_N_NNP ત્યાં_N_NST આવી_V_VM ગયેલા_V_VAUX અને_CC_CCD અફરમાતમાં_N_NN જમણા_JJ પગમા_N_NN ઘુંદીળા_N_NN ભાગે_N_NN ઈજા_N_NN ઘતા_V_VAUX ફેકચર_N_NN થયેલ_V_VAUX અને_CC_CCD બે_QT_QTC ત્રણ_QT_QTC દીવસ_N_NN સુધી_RP_RPD અંદરના_N_NST દર્દી_N_NN તરીકે_PSP તેઓની_PR_PRP સારવાર_N_NN લીધેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=42>ત્યારબાદ_N_NST તેઓએ_PR_PRP અકસ્માત_N_NN કરનાર_V_VAUX ચાલક_N_NN વિરુધ્ધ_N_NN ફરીયાદ_N_NN આપેલી_V_VAUX તેઓને_PR_PRP ફરીયાદની_N_NN ખરી_JJ નકલ_N_NN બતાવવામા_V_VAUX આવે_V_VM છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=43>જેમા_PR_PRL તેઓના_PR_PRP અંગુઠાનું_N_NN નીશાન_N_NN છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=44>અને_CC_CCD આંક_N_NN -_RD_PUNC ૩૬થી_QT_QTC ફરીયાદ_N_NN રજુ_V_VM છે_V_VAUX._RD_PUNC</Sentence> 
+
+<Sentence id=45>સદર_N_NN ફરીયાદીને_N_NN ફરીયાદપક્ષે_N_NN વિ.એ.પી.પી.શ્રીનાઓએ_N_NN ફરી_RB ગયેલ_V_VAUX જાહેર_V_VM કરેલ_V_VAUX હોવા_V_VAUX છતા_CC_CCD તેઓ_PR_PRP ફરીયાદની_N_NN હકીકતને_N_NN સમર્થન_N_NN કરતા_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=46>એ_DM_DMD વાતનો_N_NN ઈન્કાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC તા._N_NN ૯_QT_QTC/_RD_PUNC૩_QT_QTC/_RD_PUNC૧૬ના_QT_QT\ રીક્ષા_N_NN લઈને_V_VM સી.એન.જી_N_NN પેટ્રોલપંપ_N_NN પાસે_PSP રીક્ષામા_N_NN ગેસ_N_NN પુરાવવા_V_VAUX માટે_PSP કલાઈનમા_N_NN ઉભેલ_V_VAUX હતા_V_VAUX ત્યારે_N_NST એક_QT_QTC ફોર_QT_QTC વ્હીલ_N_NN કાર_N_NN જેના_PR_PRL નં._N_NN જી.જે._N_NN ૩_QT_QTC બી.એ._N_NN ૬૪ર૭_QT_QTC વાળાને_N_NN બેફીકરાઈથી_N_NN અને_CC_CCD ગફલતભરી_N_NN રીતે_RB રીવર્સમા_N_NN લેતા_V_VM તેઓની_PR_PRP સાથે_PSP અકસ્માત_N_NN કરેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=47> એ_DM_DMD વાતનો_N_NN ઈન્કાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS આરોપી_N_NN સાથે_PSP સમાધાન_N_NN થઈ_V_VM જવાથી_V_VAUX ખોટી_JJ જુબાની_N_NN આપે_V_VM છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=48>ઉલટતપાસ_N_NN બચાવપક્ષના_N_NN વિ.વ.શ્રી_JJ એ.બી.સોલંકીનાઓએ_N_NNP કરેલ_V_VAUX તેમા_RP_RPD તેઓએ_PR_PRP એ_DM_DMD વાતનો_N_NN સ્વીકાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC વાહન_N_NN કોણ_PR_PRQ ચલાવતુ_V_VAUX હતુ_V_VAUX તેની_PR_PRL તેઓને_PR_PRP ખબર_N_NN નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=49>એ_DM_DMD વાતનો_N_NN સ્વીકાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC કયુ_PR_PRQ વાહન_N_NN હતુ_V_VAUX તેના_PE_PRL શું_PR_PRQ નંબર_N_NN હતા_V_VAUX તેની_PR_PRL તેઓને_PR_PRP ખબર_N_NN નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=50>એ_DM_DMD વાતનો_N_NN સ્વીકાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC પોલીસે_N_NN માત્ર_JJ તેઓનું_PR_PRP નામ_N_NN સરનામુ_N_NN પુછી_V_VM સહી_N_NN કરવાનું_V_VAUX કહેતા_V_VAUX તેઓએ_PR_PRP સહી_N_NN કરેલી_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=51>એ_DM_DMD વાતનો_N_NN સ્વીકાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC તેઓ_PR_PRP રીક્ષામાથી_N_NN ઉતરી_V_VM ઉભેલ_V_VAUX હતા_V_VAUX ત્યારે_N_NST અસ્માત_N_NN થયેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=52>એ_DM_DMD વાતનો_N_NN સ્વીકાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC આ_DM_DMD અકસ્માતમા_N_NN રીક્ષાને_N_NN કોઈ_DM_DMI નુકશાન_N_NN થયેલ_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=53>આ_DM_DMD કામે_N_NN આંક_N_NN -_RD_PUNC ૩૭થી_QT_QTC સ્થાનીક_JJ જગ્યાનું_N_NN પંચનામું_N_NN તથા_CC_CCD આંક_N_NN -_RD_PUNC૩૮થી_QT_QTC ઈન્જરી_N_NN સર્ટીફીકેટ_N_NN રજૂ_V_VM કરેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=54>તે_PR_PRL બાબતે_N_NN ફરીયાદપક્ષે_N_NN કોઈ_DM_DMI આધારભૂત_JJ પુરાવો_N_NN રજૂ_V_VM કરી_V_VM શકેલ_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=55>તેથી_RP_RPD તે_PR_PRL પૂરવાર_JJ થયેલ_V_VAUX માની_V_VM શકાય_V_VAUX તેમ_PR_PRL નહીં_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=56>આ_DM_DMD કામે_N_NN રજુ_V_VM થયેલ_V_VAUX મૌખીક_JJ તથા_CC_CCD દસ્તાવેજી_JJ પુરાવાને_N_NN એકીસાથે_RB વંચાણે_N_NN લેતાં_V_VM હાલના_N_NST કેસમાં_N_NN ફરીયાદપક્ષ_N_NN આરોપીઓ_N_NN વ્રિઘ્ધનો_N_NN કેસ_N_NN આગળ_N_NST ચલાવવા_V_VAUX માંગતા_V_VAUX નથી_RP_NEG તેવું_RP_RPD જાહેર_V_VM કરેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=57>વધુમાં_QT_QTF આંક_N_NN -_RD_PUNC ૩૯થી_QT_QTC ફરીયાદી_N_NN પુનાભાઇ_N_NNP
+ભીખાભાઈ_N_NNP રાણેતરાનાઓએ_N_NNP કલોઝિંગ_JJ પુરસીસ_N_NN આપેલી_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=58>તે_PR_PRL જોતા_V_VAUX આરોપી_N_NN વિરુઘ્ધનું_N_NN તહોમતનામું_N_NN સાબિત_N_NN થયેલુ_V_VAUX માની_V_VM શકાય_V_VAUX નહી_RP_NEG તેથી_RP_RPD મુદા_N_NN ૧નો_QT_QTC જવાબ_N_NN નકારમાં_N_NN આપવામાં_V_VAUX આવે_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=59> (_RD_PUNC૯_QT_QTC)_RD_PUNC મુદા_N_NN નં._N_NN ર_QT_QTC :_RD_PUNC-_RD_PUNC આમ_RP_RPD ઉપરોકત_RP_RPD રજુ_V_VM થયેલ_V_VAUX રેકર્ડ_N_NN પરના_PSP મૌખીક_JJ પુરાવાને_N_NN વંચાણે_N_NN લેતા_V_VM ફરીયાદી_N_NN ફરી_RB ગયેલ_V_VAUX જાહેર_V_VM થયેલા_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=60> વધુમા_QT_QTF આ_DM_DMD કામે_N_NN રજુ_V_VM થયેલ_V_VAUX દસ્તાવેજી_JJ
+પુરાવાઓને_N_NN સદર_N_NN મૌખીક_JJ પુરાવા_N_NN અનુસંધાને_N_NN વંચાણે_N_NN લેતા_V_VM આ_DM_DMD કામે_N_NN ફરીયાદીનાઓએ_N_NN તેઓની_PR_PRP જુબાનીમા_N_NN જણાવેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC તા._N_NN ૯_QT_QTC/_RD_PUNC૩_QT_QTC/_RD_PUNC૧૬ના_QT_QT રોજ_N_NN સી.એન.જી_N_NN ઓટો_N_NN રીક્ષા_N_NN લઈને_V_VM ગેસ_N_NN પુરાવવા_V_VAUX લાઈનમા_N_NN ઉભેલ_V_VAUX હતા_V_VAUX ત્યારે_N_NST એક_QT_QTC ફોર_QT_QTC વ્હીલ_N_NN ચાલકે_N_NN ગાડી_N_NN રીવર્સમા_N_NN લેતી_V_VM વખતે_PSP અકસ્માત_N_NN કરેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=61>જેથી_RP_RPD તેઓને_PR_PRP જમણ।_JJ પગમા_N_NN ભટકાતા_V_VAUX ઈજા_N_NN કરેલી_V_VAUX અને_CC_CCD તેઓ_PR_PRP ત્યાં_N_NST પડી_V_VAUX ગયેલા_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=62>વધુમાં_QT_QTF તેઓએ_PR_PRP પોતાની_PR_PRP ઉલટતપાસમા_N_NN એ_DM_DMD વાતનો_N_NN સ્વીકાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC વાહન_N_NN કોણ_PR_PRQ ચલાવતુ_V_VAUX હતુ_V_VAUX તથા_CC_CCD કયુ_PR_PRQ વાહન_N_NN હતુ_V_VAUX તેના_PR_PRL શું_PR_PRQ નંબર_N_NN હતા_V_VAUX તેની_PR_PRL તેઓને_PR_PRP ખબર_N_NN નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=63>તે_PR_PRL સંજોગોમા_N_NN રજુ_V_VM થયેલ_V_VAUX રેકર્ડ_N_NN પરના_PSP સમગ્ર_JJ પુરાવાને_N_NN ઘ્યાને_N_NN લેતા_V_VM તેનાથી_PR_PRP આરોપી_N_NN વિરુઘ્ધનું_N_NN તહોમત_N_NN પુરવાર_N_NN કરવામા_V_VAUX સરીયામ_JJ નિષ્ફળ_JJ ગયેલ_V_VAUX છે_V_VAUX તે_N_NN ઠરાવી_V_VM મુદા_N_NN નં._N_NN ૧નો_QT_QTC નિર્ણય_N_NN '_RD_PUNCનકાર_N_NN'_RD_PUNC ઠરાવી_V_VM નીચે_N_NST મુજબનો_PSP આખરી_JJ ઠુકમ_N_NN કરુ_V_VM છુ_V_VAUX._RD_PUNC</Sentence>
+
+
+
+<Sentence id=64> (_RD_PUNC૧_QT_QTC)_RD_PUNC ક્રિમીનલ_N_NN પ્રોસીજર_N_NN કોડની_N_NN કલમ_N_NN -_RD_PUNC ર૪૮_QT_QTC(_RD_PUNC૧_QT_QTC)_RD_PUNC મુજબ_PSP આરોપી_N_NN ભાવેશભાઈ_N_NNP હરસુખભાઈ_N_NNP ગોરીયા_N_NNP,_RD_PUNC ઉ.વ._N_NN ર૬_QT_QTC,_RD_PUNC રહે_N_NN ૧૫૦_QT_QTC રીંગ_N_NN રોડ_N_NN આકાશદીપ_N_NNP સોસાયટી_N_NN રાધે_N_NNP ચોકડી_N_NN પાસે_PSP રાજકોટનાઓને_N_NNP  તેઓની_PR_PRP વિરુઘ્ધના_N_NN ભારતીય_JJ દંડ_N_NN સહિતાની_N_NN કલમ_N_NN -_RD_PUNC ર૭૯_QT_QTC,_RD_PUNC ૩૩૭_QT_QTC,_RD_PUNC ૩૩૮_QT_QTC તથા_CC_CCD એમ.વી._N_NN એકટ_N_NN કલમ_N_NN ૧૭૭_QT_QTC,_RD_PUNC ૧૮૪_QT_QTC,_RD_PUNC ૧૩૪ના_QT_QTC ગુન્હાના_N_NN તહોમતમાંથી_N_NN નિર્દોષ_JJ ઠરાવી_V_VM છોડી_V_VM મુકવાનો_V_VAUX હુકમ_N_NN કરવામા_V_VAUX આવે_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=65> (_RD_PUNC૨_QT_QTC)_RD_PUNC આ_DM_DMD કામના_N_NN પક્ષકારોને_N_NN ઘરમેળે_JJ સમાધાન_N_NN થઈ_V_VM જતા_V_VAUX આ_DM_DMD કામના_N_NN આરોપીને_N_NN ઈ.પી.કો_N_NN કલમ_N_NN ૩ર૭_QT_QTC,_RD_PUNC ૩૩૮_QT_QTC અન્વયેના_N_NN શિક્ષાપાત્ર_JJ ગુનામાથી_N_NN ક્રિ.પો._N_NN કોડની_N_NN કલમ_N_NN-_RD_PUNC ૩ર૦_QT_QTC (_RD_PUNC૧_QT_QTC)_RD_PUNC (_RD_PUNC૮_QT_QTC)_RD_PUNC નિર્દોષ_JJ ઠરાવી_V_VM છોડી_V_VM મુકવામા_V_VAUX આવેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=66> (_RD_PUNC૩_QT_QTC)_RD_PUNC ક્રિ.પ્રો_N_NN-_RD_PUNCકોડની_N_NN કલમ_N_NN -_RD_PUNC ૧૯૭૩ની_QT_QTC કલમ_N_NN ૪૩૭_QT_QTC(_RD_PUNCએ_N_NN)_RD_PUNC મુજબ_PSP આરોપીના_N_NN જામીનખત_N_NN અપીલ_N_NN પીરીયડ_N_NN સુધી_RP_RPD ચાલુ_V_VM રાખવાનો_V_VAUX હુકમ_N_NN કરવામા_V_VAUX આવે_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=67>આરોપીના_N_NN ખત_N_NN તથા_CC_CCD જામીન_N_NN ખત_N_NN અપીલ_N_NN સમય_N_NN પુરો_RB થયે_V_VAUX રદ_N_NN ગણવા_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=68>હુકમ_N_NN આજ_N_NST રોજ_N_NN ખુલ્લી_JJ અદાલતમાં_N_NN વાંચી_V_VM -_RD_PUNC સંભળાવી_V_VAUX જાહેર_V_VM કર્યો_V_VAUX._RD_PUNC</Sentence>
+
+
+<Sentence id=69>રાજકોટ_N_NNP (_RD_PUNCમહેશ_N_NNP જયંતીદાન_N_NNP ગઢવી_N_NNP)_RD_PUNC
+તારીખ_N_NN :_RD_PUNCર_QT_QTC/_RD_PUNC૦૪_QT_QTC/_RD_PUNCર૦ર૦_QT_QTC જ્યુડી_N_NN,_RD_PUNCમેજી.ફ.ક_N_NN,_RD_PUNC (_RD_PUNCટ્રાફીક_N_NN)_RD_PUNC
+રાજકોટ_N_NNP._RD_PUNC</Sentence>
+

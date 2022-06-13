@@ -1,0 +1,201 @@
+<Corpora type="Monolingual-POS-TAGGED" Language="Gujarati">
+
+<Sentence id=1> દાખલ_N_NN તારીખ_N_NN ૦૫_QT_QTC/_RD_PUNC૧૦_QT_QTC/_RD_PUNCર૦૧૭_QT_QTC._RD_PUNC</Sentence>
+
+<Sentence id=2>રજીસ્ટરે_N_NN લીધા_V_VAUX તારીખ_N_NN ૦૫_QT_QTC/_RD_PUNC૧૦_QT_QTC/_RD_PUNCર૦૧૭_QT_QTC._RD_PUNC</Sentence>
+
+<Sentence id=3>ફેસલ_N_NN કર્યા_V_VM તારીખ_N_NN ૧૧_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNCર૦૧૮_QT_QTC._RD_PUNC</Sentence>
+
+<Sentence id=4>સમયગાળો_N_NN વર્ષ_N_NN -_RD_PUNC માસ_N_NN -_RD_PUNC દીવસ_N_NN ૦૦_QT_QTC-_RD_PUNC૧૧_QT_QTC-_RD_PUNC૦૬_QT_QTC._RD_PUNC</Sentence>
+
+<Sentence id=5>સાતમાં_QT_QTC એડીશનલ_N_NN જ્યુડીશીયલ_N_NN મેજીસ્ટ્રેટ_N_NN ફર્સ્ટ_QT_QTO કલાસ_N_NN કોર્ટ_N_NN,_RD_PUNC રાજકોટ_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=6>ફો.કે.નં._N_NN ૧૦૦૧૭_QT_QTC/_RD_PUNCર૦૧૭_QT_QTC._RD_PUNC </Sentence>
+
+<Sentence id=7>
+શ્રી_JJ સરકાર_N_NN
+(_RD_PUNCમાલવીયા_N_NNP નગર_N_NN પો.સ્ટે._N_NN
+પોહી.ગુ.રજી.નં._N_NN૩ર_QT_QTC/_RD_PUNC૧૭_QT_QTC)_RD_PUNC ર_QT_QTC ..........._RD_PUNC </Sentence>
+
+<Sentence id=8>ફરીયાદી_JJ વિરૂઘ્ધ_N_NN
+મનોજભાઈ_N_NNP દેવજીભાઈ_N_NNP સોલંકી_N_NNP,_RD_PUNC
+ ર૦_QT_QTC,_RD_PUNC રહે_N_NN:_RD_PUNC ગોકુલનગર_N_NNP ૬_QT_QTC,_RD_PUNC
+ગોકુલધામ_N_NNP રોડ_N_NN,_RD_PUNC
+રાજજોટ_N_NNP“_RD_PUNCઇન_N_NN રર_QT_QTC “_RD_PUNC,,,_RD_PUNC..........._RD_PUNC આરોપી_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=9>ગુન્હો_N_NN :_RD_PUNC-_RD_PUNC ગુજરાત_N_NNP પ્રોહીબીશન_N_NN એકટ_N_NN,_RD_PUNC ૧૯૪૯ની_QT_QTC કલમ_N_NN ૬૫_QT_QTC (_RD_PUNCએ_N_NN)_RD_PUNC મુજબ_PSP._RD_PUNC</Sentence>
+
+<Sentence id=10>સરકાર_N_NN શ્રી_JJ તરફે_PSP :_RD_PUNC-_RD_PUNC વિએપીપી_N_NN શ્રી_JJ._RD_PUNC</Sentence>
+
+<Sentence id=11>આરોપી_N_NN તરફે_PSP :_RD_PUNC-_RD_PUNC વિવશ્રી_JJ કેજે_N_NNP જાડેજા_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=12> ચુકાદો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=13>ફરીયાદ_N_NN પક્ષના_N_NN  કેસની_N_NN ટુકમાં_JJ હકિકત_N_NN એવી_RP_RPD છે_V_VAUX કે_CC_CCS,_RD_PUNC આ_DM_DMD કામના_N_NN ફરીયાદી_JJ માલવીયા_N_NNP નગર_N_NN પો.સ્ટે.ના_N_NN સ્ટાફ_N_NN સાથે_PSP તા._N_NN ૦ર૨_QT_QTC/_RD_PUNC૦૪_QT_QTC/_RD_PUNCર૦૧૭ના_QT_QTC રોજ_N_NN કલાક_N_NN ૦૮_QT_QTC/_RD_PUNC૦૦_QT_QTC વાગ્યાના_V_VM સુમારે_N_NN પો.સ્ટે._N_NN વિસ્તારમાં_N_NN પેટઢોલીંગમાં_V_VAUX હતા_V_VAUX તે_PR_PRL દરમ્યાન_PSP ફરતા_V_VM ફરતા_V_VM કલાક_N_NN ૯_QT_QTC/_RD_PUNC૧૫_QT_QTC વાગ્યે_V_VM આંબેડકર_N_NNP નગર_N_NN,_RD_PUNC શેરી_N_NN નં_N_NN ૧૪ના_QT_QTC  ખુણા_N_NN પાસે_PSP આવતા_V_VAUX એક_QT_QTC ભાઈના_N_NN હાથમાં_N_NN કેન_N_NN સાથે_PSP જોવામાં_V_VAUX આવતા_V_VAUX શંકા_N_NN જતા_V_VM તેને_PR_PRP રોકતા_V_VAUX તે_PR_PRP ભાગવા_V_VM જતા_V_VM તેને_PR_PRP પકડી_V_VAUX અને_CC_CCD બે_QT_QTC રાહદારી_JJ પંચોને_N_NN બોલાવી_V_VAUX તેઓની_PR_PRP હાજરીમાં_N_NN આ_PR_PRP ઈસમને_N_NN પોતાનું_PR_PRP નામ_N_NN ઠામ_N_NN પુછતા_V_VAUX આ_PR_PRP ઈસમે_N_NN પોતાનુ_PR_PRP નામ_N_NN મનોજ_N_NNP દેવજીભાઈ_N_NNP સોલંકી_N_NNP,_RD_PUNC જાતે_N_NN,_RD_PUNC વણકર_N_NN,_RD_PUNC રે._N_NN ગોકુલનગર_N_NNP ૬_QT_QTC,_RD_PUNC રાજકોટ_N_NNP વાળા_N_NN હોવાનુ_V_VAUX જણાવેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=14>મજકુરના_N_NN હાથમાંથી_N_NN પ્લાસ્ટીકનું_N_NN કેન_N_NN લઈ_V_VM તેનું_PR_PRL ઢાકણું_N_NN ખોલી_V_VM જોતાં_V_VAUX આ_DM_DMD પ_QT_QTC લીટરના_N_NN કેનમાં_N_NN આશરે_RP_INTF ૪_QT_QTC લીટર_N_NN સફેદ_JJ પ્રવાહી_N_NN ભરેલું_V_VAUX હોય_V_VAUX જે_PR_PRL સુંધી_V_VAUX સુંધાડી_V_VAUX જોતા_V_VAUX તેમાંથી_RP_RPD દેશી_JJ દારૂની_N_NN વાસ_N_NN આવતી_V_VAUX હોય_V_VAUX જેથી_CC_CCD તેની_PR_PRP પાસે_PSP આ_DM_DMD દેશી_JJ દારૂ_N_NN વેચાણ_N_NN અર્થે_PSP કબ્જામાં_N_NN રાખવા_V_VAUX બાબતે_N_NN કોઈ_DM_DMI પાસ_N_NN-_RD_PUNCપરમીટ_N_NN કે_CC_CCS આધાર_N_NN હોય_V_VAUX તો_RP_RPD રજુ_N_NN કરવાનુ_V_VAUX કહેતા_V_VAUX નહી_RP_NEG હોવાનુ_V_VAUX જણાવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=15>જેથી_CC_CCD આ_DM_DMD દેશી_JJ દારૂમાંથી_N_NN ર૦૦_QT_QTC એમ.એલ._N_NN દેશી_JJ દારૂ_N_NN સેમ્પલ_N_NN માટે_PSP કાચની_JJ બોટલમાં_N_NN ભરી_V_VAUX સદરહુ_N_NN દેશી_JJ દારૂ_N_NN ૪_QT_QTC લીટર_N_NN કિં.રૂ._N_NN ૮૦_QT_QTC/_RD_PUNC-_RD_PUNC ગણી_V_VAUX તથા_CC_CCD બોટલની_N_NN કિં_N_NN ર૦૦_QT_QTC/_RD_PUNC૦૦_QT_QTC ગણી_V_VAUX પંચોની_N_NN સહીવાળી_N_NN સ્લીપો_N_NN મુકી_V_VAUX, આરોપીએ_N_NN ગુજરાત_N_NNP પોહી_N_NN એકટની_N_NN ક_N_NN ૬૫_QT_QTC(_RD_PUNCએ_N_NN)_RD_PUNC  મુજબ_PSP ગુન્‍હો_N_NN કરેલ_V_VAUX હોય_V_VAUX જેથી_CC_CCD આરોપી_N_NN સામે_PSP માલવીયા_N_NNP નગર_N_NN પોસ્ટેમાં_N_NN  ફરિયાદ_N_NN આપતા_V_VAUX પોહી_N_NN ગુરજી_N_NN ૩ર_QT_QTC/_RD_PUNC૧૭થી_QT_QTC ગુન્હો_N_NN દાખલ_N_NN થયેલ_V_VAUX અને_CC_CCD તપાસના_N_NN અંતે_JJ તેઓ_PR_PRP સામે_PSP પુરતો_JJ પુરાવો_N_NN હોવાથી_V_VAUX તેઓ_PR_PRP સામે_PSP હાલનુ_N_NST ચાર્જશિટ_N_NN કરવામાં_V_VAUX આવતા_V_VAUX તેને_PR_PRP ફોજદારી_N_NN કેસ_N_NN રજીસ્ટરે_N_NN લઈ_V_VM ૧૦૦૧૭_QT_QTC/_RD_PUNCર૦૧૭થી_QT_QTC  નોંધવામા_V_VAUX આવેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=16>આરોપી_N_NN સામે_PSP ચાર્જશીટ_N_NN દાખલ_N_NN થતા_V_VAUX ઉપરોકત_RP_RPD ગુનાનુ_N_NN સંજ્ઞાન_N_NN લઈ_V_VM સમન્સ_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=17>જે_PR_PRL સમન્સ_N_NN આરોપીને_N_NN  આરોપી_N_NN તેઓના_PR_PRP વકીલ_N_NN સાથે_PSP હાજર_N_NN થયેલ_V_VAUX હતા_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=18>ત્યારબાદ_N_NST કીપ્રો_N_NN કોડની_N_NN કલમ_N_NN -_RD_PUNCર૦૭_QT_QTC મુજબ_PSP આરોપી_N_NN ચાર્જશિટ_N_NN પેપર્સની_N_NN નકલો_N_NN વીનામુલ્યે_JJ આપવામાં_V_VAUX આવેલ_V_VAUX અને_CC_CCD ત્યારબાદ_N_NST આરોપી_N_NN સામે_PSP ચાર્જફેમ_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX જેમા_PR_PRL આરોપીએ_N_NN પોતાનો_PR_PRP ગુનો_N_NN કબુલ_N_NN કરવાની_V_VAUX સ્પષ્ટ_RB ઈન્કાર_N_NN કરેલ_V_VAUX અને_CC_CCD આ_DM_DMD કેસ_N_NN આગળ_N_NST ચલાવવો_V_VAUX છે_V_VAUX તેમ_PSP જણાવતા_V_VAUX કેસની_N_NN આગળની_N_NST ઈન્સાફી_JJ કાર્યવાહી_N_NN ચલાવવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=19>ફરીયાદ_N_NN પક્ષે_N_NN નીચે_N_NST મુજબનો_PSP મૈ।ખીક_JJ તથા_CC_CCD દસ્તાવેજી_JJ પુરાવો_N_NN રજુ_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=20>મૌખીક_JJ પુરાવો_N_NN._RD_PUNC </Sentence>
+
+<Sentence id=21>૧_QT_QTC પંચ_N_NN સાહેદ_N_NN ભરત_N_NNP કરશન_N_NNP પોકરની_N_NNP જુબાની_N_NN ૯_QT_QTC પંચ_N_NN સાહેદ_N_NN અણદુભા_N_NNP બાલુભા_N_NNP ઝાલાની_N_NNP જુબાની_N_NN ૧૧_QT_QTC._RD_PUNC</Sentence>
+
+<Sentence id=22>૩_QT_QTC ફરિયાદી_N_NN તથા_CC_CCD તક_N_NN અધિકારી_N_NN વેલુભા_N_NNP પંચાણસીંહ_N_NNP |_RD_PUNC ૧ર_QT_QTC ઝાલાની_N_NNP જુબાની_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=23>દસ્તાવેજી_JJ પુરાવો_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=24>ક્રમ_N_NN વીગત_N_NN આંક_N_NN ૧_QT_QTC સ્થાનીક_JJ જગ્યાનું_N_NN પંચનામું_N_NN ૧૦_QT_QTC ફરિયાદ_N_NN ૧૩_QT_QTC._RD_PUNC</Sentence>
+
+<Sentence id=25>૩_QT_QTC એફએસ એલનો_N_NN રીપોર્ટ_N_NN ૧૭_QT_QTC._RD_PUNC</Sentence>
+
+<Sentence id=26>આ_DM_DMD કામે_N_NN ફરિયાદ_N_NN પક્ષના_N_NN સાહેદ_N_NN દૂરા_N_NN તેઓની_PR_PRP સમગ્ર_QT_QTF જુબાનીમાં_N_NN એફએસએલ_N_NN રીપોર્ટને_N_NN આંક_N_NN આપવા_V_VAUX કોઈ_DM_DMI માંગણી_N_NN કરેલ_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=27>પરંતુ_CC_CCD પ્રોહીબીશન_N_NN એકટ_N_NN,_RD_PUNC ૧૯૪૯ની_QT_QTC કલમ_N_NN ૧ર૯_QT_QTC-_RD_PUNCબી_N_NN મુજબ_PSP આવા_RP_RPD રીપોર્ટને_N_NN આંક_N_NN આપી_V_VM વંચાણે_N_NN લઈ_V_VM શકાય_V_VAUX અને_CC_CCD તેના_PR_PRL માટે_PSP રીપોર્ટ_N_NN આપનાર_V_VAUX એફએસએલના_N_NN અધિકારીને_N_NN તપાસવાની_V_VAUX કોઈ_DM_DMI જરૂરીયાત_N_NN રહેતી_V_VM નથી_RP_NEG._RD_PUNC</Sentence> 
+
+<Sentence id=28>આ_DM_DMD રીપોટને_N_NN આંક_N_NN આપવા_V_VAUX સામે_PSP આરોપીના_N_NN વિવશ્રીને_N_NN કોઈ_DM_DMI વાંધો_N_NN ન_RP_NEG હોય_V_VAUX તેઓએ_PR_PRP આ_DM_DMD મતલબનો_N_NN શેરો_N_NN મારેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=29>તેથી_CC_CCD આ_DM_DMD રીપોર્ટને_N_NN આંક_N_NN ૧૭_QT_QTC આપવામાં_V_VAUX આવેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=30>આ_DM_DMD કામે_N_NN ફરીયાદ_N_NN પક્ષનો_N_NN પુરાવો_N_NN પુરો_RB થતા_V_VAUX આરોપી_N_NN સામે_PSP રેકર્ડ_N_NN પર_PSP આવેલ_V_VAUX પુરાવા_N_NN અંગે_PSP ખુલાસો_N_NN કરવા_V_VAUX તક_N_NN મળી_V_VM રહે_V_VAUX તે_PR_PRL માટે_PSP આરોપીનુ_N_NN કીપો_N_NN કોડની_N_NN કલમ_N_NN ૩૧૩_QT_QTC મુજબનું_PSP નિવેદન_N_NN નોંધવામાં_V_VAUX આવેલુ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=31>જેમા_PR_PRL આરોપીએ_N_NN તેઓ_PR_PRP સામે_PSP ખોટો_JJ કેસ_N_NN કરેલ_V_VAUX હોવાનુ_V_VAUX અને_CC_CCD પોતે_PR_PRP નિર્દોષ_JJ હોવાનુ_V_VAUX જણાવેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=32>ત્યારબાદ_N_NST ફરીયાદ_N_NN પક્ષ_N_NN દ્રારા_PSP રજુ_N_NN થયેલ_V_VAUX પુરાવો_N_NN વંચાણે_N_NN લીધો_V_VAUX અને_CC_CCD વિએપીપી_N_NN શ્રી_JJ અને_CC_CCD આરોપીના_N_NN વિવશ્રી_JJ કેજેજાડેજાની_N_NNP દલીલો_N_NN સાંભળવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=33>આ_DM_DMD કેસની_N_NN હકીકતો_N_NN,_RD_PUNC સંજોગા_N_NN રેકર્ડ_N_NN ઉપરના_N_NST પુરાવાઓ_N_NN અને_CC_CCD કાયદાની_N_NN સંલગ્ન_JJ જોગવાઈઓ_N_NN તેમજ_CC_CCD સાથે_PSP-_RD_PUNCસાથે_PSP આ_DM_DMD કેસ_N_NN બાબતે_N_NN કરવામા_V_VAUX આવેલ_V_VAUX દલીલો_N_NN ઘ્યાને_N_NN લેતા_V_VM અત્રેની_N_NST અદાલતના_N_NN નિર્ણય_N_NN માટે_PSP નિચે_N_NST મુજબના_PSP મુદદાઓ_N_NN ઉપસ્થીત_JJ થાય_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=34> (_RD_PUNC૧_QT_QTC)_RD_PUNC શું_PR_PRQ ફરીયાદ_N_NN પક્ષ_N_NN નિ:શંકપણે_JJ પુરવાર_N_NN કરે_V_VM છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=35>તા._N_NN ૦ર_QT_QTC/_RD_PUNC૦૪_QT_QTC/_RD_PUNCર૦૧૭ના_QT_QTC રોજ_N_NN કલાક_N_NN ૦૮_QT_QTC/_RD_PUNC૦૦_QT_QTC વાગ્યાના_V_VM સુમારે_N_NN પોસ્ટે_N_NN વિસતારમાં_N_NN પેઢોલીંગમાં_V_VAUX હતા_V_VAUX તે_PR_PRL દરમ્યાન_PSP ફરતા_V_VM ફરતા_V_VM કલાક_N_NN ૯_QT_QTC/_RD_PUNC૧૫_QT_QTC વાગ્યે_V_VM આંબેડકર_N_NNP નગર_N_NN,_RD_PUNC શેરી_N_NN નં_N_NN ૧૪ના_QT_QTC ખુણ।_N_NN પાસે_PSP આવતા_V_VAUX આરોપીના_N_NN હાથમાં_N_NN કેન_N_NN સાથે_PSP જોવામાં_V_VAUX આવતા_V_VAUX શંકા_N_NN જતા_V_VM તેને_PR_PRP રોકતા_V_VAUX તે_PR_PRP ભાગવા_V_VM જતા_V_VM તેને_PR_PRP પકડી_V_VAUX અને_CC_CCD બે_QT_QTC રાહદારી_JJ પંચોને_N_NN બોલાવી_V_VAUX તેઓની_PR_PRP હાજરીમાં_N_NN આરોપીને_N_NN પોતાનું_PR_PRP નામ_N_NN ઠામ_N_NN પુછતા_V_VAUX આરોપીએ_N_NN પોતાનુ_PR_PRP નામ_N_NN મનોજ_N_NNP દેવજીભાઈ_N_NNP સોલંકી_N_NNP,_RD_PUNC જાતે_N_NN,_RD_PUNC વણકર_N_NN,_RD_PUNC રે._N_NN ગોકુલનગર_N_NNP ૬_QT_QTC,_RD_PUNC રાજકોટ_N_NNP વાળા_N_NN હોવાનુ_V_VAUX જણાવેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=36>આરોપીના_N_NN હાથમાંથી_N_NN પ્લાસ્ટીકનું_N_NN કેન_N_NN લઈ_V_VM તેનું_PR_PRL ઢાકણું_N_NN ખોલી_V_VM જોતાં_V_VAUX આ_DM_DMD પ_QT_QTC લીટરના_N_NN કેનમાં_N_NN આશરે_RP_INTF ૪_QT_QTC લીટર_N_NN સફેદ_JJ પ્રવાહી_N_NN ભરેલું_V_VAUX હોય_V_VAUX જે_PR_PRL સુંધી_V_VAUX સુંધાડી_V_VAUX જોતા_V_VAUX તેમાંથી_RP_RPD દેશી_JJ દારૂની_N_NN વાસ_N_NN આવતી_V_VAUX હોય_V_VAUX જેથી_CC_CCD તેની_PR_PRP પાસે_PSP આ_DM_DMD દેશી_JJ દારૂ_N_NN વેચાણ_N_NN અર્થે_PSP કબ્જામાં_N_NN રાખવા_V_VAUX બાબતે_N_NN કોઈ_DM_DMI પાસ_N_NN-_RD_PUNCપરમીટ_N_NN કે_CC_CCS આધાર_N_NN હોય_V_VAUX તો_RP_RPD રજુ_N_NN કરવાનુ_V_VAUX કહેતા_V_VAUX નહી_RP_NEG હોવાનુ_V_VAUX જણાવેલ_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=37>જેથી_CC_CCD આરોપીએ_N_NN ગુજરાત_N_NNP પોહી_N_NN એકટની_N_NN  ૬૫_QT_QTC(_RD_PUNCએ_N_NN)_RD_PUNC મુજબ_PSP ગુન્હો_N_NN કરેલ_V_VAUX છે_V_VAUX?_RD_PUNC </Sentence>
+
+<Sentence id=38> (_RD_PUNCર_QT_QTC)_RD_PUNC શું_PR_PRQ હુકમ_N_NN?_RD_PUNC </Sentence>
+
+<Sentence id=39> (_RD_PUNC૬_QT_QTC)_RD_PUNC ઉપરોકત_RP_RPD મુદદાઓના_N_NN મારા_PR_PRP નિર્ણય_N_NN નીચે_N_NST મુજબ_PSP છે_V_VAUX._RD_PUNC </Sentence>
+<Sentence id=40>(_RD_PUNC૧_QT_QTC)_RD_PUNC નકારાત્મક_JJ._RD_PUNC </Sentence>
+
+<Sentence id=41> (_RD_PUNCર_QT_QTC)_RD_PUNC આખરી_JJ હુકમ_N_NN મુજબ_PSP._RD_PUNC </Sentence>
+
+<Sentence id=42> (_RD_PUNC૭_QT_QTC)_RD_PUNC ઉપરોકત_RP_RPD મુદાઓના_N_NN નિર્ણયના_N_NN મારા_PR_PRP કારણો_N_NN નીચે_N_NST મુજબ_PSP છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=43>મુદદાનં_N_NN૧_QT_QTC (_RD_PUNC૭.૧_QT_QTC)_RD_PUNC ફોજદારી_N_NN ન્યાયશાસ્ત્રના_N_NN પાયાના_N_NN સિઘ્ઘાંત_N_NN મુજબ_PSP ફરિયાદ_N_NN પક્ષ_N_NN દૂરા_PSP આરોપી_N_NN સામેના_PSP આક્ષેપોની_N_NN:_RD_PUNCશંકપણે_JJ પુરવાર_N_NN કરવાના_V_VAUX રહે_V_VAUX છે_V_VAUX અને_CC_CCD જ્યાં_N_NST સુધી_RP_RPD આરોપી_N_NN સામેના_PSP ગુન્હો_N_NN સાબીત_N_NN ન_RP_NEG થાય_V_VM ત્યા_N_NST સુધી_RP_RPD તે_PR_PRP નિર્દોષ_JJ છે_V_VAUX તે_PR_PRL રીતે_N_NN અનુમાન_N_NN કરવું_V_VM જોઈએ_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=44>આરોપી_N_NN સામેના_PSP આક્ષેપો_N_NN સાબીત_N_NN કરવા_V_VAUX માટે_PSP ફરિયાદ_N_NN પક્ષ_N_NN તરફથી_PSP સકારાત્મક_JJ પુરાવાઓથી_N_NN આરોપી_N_NN સામેના_PSP આક્ષેપો_N_NN સાબીત_N_NN કરવા_V_VAUX જોઈએ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=45> (_RD_PUNC૭.ર_QT_QTC)_RD_PUNC આ_DM_DMD કામે_N_NN ફરિયાદ_N_NN પક્ષ_N_NN દૂરા_PSP પોતાનો_PR_PRP કેસ_N_NN પુરવાર_N_NN કરવા_V_VAUX માટે_PSP આંક_N_NN ૯થી_QT_QTC  ફરીયાદ_N_NN પક્ષ_N_NN તરફે_PSP સાહેદ_N_NN ભરત_N_NNP કરશનભાઈ_N_NNP પોકરની_N_NNP જુબાનીમાં_N_NN જણાવેલ_V_VAUX કે_CC_CCS તેઓ_PR_PRP હોટલમાં_N_NN કામ_N_NN કરે_V_VM છે_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=46>પોલીસના_N_NN માણસો_N_NN અવારનવાર_PSP તૈયાર_V_VM લખેલ_V_VM પંચનામામાં_N_NN તેની_PR_PRP સહી_N_NN લઈ_V_VM જાય_V_VAUX છે_V_VAUX._RD_PUNC </Sentence> 
+
+<Sentence id=47>આ_DM_DMD સાહેદે_N_NN પંચનામામાં_N_NN પોતાની_PR_PRP સહી_N_NN ઓળખી_V_VAUX બતાવેલ_V_VAUX છે_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=48>જેથી_CC_CCD પંચનામાને_N_NN આંક_N_NN ૧૦_QT_QTC આપવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=49>સાહેદને_N_NN પંચનામાની_N_NN હકીકત_N_NN વાચી_V_VAUX સંભળાવતા_V_VAUX સાહેદ_N_NN પંચનામા_N_NN વિશે_PSP કાંઈ_DM_DMI જાણતા_V_VAUX ન_RP_NEG હોવાનુ_V_VAUX જણાવે_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=50>આ_DM_DMD સાહેદની_N_NN આરોપીના_N_NN વશ્રીએ_N_NN ઉલટ_PSP-_RD_PUNCતપાસ_N_NN કરતા_V_VM તેણે_PR_PRP એવું_RP_RPD કબુલેલ_V_VAUX છે_V_VAUX કે_CC_CCS પોલીસે_N_NN તૈયાર_V_VM લખેલા_V_VAUX કાગળમાં_N_NN સહી_N_NN કરવાનું_V_VAUX કહેતા_V_VAUX તેણે_PR_PRP માત્ર_JJ સહી_N_NN કરેલી_V_VM તે_PR_PRL સિવાય_RP_RPD બીજું_QT_QTC કંઈ_DM_DMI જાણતો_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=51> (_RD_PUNC૭.૩_QT_QTC)_RD_PUNC આ_DM_DMD કામે_N_NN ફરિયાદ_N_NN પક્ષના_N_NN સાહેદ_N_NN અણદુભા_N_NNP બાલુભા_N_NNP ઝાલાને_N_NNP આંક_N_NN ૧૧થી_QT_QTC તપાસેલ_V_VM છે_V_VAUX._RD_PUNC </Sentence> 
+
+<Sentence id=52>તેઓ_PR_PRP પોતાની_PR_PRP જુબાનીમાં_N_NN જણાવે_V_VAUX છે_V_VAUX કે_CC_CCS તેઓ_PR_PRP પોસ્ટેની_N_NN બાજુમાં_N_NST પાન_N_NN ખાવા_V_VAUX ગયેલ_V_VM ત્યારે_N_NST પોલીસના_N_NN માણસોએ_N_NN તૈયાર_V_VM લખેલ_V_VM કાગળમાં_N_NN સહી_N_NN કરાવેલ_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=53>તેઓએ_PR_PRP આંક_N_NN-_RD_PUNC૧૦_QT_QTC વાળા_JJ પંચનામામાં_N_NN પંચ_N_NN નંબર_N_NN-_RD_PUNC ર_QT_QTC તરિકે_PSP પોતાની_PR_PRP સહી_N_NN ઓળખી_V_VAUX બતાવેલ_V_VAUX છે_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=54>આ_DM_DMD સાહેદને_N_NN પંચનામાની_N_NN વિગત_N_NN સમજાવતા_V_VAUX તેના_PR_PRL વિશે_PSP કાંઈ_DM_DMI જાણતો_V_VAUX ન_RP_NEG હોવાનું_V_VAUX જણાવે_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=55>આ_DM_DMD સાહેદની_N_NN આરોપીના_N_NN વશ્રીએ_N_NN ઉલટ_PSP-_RD_PUNCતપાસ_N_NN કરતા_V_VM તેણે_PR_PRP એવું_RP_RPD કબુલેલ_V_VAUX છે_V_VAUX કે_CC_CCS પોલીસે_N_NN તૈયાર_V_VM લખેલા_V_VAUX કાગળમાં_N_NN સહી_N_NN કરવાનું_V_VAUX કહેતા_V_VAUX તેણે_PR_PRP માત્ર_JJ સહી_N_NN કરેલી_V_VM તે_PR_PRL સિવાય_RP_RPD બીજું_QT_QTC કંઈ_DM_DMI જાણતો_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=56>(_RD_PUNC૭.૪_QT_QTC)_RD_PUNC ત્યારબાદ પ્રોસીકયુશનના_N_NN સાહેદ_N_NN વેલુભા_N_NNP પંચાણસિંહ_N_NNP ઝાલા_N_NNP પોતાની_PR_PRP આંક_N_NN ૧ર_QT_QTC વાળી_JJ જુબાનીમાં_N_NN જણાવેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC ગઈ_JJ તા_N_NN ૦ર_QT_QTC/_RD_PUNC૦૪_QT_QTC/_RD_PUNCર૦૧૭ના_QT_QTC રોજ_N_NN કલાક_N_NN ૦૮_QT_QTC/_RD_PUNC૦૦_QT_QTC વાગ્યાના_V_VM સુમારે_N_NN તેઓ_PR_PRP તથા_CC_CCD સટાફના_N_NN માણસો_N_NN પોસ્ટે_N_NN વિસ્તારમાં_N_NN પેટ્રોલીંગમાં_N_NN હતા_V_VAUX તે_PR_PRL દરમ્યાન_PSP ફરતા_V_VM ફરતા_V_VM કલાક_N_NN ૯_QT_QTC/_RD_PUNC૧૫_QT_QTC વાગ્યે_V_VM આંબેડકર_N_NNP નગર_N_NN,_RD_PUNC શેરી_N_NN નં_N_NN ૧૪ના_QT_QTC ખુણા_N_NN પાસે_PSP આવતા_V_VAUX એક_QT_QTC ઈસમ_N_NN હાથમા_N_NN પ્લાસ્ટીકના_N_NN કેન_N_NN સાથે_PSP જોવામાં_V_VAUX આવતા_V_VAUX તે_PR_PRL અમો_PR_PRP પોલીસને_N_NN જોઈ_V_VM ભાગવા_V_VM જતા_V_VM સાથેના_PSP પોલીસના_N_NN માણસોએ_N_NN તેને_PR_PRP રોકી_V_VM અને_CC_CCD બે_QT_QTC રાહદારી_JJ પંચોને_N_NN બોલાવી_V_VAUX તેઓની_PR_PRP હાજરીમાં_N_NN આરોપીને_N_NN પોતાનું_PR_PRP નામ_N_NN ઠામ_N_NN પુછતા_V_VAUX આરોપીએ_N_NN પોતાનુ_PR_PRP નામ_N_NN મનોજ_N_NNP દેવજીભાઈ_N_NNP સોલંકી_N_NNP,_RD_PUNC રે_N_NN આંબેડકરનગર_N_NNP પાસે_PSP,_RD_PUNC હોવાનુ_V_VAUX જણાવેલ_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=57>આરોપીના_N_NN હાથમાંથી_N_NN પ્લાસ્ટીકનું_N_NN કેન_N_NN લઈ_V_VM તેનું_PR_PRL ઢાકણું_N_NN ખોલી_V_VM જોતાં_V_VAUX સફેદ_JJ રંગનું_N_NN પ્રવાહી_N_NN ભરેલું_V_VAUX હોય_V_VAUX જે_PR_PRL સુંધી_V_VAUX સુંધાડી_V_VAUX જોતા_V_VAUX તેમાંથી_RP_RPD દેશી_JJ દારૂની_N_NN તીવ્ર_JJ વાસ_N_NN આવતી_V_VAUX હતી_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=58>જેથી_CC_CCD પંચનામાની_N_NN વિગતે_N_NN મદામાલ_JJ કબ્જે_N_NN કરી_V_VM,_RD_PUNC સરકારશ્રી_N_NN તરફે_PSP તેઓએ_PR_PRP ફસ્રિયાદ_N_NN આપેલ_V_VM હોવાનું_V_VAUX જણાવે_V_VAUX છે_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=59>આ_DM_DMD સાહેદે_N_NN ફરિયાદમાં_N_NN પોતાની_PR_PRP સહી_N_NN ઓળખી_V_VAUX બતાવતા_V_VAUX ફરિયાદને_N_NN આંક_N_NN ૧૩_QT_QTC આપવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=60>આ_DM_DMD સાહેદ_N_NN વધુમાં_QT_QTF જણાવે_V_VAUX છે_V_VAUX કે_CC_CCS ગુન્હો_N_NN દાખલ_N_NN થયા_V_VM બાદ_PSP તેની_PR_PRP તપાસ_N_NN તેઓને_PR_PRP સોંપાતા_V_VM તેઓએ_PR_PRP લાગતા_V_VAUX વળગતા_V_VAUX સાહેદોના_N_NN નિવેદનો_N_NN નોંધેલ_V_VM અને_CC_CCD તપાસના_N_NN અંતે_JJ આરોપી_N_NN વિરૃઘ્ધ_N_NN પુરતો_JJ પુરાવો_N_NN હોય_V_VAUX નામ_N_NN કોર્ટમાં_N_NN ચાર્જશીટ_N_NN કરેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=61>આ_DM_DMD સાહેદની_N_NN ઉલટ_PSP તપાસ_N_NN આરોપી_N_NN તરફે_PSP તેઓના_PR_PRP વિ_N_NN વકિલ_N_NN શ્રી_JJ દ્રારા_PSP કરવામાં_V_VAUX આવેલ_V_VAUX છે_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=62>તેઓની_PR_PRP ઉલટ_PSP તપાસમાં_N_NN જણાવેલ_V_VAUX છે_V_VAUX કે_CC_CCS એ_DM_DMD વાત_N_NN ખરી_JJ છે_V_VAUX કે_CC_CCS બનાવવાળો_N_NN વિસ્તાર_N_NN રહેણાંક_N_NN વિસ્તાર_N_NN છે_V_VAUX અને_CC_CCD ધણા_QT_QTF બધા_QT_QTF માણસોની_N_NN અવરજવર_N_NN રહે_N_NN છે_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=63>આ_DM_DMD સાહેદે_N_NN કબુલેલ_V_VAUX છે_V_VAUX કે_CC_CCS આ_DM_DMD કામે_N_NN ફરિયાદી_N_NN અને_CC_CCD તક_N_NN અમલદાર_N_NN તેઓ_PR_PRP છે_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=64>આરોપી_N_NN વકીલ_N_NN શ્રી_JJ દરા_PSP કરવામાં_V_VAUX આવેલ_V_VAUX અન્ય_JJ સુચનો_N_NN તેઓએ_PR_PRP નકારેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=65>ફરિયાદ_N_NN પક્ષ_N_NN તરફે_PSP વિએપીપી_N_NN શ્રી_JJ તથા_CC_CCD આરોપી_N_NN તરફે_PSP તેઓના_PR_PRP વિવશ્રીની_N_NN  દલીલો_N_NN સાંભળી_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=66>વિએપીપી_N_NN શ્રી_JJ જણાવે_V_VAUX છે_V_VAUX કે_CC_CCS આ_DM_DMD કામના_N_NN આરોપી_N_NN પાસેથી_PSP પોલીસે_N_NN પંચો_N_NN રૂબરૂ_JJ ૪_QT_QTC લીટર_N_NN જેટલો_QT_QTF દેશી_JJ દારૂ_N_NN કબ્જે_N_NN કરેલ_V_VAUX છે_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=67>પ્રોસીકયુશનના_N_NN કેસને_N_NN પંચો_N_NN સમથન_N_NN ન_RP_NEG આપતા_V_VAUX હોય_V_VAUX આમ_RP_RPD છતા_CC_CCD પોલીસ_N_NN સાહેદને_N_NN ન_RP_NEG માનવા_V_VAUX માટેનું_PSP કોઈ_DM_DMI કારણ_N_NN નથી_RP_NEG._RD_PUNC  </Sentence>
+
+<Sentence id=68>આંક_N_NN-_RD_PUNC૧૭_QT_QTC વાળા_JJ એફએસએલના_N_NN રીપોર્ટ_N_NN મુજબ_PSP પણ_CC_CCD આરોપી_N_NN પાસેથી_PSP કબ્જે_N_NN થયેલ_V_VAUX પદાર્થ_N_NN નશા_N_NN માટે_PSP યોગ્ય_JJ હોવાનું_V_VAUX જણાવેલ_V_VAUX છે_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=69>જેથી_CC_CCD આરોપીને_N_NN નવા_JJ પ્રોહીબીશન_N_NN એકટ_N_NN મુજબ_PSP ૧૦_QT_QTC વર્ષની_N_NN કેદની_N_NN સજા_N_NN થવી_V_VM જોઈએ_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=70>આ_DM_DMD કામના_N_NN આરોપીના_N_NN વિવશ્રી_JJ તેઓની_PR_PRP દલીલમાં_N_NN જણાવે_V_VAUX છે_V_VAUX કે_CC_CCS આરોપી_N_NN તદદન_JJ નિદોષ_JJ છે_V_VAUX._RD_PUNC </Sentence> 
+
+<Sentence id=71>તેઓ_PR_PRP સામેના_PSP જે_PR_PRL આક્ષેપ_N_NN થયેલ_V_VAUX છે_V_VAUX તે_PR_PRL પ્રકારનો_N_NN કોઈ_DM_DMI ગુનો_N_NN આરોપીએ_N_NN કરેલ_V_VAUX નથી_RP_NEG._RD_PUNC  </Sentence>
+
+<Sentence id=72>આરોપીને_N_NN ગુનાના_N_NN કામે_N_NN તદદન_JJ ખોટી_JJ રીતે_N_NN સંડોવી_V_VAUX દીધેલ_V_VAUX છે_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=73>વધુમાં_QT_QTF આરોપી_N_NN સામે_PSP જે_PR_PRL કલમો_N_NN હેઠળ_PSP તહોમતનામુ_N_NN મુકવામાં_V_VAUX આવેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+
+<Sentence id=74>તે_PR_PRL કલમોના_N_NN કોઈ_DM_DMI આવશ્યક_JJ તત્વો_N_NN પુરવાર_N_NN થતા_V_VAUX નથી_RP_NEG._RD_PUNC  </Sentence>
+
+<Sentence id=75> અધિકારીએ_N_NN આ_DM_DMD કામે_N_NN તપાસ_N_NN દરમ્યાન_PSP કોઈ_DM_DMI સ્વતંત્ર_JJ સાહેદોના_N_NN નિવેદનો_N_NN લેવામાં_V_VAUX આવેલ_V_VAUX નથી_RP_NEG._RD_PUNC  </Sentence>
+
+<Sentence id=76>પંચોએ_N_NN પ્રોશીકયુશનના_N_NN કેસોને_N_NN સપોટ_N_NN કરેલ_V_VAUX નથી_RP_NEG._RD_PUNC  </Sentence>
+
+<Sentence id=77>તે_PR_PRL તમામ_QT_QTF સંજોગોમાં_N_NN આરોપીને_N_NN ગુનાના_N_NN કામે_N_NN નિદોં'ષ_JJ ઠરાવી_V_VAUX છોડી_V_VAUX મુકવા_V_VAUX અરજ_N_NN કરેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=78>આમ_RP_RPD સમગ્ર_QT_QTF પુરાવાનુ_N_NN મુલ્યાંકન_RB કરવામાં_V_VAUX આવે_V_VM તો_RP_RPD આ_DM_DMD કામે_N_NN ફરીયાદ_N_NN પક્ષના_N_NN કેસ_N_NN મુજબ_PSP તેઓએ_PR_PRP ફરીયાદમાં_N_NN જણાવ્યા_V_VAUX મુજબની_PSP તારીખ_N_NN અને_CC_CCD સમયે_N_NN પેટ્રોલીગમાં_RB હતા_V_VAUX તે_PR_PRL દરમ્યાન_PSP તેઓને_PR_PRP આરોપી_N_NN પાસેથી_PSP વિના_JJ પાસ_N_NN પરમીટ_N_NN દેશી_JJ દારૂ_N_NN લીટર_N_NN -_RD_PUNC૪_QT_QTC જેટલો_QT_QTF મળી_V_VM આવતા_V_VAUX આરોપી_N_NN સામે_PSP ગુજરાત_N_NNP પ્રોહીબીશન_N_NN એકટ_N_NN,_RD_PUNC કલમ_N_NN ૬૫_QT_QTC (_RD_PUNCએ_N_NN)_RD_PUNC મુજબ_PSP હાલનો_N_NST કેસ_N_NN દાખલ_N_NN કરેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=79>ફરીયાદ_N_NN પક્ષના_N_NN કેસ_N_NN મુજબ_PSP આરોપીના_N_NN કબ્જામાંથી_N_NN તેઓએ_PR_PRP પંચો_N_NN રૂબરૂ_JJ ૪_QT_QTC લીટર_N_NN જેટલો_QT_QTF દેશી_JJ દારૂ_N_NN કબજે_N_NN કરેલ_V_VAUX છે_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=80>આ_DM_DMD સમગ્ર_QT_QTF કેસની_N_NN હકીકતો_N_NN જોતા_V_VAUX ફરીયાદ_N_NN પક્ષ_N_NN દૂ।રા_PSP આ_DM_DMD કામે_N_NN ફકત_JJ પોલીસ_N_NN સાહેદો_N_NN જ_RP_RPD તપાસેલા_V_VAUX છે_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=81>જયારે_N_NST પ્રોસીકયુશનના_N_NN કેસ_N_NN મુજબ_PSP બનાવવાળુ_JJ સ્થળ_N_NN જાહેર_N_NN જગ્યા_N_NN હતી_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=82>અને_CC_CCD ત્યા_N_NST ધણા_QT_QTF બધા_QT_QTF માણસોની_N_NN અવરજવર_N_NN હતી_V_VAUX તો_RP_RPD પ્રોસીકયુશન_N_NN પોતાનો_PR_PRP કેસ_N_NN સાબીત_N_NN કરવા_V_VAUX સ્વતંત્ર_JJ સાહેદોને_N_NN તપાસી_V_VAUX શકયુ_V_VAUX હોત_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=83>તેટલુ_JJ જ_RP_RPD નહી_RP_NEG પણ_CC_CCD ફરીયાદ_N_NN પક્ષના_N_NN કેસ_N_NN મુજબ_PSP જે_PR_PRL પંચની_N_NN રૂબરૂમાં_JJ આરોપી_N_NN પાસેથી_PSP દેશી_JJ દારૂ_N_NN કબ્જે_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX તે_PR_PRL પંચની_N_NN કોટ_N_NN રૂબરૂની_JJ જુબાનીમાં_N_NN તેઓ_PR_PRP પંચનામાની_N_NN કોઈ_DM_DMI વિગત_N_NN તેઓ_PR_PRP જાણતા_V_VAUX નથી_RP_NEG._RD_PUNC  </Sentence>
+
+<Sentence id=84>અને_CC_CCD તેઓએ_PR_PRP ફકત_JJ તૈયાર_V_VM પંચનામામાં_N_NN પોલીસના_N_NN કહેવાથી_V_VAUX સહી_N_NN કરેલ_V_VAUX હતી_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=85>આમ_RP_RPD આ_DM_DMD પંચ_N_NN ફરીયાદ_N_NN પક્ષના_N_NN કેસને_N_NN બીલકુલ_JJ સમર્થન_JJ આપતા_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=86>વીશેષમાં_JJ તે_PR_PRL હકિકત_N_NN નીર્વિવાદ_N_NN છે_V_VAUX કે_CC_CCS આ_DM_DMD કામે_N_NN ફરિયાદી_N_NN તથા_CC_CCD તક_N_NN અધિકારી_N_NN બન્ને_QT_QTC એક_QT_QTC જ_RP_RPD છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=87>જે_PR_PRL નામ_N_NN સુપ્રીમ_N_NN કોટ_N_NN દૂરા_PSP ભગવાન_N_NN સીંધ_N_NNP વીરૃઘ્ધ_N_NN સ્ટેટ_N_NN ઓફ_PSP રાજસ્થાન_N_NNP એઆઈઆર_N_NN ૧૯૭૬_QT_QTC સુપ્રીમ_N_NN કોર્ટ_N_NN પાના_N_NN નં_N_NN ૯૮૫ના_QT_QTC ચુકાદામાં_N_NN પ્રસ્‍થાપીત_JJ કરેલ_V_VAUX સિઘ્ઘાંતોથી_N_NN વિરૂઘ્ધ_N_NN હોય_V_VAUX તે_PR_PRL સંજોગોમાં_N_NN ફરીયાદ_N_NN પક્ષના_N_NN કેસ_N_NN મુજબ_PSP આરોપીના_N_NN પાસેના_N_NST પ્લાસ્ટીકના_N_NN કેનમાંથી_N_NN ૪_QT_QTC લીટર_N_NN જેટલો_QT_QTF દેશી_JJ દારૂ_N_NN મળી_V_VM આવેલ_V_VAUX હોવાનુ_V_VAUX સાબીત_N_NN થતુ_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence> 
+
+<Sentence id=88>આમ_RP_RPD પ્રોસીકયુશનના_N_NN કેસ_N_NN મુજબનો_PSP કોઈ_DM_DMI ગુનો_N_NN સાબીત_N_NN થતો_V_VAUX ન_RP_NEG હોય_V_VAUX મુદદાનં_N_NN ૧નો_QT_QTC  જવાબ_N_NN નકારમાં_RP_NEG આપુ_V_VM છું_V_VAUX ._RD_PUNC </Sentence>
+
+<Sentence id=89> અને_CC_CCD મુદદાનં_N_NN ર_QT_QTC અન્વયે_N_NN નીચે_N_NST મુજબનો_PSP આખરી_JJ હુકમ_N_NN ફરમાવુ_V_VAUX છુ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=90> હુકમ_N_NN._RD_PUNC </Sentence>
+
+<Sentence id=91>આ_DM_DMD કામના_N_NN આરોપી_N_NN મનોજભાઈ_N_NNP દેવજીભાઈ_N_NNP સોલંકીને_N_NNP  ક્રીપો_N_NN કોડની_N_NN કલમ_N_NN ર૪૮_QT_QTC(_RD_PUNC૧_QT_QTC)_RD_PUNC મુજબ_PSP માલવીયા_N_NNP નગર_N_NN પોસ્ટે_N_NN ગુજરાત_N_NNP પ્રોહીબીશન_N_NN એકટ_N_NN,_RD_PUNC કલમ_N_NN ૬૫_QT_QTC (_RD_PUNC એ_N_NN)_RD_PUNC કામે_N_NN નિર્દોષ_JJ છોડી_V_VAUX મુકવા_V_VAUX હુકમ_N_NN કરવામા_V_VAUX આવે_V_VM છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=92>આરોપી_N_NN એક્રીપો_N_NN કોડની_N_NN કલમ_N_NN ૪૩૭_QT_QTC-_RD_PUNCએ_N_NN મુજબના_PSP રૂ_N_NN ૧૫,૦૦૦_QT_QTC/_RD_PUNC-_RD_PUNC જામીન_N_NN રજુ_N_NN કરવા_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=93>આ_DM_DMD કામે_N_NN કબ્જે_N_NN થયેલ_V_VAUX મુદામાલનો_N_NN અપીલ_N_NN સમય_N_NN વિત્યાબાદ_N_NN નિયમોનુસાર_N_NN કાર્યવાહી_N_NN કરી_V_VM નાશ_JJ કરવો_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=94>આ_DM_DMD હુકમ_N_NN આજ_N_NST રોજ_N_NN તા._N_NN ૧૧_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNCર૦૧૮_QT_QTC ખુલ્લી_JJ અદાલતમાં_N_NN જાહેર_V_VM કર્યો_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=95>તારીખ_N_NN-_RD_PUNC ૧૧_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNCર૦૧૮_QT_QTC રાજકોટ_N_NNP(_RD_PUNCવિશાલ_N_NNP પી_N_NNP મહેતા_N_NNP)_RD_PUNC
+૭મા_QT_QTC અધિક_JJ જ્યુડીશ્યલ_N_NN મેજિસ્ટ્રેટ_N_NN ફર્સ્ટ_QT_QTO કલાસ_N_NN,_RD_PUNC
+રાજકોટ_N_NNP._RD_PUNC </Sentence>
+

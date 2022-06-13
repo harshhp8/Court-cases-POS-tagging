@@ -1,0 +1,49 @@
+<Corpora type="Monolingual-POS-TAGGED" Language="Gujarati">
+
+<Sentence id=1> રાજકોટના_N_NNP મહે.જે.એમ.એફ.સી._N_NNP (_RD_PUNCટ્રાફીક_N_NN)_RD_PUNC સાહેબની_N_NN કોર્ટમાં_N_NN,_RD_PUNC મુ._N_NN રાજકોટ_N_NNP ફોજદારી_N_NN કેસ_N_NN નં._N_NN૩૪૦૧_QT_QTC/_RD_PUNCર૦૧૬_QT_QTC આંક_N_NN-_RD_PUNC,_RD_PUNC૬ર_QT_QTC શ્રી_JJ સરકાર_N_NN ફરીયાદી_N_NN વિરુઘ્ધ_N_NN સલીમખાન_N_NNP જુમાખાન_N_NNP પઠાણ_N_NNP  આરોપી_N_NN ગુનો_N_NN :_RD_PUNC જી.પી._N_NN એકટની_N_NN કલમ_N_NN-_RD_PUNC ૧૩૫_QT_QTC મુજબ_PSP._RD_PUNC</Sentence>
+
+<Sentence id=2> -_RD_PUNC:_RD_PUNC:_RD_PUNC ચુકાદો_N_NN :_RD_PUNC:_RD_PUNC-_RD_PUNC</Sentence>
+
+<Sentence id=3> (_RD_PUNC૧_QT_QTC)_RD_PUNC સદર_N_NN કામનુ_N_ NN કેસ_N_NN રેકર્ડ_N_NN આજ_N_NST રોજ_N_NN સ્પેશીયલ_JJ સીટીંગ_N_NN દરમ્યાન_PSP હાથ_N_NN પર_PSP લઈ_V_VM વંચાણે_N_NN લીધુ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=4>આ_DM_DMD કામના_N_NN આરોપીઓ_N_NN સામે_PSP જી.પી._N_NN એકટની_N_NN કલમ_N_NN ૧૩૫_QT_QTC મુજબનો_PSP ગુનો_N_NN નોંધાતા_V_VAUX,_RD_PUNC આરોપી_N_NN સામે_PSP હાલનું_N_NST ચાર્જશીટ_N_NN અત્રેની_PSP અદાલત_N_NN સમક્ષ_PSP રજુ_N_NN થતા_V_VM અત્રેની_PSP અદાલતે_N_NN આરોપી_N_NN સામે_PSP સમન્સ_N_NN ઈસ્યુ_JJ કરવાનો_V_VAUX હુકમ_N_NN કરેલ_V_VAUX._RD_PUNC</Sentence> 
+
+<Sentence id=5>આરોપીનો_N_NN સમન્સ_N_NN યોગ્ય_JJ રીતે_N_NN બજવણી_N_NN થઈ_V_VM જતા_V_VAUX આરોપી_N_NN સ્પેશીયલ_JJ સીટીંગ_N_NN દરમ્યાન_PSP હાજર_JJ થયેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=6>આરોપીને_N_NN ભા.ફો.અ.ની_N_NN કલમ_N_NN ર૦૭_QT_QTC મુજબ_PSP પોલીસ_N_NN પેપર્સની_N_NN નકલો_N_NN પુરી_RB પાડયા_V_VAUX અંગેની_PSP ખાત્રી_JJ કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=7>(_RD_PUNCર_QT_QTC)_RD_PUNC ઉપરોકત_RP_RPD ગુન્હા_N_NN અંગે_PSP આંક_N_NN-_RD_PUNC ર૦થી_QT_QTC આરોપીની_N_NN પ્લી_N_NN લેતા_V_VM,_RD_PUNC આરોપીએ_N_NN ગુનો_N_NN કબુલ_N_NN નહી_RP_NEG હોવાનું_V_VAUX જણાવતા_V_VAUX કામ_N_NN પુરાવો_N_NN નોંધવા_V_VAUX મુલત્વી_N_NN રહેલ_V_VAUX પરંતુ_CC_CCD ત્યારબાદ_N_NST આંક_N_NN-_RD_PUNCર૧થી_QT_QTC ગુન્હા_N_NN અંગે_PSP લેખિતમા_JJ કબુલાત_N_NN પુરસીસ_N_NN આપી_V_VM જણાવેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC આ_DM_DMD તેમનો_PR_PRP પ્રથમ_QT_QTC ગુન્હો_N_NN છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=8>ગુન્હા_N_NN બદલ_N_NN તેઓને_PR_PRP ઘણો_QT_QTF જ_RP_RPD પસ્તાવો_N_NN છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=9>કાયદાના_N_NN અજ્ઞાનને_N_NN લીધે_V_VM અજાણતાથી_N_NN આ_DM_DMD ગુન્હો_N_NN તેમનાથી_PR_PRP થઈ_V_VM ગયેલ_V_VAUX છે_V_VAUX,_RD_PUNC તેથી_CC_CCD ભવિષ્યમા_N_NN આવો_RP_RPD ગુન્હો_N_NN નહી_RP_NEG બને_V_VM તેવી_PR_PRL ખાત્રી_JJ અને_CC_CCD ભરોસો_N_NN
+આપી_V_VM તેઓએ_PR_PRP હળવો_JJ દંડ_N_NN કરી_V_VM,_RD_PUNC છોડી_V_VAUX મુકવા_V_VAUX અરજ_N_NN કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=10> (_RD_PUNC૩_QT_QTC)_RD_PUNC આરોપી_N_NN તરફે_PSP રજુ_N_NN થયેલ_V_VAUX ઉપરોકત_RP_RPD ગુન્હા_N_NN કબુલાત_N_NN પુરસીસ_N_NN સ્વૈચ્છીક_JJ હોઈ_V_VAUX તે_PR_PRL નોંધી_V_VM પરંતુ_CC_CCD આરોપીઓને_N_NN આપવામા_V_VAUX આવેલ_V_VAUX છે_V_VAUX તેમ_PR_PRL છતાં_CC_CCD આરોપી_N_NN રાજીખુશીથી_N_NN ગુનો_N_NN કબુલ_N_NN કરે_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=11> તેવી_PR_PRL કોર્ટે_N_NN ખાતરી_N_NN કરેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=12>આ_DM_DMD તબકકે_N_NN નામદાર_JJ ગુજરાત_N_NNP વડી_JJ અદાલતનો_N_NN ગુજરાત_N_NNP રાજ્ય_N_NN વિ._N_NN નટવર_N_NNP હરચંદજી_N_NNP ઠાકોર_N_NNP,_RD_PUNC જીએલઆર_N_NN ર૦૦૫_QT_QTC (_RD_PUNC૧_QT_QTC)_RD_PUNC પાના_N_NN નં._N_NN ૭૦૯_QT_QTC ઉપર_N_NST પ્રસિઘ્ધ_JJ થયેલ_V_VAUX ચુકાદો_N_NN વંચાણે_N_NN લીધો_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=13>તેમજ_CC_CCD સદર_N_NN હું_PR_PRP ચુકાદાના_N_NN પાના_N_NN નં._N_NN ૭ર૧ના_QT_QTC પેરા_N_NN નં._N_NN ર૧માં_QT_QTC જણાવેલ_V_VAUX કારણો_N_NN ઘ્યાને_N_NN લીધા_V_VM._RD_PUNC </Sentence>
+
+<Sentence id=14>આ_DM_DMD કામના_N_NN આરોપી_N_NN કુટુંબ_N_NN કબીલાવાળા_JJ છે_V_VAUX અને_CC_CCD તેઓ_PR_PRP કુટુંબના_N_NN એકમાત્ર_JJ કમાનાર_N_NN ઇસમ_N_NN છે_V_VAUX તથા_CC_CCD તેઓનો_PR_PRP આ_DM_DMD પ્રથમ_QT_QTC ચુનો_N_NN છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=15>આરોપીની_N_NN સામાજીક_JJ તેમજ_CC_CCD આર્થિક_JJ પરિસ્થિતીને_N_NN ધ્યાને_N_NN લઈ_V_VM તેમજ_CC_CCD ઉપરોકત_RP_RPD ચુકાદામાં_N_NN પ્રસ્થાપિત_N_NN સિદ્ધાંતોને_N_NN ઘ્યાને_N_NN લેતા_V_VM આરોપી_N_NN સ્વેચ્છાએ_N_NN ગુનાની_N_NN કબુલાત_N_NN કરતા_V_VAUX હોઈ_V_VAUX,_RD_PUNC આરોપીની_N_NN આ_DM_DMD કબુલાત_N_NN હું_PR_PRP સ્વીકારું_V_VM છુ_V_VAUX અને_CC_CCD આરોપીને_N_NN તેમની_PR_PRP સામેના_PSP ગુનામાં_N_NN તકસીરવાન_JJ ઠરાવુ_V_VAUX છુ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=16>પરંતુ_CC_CCD આરોપીની_N_NN કબુલાત_N_NN તેમજ_CC_CCD કેસની_N_NN હકીકતોને_N_NN ઘ્યાને_N_NN લેતા_V_VM,_RD_PUNC આરોપીને_N_NN યોગ્ય_JJ રકમનો_N_NN દંડ_N_NN કરવામા_V_VAUX આવે_V_VAUX તો_RP_RPD ન્યાયનો_N_NN હેતુ_N_NN જળવાઈ_V_VM રહેશે_V_VAUX તેમ_PR_PRL માનુ_V_VM છુ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=17>જેથી_CC_CCD ન્યાયના_N_NN વિશાળ_JJ હીતમાં_N_NN નીચે_N_NST મુજબનો_PSP હુકમ_N_NN કરવામા_V_VAUX આવે_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=18>મુજબ_PSP સી.આર.પી.સી._N_NN કલમ_N_NN રપર_QT_QTC ઝન્વયે_N_NN તકસીરવાન_JJ ઠરાવું_V_VAUX છું_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=19>અને_CC_CCD સદર_N_NN ગુના_N_NN સબબ_N_NN  અંકે_N_NN રૂપીયા_N_NN  દંડ_N_NN અને_CC_CCD કોર્ટ_N_NN ઉઠતા_V_VM સુધીની_RP_RPD સજા_N_NN ફરમાવવાનો_V_VAUX હુકમ_N_NN કરૂ_V_VM છું_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=20>જો_RP_RPD આરોપી_N_NN દંડની_N_NN રકમ_N_NN ન_RP_NEG ભરે_V_VM તો_RP_RPD દીનની_N_NN સાદી_JJ કેદની_N_NN સજાનો_N_NN હુકમ_N_NN કરવામાં_V_VAUX આવે_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=21>આ_DM_DMD કામના_N_NN આરોપીને_N_NN મુદામાલનો_N_NN અપીલ_N_NN સમય_N_NN વિત્યે_JJ નિયમાનુસાર_N_NN નિકાલ_V_VAUX કરવો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=22>હકમ_N_NN આજ_N_NST રોજ_N_NN ખુલ્લી_JJ સ્પેશીયલ_JJ સીટીંગમાં_N_NN વાંચી_V_VM સંભળાવી_V_VAUX જાહેર_V_VM કર્યો_V_VAUX._RD_PUNC</Sentence>
+</Corpora>
+ 
+

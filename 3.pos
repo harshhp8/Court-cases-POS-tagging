@@ -1,0 +1,134 @@
+<Corpora type="Monolingual-POS-TAGGED" Language="Gujarati">
+
+<Sentence id=1>દાખલ_N_NN તારીખ_N_NN :_RD_PUNC ૦૩_QT_QTC-_RD_PUNC૦૪_QT_QTC-_RD_PUNCર૦૧૦_QT_QTC નોંઘ્યા_V_VAUX તારીખ_N_NN :_RD_PUNC ૦૩_QT_QTC-_RD_PUNC૦૪_QT_QTC-_RD_PUNCર૦૧૦_QT_QTC ફેંસલ_N_NN તારીખ_N_NN :_RD_PUNC 3_QT_QTC -_RD_PUNC૮3_QT_QTC-_RD_PUNCર૦ર૦_QT_QTC સમયગાળો_N_NN:_RD_PUNCવર્ષ_N_NN માસ_N_NN દિવસ_N_NN ૦૦_QT_QTC ર૨૫૬_QT_QTC ૨૩૨_QT_QTC આંક_N_NN-_RD_PUNC 3૮૩_QT_QTC રાજકોટના_N_NNP મહે_N_NN,_RD_PUNC જ્યુડીશ્યલ_N_NN મેજીસ્ટ્રેટ_N_NN કર્સ્ટ_N_NN કલાસ_N_NN (_RD_PUNCટ્રાફીક_N_NN)_RD_PUNC સાહેબની_N_NN કોર્ટમાં_N_NN,_RD_PUNC મુ._N_NN રાજકોટ_N_NNP,_RD_PUNC ફોજદારી_N_NN ફેસનું._N_NN ૪૬૩૭_QT_QTC/_RD_PUNCર૦૧૦_QT_QTC શ્રી_JJ સરકાર_N_NN ફરીયાદી_N_NN વિરૂઘ્ધ_N_NN ૧_QT_QTC મૅંજુલાબેન_N_NNP  મનસુખભાઈ_N_NNP હીરપરા_N_NNP ઉ.વ._N_NN પ૪_QT_QTC,_RD_PUNC રહૈ_N_NNP નીર્મલા_N_NNP રોડ_N_NN પ્રકાશ_N_NNP સોસાયટી_N_NN -_RD_PUNC ૧_QT_QTC રાજકોટ_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=2>ર_QT_QTC માનસીબેન_N_NNP  મહેશભાઈ_N_NNP મુંગલપરા_N_NNP ઉ.વ._N_NN ૩૭_QT_QTC,_RD_PUNC રહે_N_NN નીર્મલા_N_NNP રોડ_N_NN તીરૂપતીનગર_N_NNP શેરીનં_N_NN -_RD_PUNC ૧_QT_QTC રાજકોટ_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=3>૩_QT_QTC વૈશાલીબેન_N_NNP  વિજ્યભાઈ_N_NNP સોજીત્રા_N_NNP ઉ.વ._N_NN ૩૪_QT_QTC,_RD_PUNC રહે_N_NN સત્યમ_N_NNP કોલોની_N_NN પ્લોટ_N_NN નં_N_NN ૪_QT_QTC રીઘ્ધી_N_NNP સીઘ્ધી_N_NNP એરફોર્સ_N_NN ર_QT_QTC રોડ_N_NN જામનગર_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=4>૪_QT_QTC શ્ચેતાબેન_N_NNP  કેતનભાઈ_N_NNP માલાણી_N_NNP ઉ.વ._N_NN ૩૫_QT_QTC,_RD_PUNC રહૈ_N_NN બાપુનગર_N_NN ઈન્ડીયા_N_NN કોલોની_N_NN રામજી_N_NNP મંદીર_N_NN રોડ_N_NN રાધેક્રિષ્ના_N_NNP એપા._N_NN ફલેટનં_N_NN ૧_QT_QTC અમદાવાદ_N_NNP ._RD_PUNC</Sentence>
+
+<Sentence id=5>ગુન્હો_N_NN :_RD_PUNC ભારતીય_JJ દંડ_N_NN સહિતાની_N_NN કલમ_N_NN -_RD_PUNC ₹_N_NN૯૮_QT_QTC(_RD_PUNCફ_N_NN)_RD_PUNC૪૦૬_QT_QTC,_RD_PUNC ૪ર૦_QT_QTC,_RD_PUNC ૧૧૪_QT_QTC તથા_CC_CCD દહેજ_N_NN પ્રતિબંધ_N_NN ધારા_N_NN કલમ_N_NN ૩.૭_QT_QTC મુજબ_PSP._RD_PUNC</Sentence>
+
+
+<Sentence id=6>સરકાર_N_NN તરફે_PSP વિએપીપીશ્રી_N_NN કેએમરાવલ_N_NNP આરોપીઓ_N_NN તરફે_PSP વિવશ્રી_N_NN બીડીરાજ્યગુરૂ_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=7>(_RD_PUNC૧_QT_QTC)_RD_PUNC ફરીયાદપક્ષના_N_NN કેસની_N_NN ટુંકમા_JJ હકીકત_N_NN એવી_RP_RPD છે_V_VAUX કે_CC_CCS,_RD_PUNC તા._N_NN ૧૦_QT_QTC/_RD_PUNC૧૫_QT_QTC/_RD_PUNCર૦૦૯થી_QT_QTC ઓગસ્ટ_N_NN ર૦૦૯_QT_QTC દરમ્યાન_PSP આ_DM_DMD કામના_N_NN ફરીયાદીના_N_NN લગ્ન_N_NN રોનકભાઈ_N_NNP સાથે_PSP થયેલ_V_VAUX છે_V_VAUX અને_CC_CCD મંજુલાબેન_N_NNP સાસુ_N_NN થાય_V_VM છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=8>જ્યારે_N_NST માનસીબેન_N_NNP,_RD_PUNC વૈશાલીબેન_N_NNP તથા_CC_CCD શ્વેતાબેન_N_NNP નણદો_N_NN થાય_V_VM છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=9>જેઓએ_PR_PRP ફરીયાદીને_N_NN લગ્ન_N_NN બાદ_PSP રસોઈ_N_NN બનાવતા_V_VAUX નથી_RP_NEG આવડતી_V_VM તથા_CC_CCD માવતરના_N_NN ઘરેથી_N_NN ગાડી_N_NN નથી_RP_NEG લઈ_V_VM આવી_V_VM જે_RP_RPD લઈ_V_VM આવજે_V_VAUX તેમ_PR_PRL કહી_V_VM દહેજની_N_NN માંગણી_N_NN કરી_V_VM માનસીક_JJ અને_CC_CCD શારીરીક_JJ ત્રાસ_N_NN આપી_V_VM ફરીયાદીને_N_NN માવતર_N_NN ગયા_V_VAUX બાદ_PSP તેડવા_N_NN ન_RP_NEG જતા_V_VAUX તથા_CC_CCD કરીયાવરની_N_NN માંગણી_N_NN કરતા_V_VAUX પાછો_RB નહી_RP_NEG આપી_V_VM છેતરપિંડી_N_NN વિશ્વાસઘાત_JJ કરી_V_VM કરીયાવર_N_NN ઓળવી_V_VAUX જઈ_V_VAUX ગુનો_N_NN કરેલ_V_VAUX જેની_PR_PRL ફરીયાદ_N_NN ફરીયાદીએ_N_NN ગાંધીગ્રામ_N_NN પોલીસ_N_NN સ્ટેશનમાં_N_NN આપેલી_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=10> (_RD_PUNCર_QT_QTC)_RD_PUNC ફરીયાદીની_N_NN ફરીયાદ_N_NN આધારે_PSP ગાંધીગ્રામ_N_NN પોલીસ_N_NN સ્ટેશન_N_NN ૪૬૪_QT_QTC/_RD_PUNCર૦૦૯થી_QT_QTC તા._N_NN ૦૫_QT_QTC/_RD_PUNC૧૧_QT_QTC/_RD_PUNC૨૦૦૯ના_QT_QTC રોજ_N_NN ભારતીય_JJ દંડ_N_NN સહિતાની_N_NN કલમ_N_NN -_RD_PUNC ૪૯૮_QT_QTC(_RD_PUNCક_N_NN)_RD_PUNC,_RD_PUNC ૪૦૬_QT_QTC,_RD_PUNC ૪ર૦_QT_QTC,_RD_PUNC ૧૧૪_QT_QTC તથા_CC_CCD દહેજ_N_NN પ્રતિબંધ_N_NN ધારા_N_NN કલમ_N_NN ૩_QT_QTC,_RD_PUNC ૭_QT_QTC મુજબનો_PSP ગુનો_N_NN દાખલ_N_NN કરેલો_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=11>ત્યારબાદ_N_NST પોલીસ_N_NN તપાસમાં_N_NN આરોપીઓ_N_NN મળી_V_VM આવતા_V_VAUX તેઓની_PR_PRP ધરપકડ_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=12>ત્યારબાદ_N_NST પોલીસની_N_NN તપાસ_N_NN પુરી_RB થતા_V_VAUX પોલીસે_N_NN સીઆરપીસી_N_NN કલમ_N_NN -_RD_PUNC ૧૭૩_QT_QTC મુજબ_PSP આરોપીઓ_N_NN વિરૂઘ્ધ_N_NN ભારતીય_JJ દંડ_N_NN સહિતાની_N_NN કલમ_N_NN -_RD_PUNC ૪૯૮_QT_QTC(_RD_PUNCક_N_NN)_RD_PUNC,_RD_PUNC ૪૦૬_QT_QTC,_RD_PUNC ૪ર૦_QT_QTC,_RD_PUNC ૧૧૪_QT_QTC તથા_CC_CCD દહેજ_N_NN પ્રતિબંધ_N_NN ધારા_N_NN કલમ_N_NN ૩_QT_QTC,_RD_PUNC ૭_QT_QTC મુજબના_PSP ગુનાના_N_NN તહોમતનું_N_NN ચાર્જશીટ_N_NN અત્રેની_PSP અદાલતમાં_N_NN રજુ_N_NN કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=13> (_RD_PUNC૩_QT_QTC)_RD_PUNC આ_DM_DMD કામે_N_NN આરોપીઓને_N_NN સમન્સની_N_NN બજવણ_N_NN થતાં_V_VAUX તેઓ_PR_PRP હાજર_V_VM થયેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=14>ત્યારબાદ_N_NST આરોપીઓની_N_NN ભારતીય_JJ દંડ_N_NN સહિતાની_N_NN કલમ_N_NN -_RD_PUNC ૪૯૮_QT_QTC(_RD_PUNCક_N_NN)_RD_PUNC,_RD_PUNC ૪૦૬_QT_QTC,_RD_PUNC ૪ર૦_QT_QTC,_RD_PUNC ૧૧૪_QT_QTC તથા_CC_CCD દહેજ_N_NN પ્રતિબંધ_N_NN ધારા_N_NN કલમ_N_NN ૩_QT_QTC,_RD_PUNC ૭_QT_QTC મુજબના_PSP ગુનાનું_N_NN તહોમતનામું_N_NN આંક_N_NN-_RD_PUNC ર૮થી_QT_QTC તથા_CC_CCD આરોપીઓની_N_NN પ્લી_JJ આંક_N_NN-_RD_PUNC ર૯થી_QT_QTC ૩રથી_QT_QTC નોંધતા_V_VM આરોપીઓએ_N_NN પોતે_PR_PRP ગુનો_N_NN કરેલાનો_V_VAUX ઈન્કાર_N_NN કરવામા_V_VAUX આવતા_V_VAUX સદર_N_NN કામ_N_NN ફરીયાદપક્ષના_N_NN પુરાવા_N_NN પર_PSP રાખવામા_V_VAUX આવેલ_V_VAUX,_RD_PUNC પરંતુ_CC_CCD પુરાવાની_N_NN મુદતે_N_NN પક્ષકારોએ_N_NN ભારતીય_JJ દંડ_N_NN સંહીતાની_N_NN કલમ_N_NN ૪૦૬_QT_QTC,_RD_PUNC ૪૨૦ના_QT_QTC ગુનાનું_N_NN સમાધાન_N_NN કરવાની_V_VM પરવાનગી_N_NN અરજી_N_NN આંક_N_NN-_RD_PUNC ૩૩થી_QT_QTC રજુ_N_NN કરતા_V_VAUX તે_PR_PRL ગ્રાહય_JJ રાખતા_V_VAUX આંક_N_NN-_RD_PUNC ૩૪થી_QT_QTC સમાધાન_N_NN પુરસીસ_N_NN રજુ_N_NN કરવામા_V_VAUX આવેલ_V_VAUX અને_CC_CCD નામદાર_JJ કોર્ટ_N_NN તરફથી_PSP તે_PR_PRL ગ્રાહ્ય_JJ રાખવામા_V_VAUX આવેલ_V_VAUX અને_CC_CCD આ_DM_DMD કામના_N_NN પક્ષકારોને_N_NN ભારતીય_JJ દંડ_N_NN સંહીતાની_N_NN કલમ_N_NN 705_QT_QTC,_RD_PUNC ૪ર૦_QT_QTC મુજબના_PSP ગુનાનું_N_NN સમાધાન_N_NN સીઆરપીસી_N_NN કલમ_N_NN ૩ર૦_QT_QTC સુજબ_PSP મંજુર_N_NN કરવામા_V_VAUX આવેલ_V_VAUX અને_CC_CCD બાકીની_JJ કલમ_N_NN હેઠળ_PSP કેસ_N_NN આગળ_N_NST ચલાવવાનો_V_VAUX હુકમ_N_NN નામદાર_JJ કોર્ટે_N_NN ફરમાવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=15> (_RD_PUNC૪_QT_QTC)_RD_PUNC સદર_N_NN કામે_N_NN ફરીયાદ_N_NN પક્ષે_N_NN નીચે_N_NST મુજબનો_PSP મૌખીક_JJ તથા_CC_CCD દસ્તાવેજી_JJ પુરાવો_N_NN રજુ_N_NN કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=16>:_RD_PUNC:_RD_PUNC મૌખીક_JJ પુરાવો_N_NN :_RD_PUNC:_RD_PUNC</Sentence>
+ 
+<Sentence id=17> ૧_QT_QTC-_RD_PUNC3૫_QT_QTC ફરીયાદી_N_NN આશીકા_N_NNP વેલજીભાઈ_N_NNP ગઢીયાની_N_NNP જુબાની_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=18>:_RD_PUNC:_RD_PUNC દસ્તાવેજી_JJ પુરાવો_N_NN :_RD_PUNC:_RD_PUNC</Sentence>
+
+
+<Sentence id=19>કમ_N_NN આંક_N_NN-_RD_PUNC દસ્તાવેજની_N_NN વિગત_N_NN ૧_QT_QTC ૩૬_QT_QTC ફરીયાદ_N_NN ર_QT_QTC ૩૪૭_QT_QTC કલોઝીંગ_JJ પુરસીસ_N_NN._RD_PUNC </Sentence>
+
+
+<Sentence id=20> (_RD_PUNC૫_QT_QTC)_RD_PUNC ફરીયાદ_N_NN પક્ષ_N_NN તરફથી_PSP આંક_N_NN-_RD_PUNC  ૩૭થી_QT_QTC પુરાવો_N_NN પુર્ણ_RB થયેલ_V_VAUX હોવાનું_V_VAUX જાહેર_V_VM કરતાં_V_VAUX,_RD_PUNC ફોજદારી_N_NN કાર્યરીતી_N_NN સંહિતાની_N_NN કલમ_N_NN -_RD_PUNC ૩૧૩_QT_QTC મુજબની_PSP જોગવાઈઓ_N_NN અન્વયે_N_NN આરોપીઓનું_N_NN વિશેષ_JJ નિવેદન_N_NN નોંધવા_V_VAUX જેટલા_QT_QTF પુરાવા_N_NN હોય_V_VAUX જેથી_PR_PRL વિશેષ_JJ નિવેદન_N_NN નોંધવામા_V_VAUX આવેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+
+<Sentence id=21>ત્યારબાદ_N_NST પક્ષકારોના_N_NN વિધ્વાન_JJ વકીલશ્રીઓની_N_NN દલીલો_N_NN સાંભળી_V_VM,_RD_PUNC તથા_CC_CCD રેકર્ડ_N_NN ઉપરના_N_NST પુરાવાઓ_N_NN ધ્યાને_N_NN લીધા_V_VM._RD_PUNC</Sentence>
+
+<Sentence id=22> (_RD_PUNC૬_QT_QTC)_RD_PUNC ઉપર_N_NST મુજબની_PSP રૂપરેખા_JJ ધરાવતા_V_VAUX આ_DM_DMD કેસના_N_NN આખરી_JJ નીકાલ_N_NN સારુ_PSP નીચે_N_NST મુજબનાં_PSP મુદાઓ_N_NN ઉપસ્થિત_JJ થાય_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=23>શું_PR_PRQ ફરીયાદપક્ષ_N_NN પુરવાર_N_NN કરે_V_VM છે_V_VAUX કે_CC_CCS,_RD_PUNC તા._N_NN૧૦_QT_QTC/_RD_PUNC૧૫_QT_QTC/_RD_PUNCર૦૦૯થી_QT_QTC ઓગસ્ટ_N_NN ર૦૦૯_QT_QTC દરમ્યાન_PSP આ_DM_DMD કામના_N_NN ફરીયાદીના_N_NN લગ્ન_N_NN રોનકભાઈ_N_NNP સાથે_PSP થયેલ_V_VAUX છે_V_VAUX અને_CC_CCD મંજુલાબેન_N_NNP સાસુ_N_NN થાય_V_VM છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=24>જ્યારે_N_NST માનસીબૅન_N_NNP,_RD_PUNC વૈશાલીબેન_N_NNP તથા_CC_CCD શ્વેતાબેન_N_NNP નણંદો_N_NN થાય_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=25>જેઓએ_PR_PRP ફરીયાદીને_N_NN લગ્ન_N_NN બાદ_PSP રસોઈ_N_NN બનાવતા_V_VAUX નથી_RP_NEG આવડતી_V_VM તથા_CC_CCD માવતરના_N_NN ઘરેથી_N_NN ગાડી_N_NN નથી_RP_NEG લઈ_V_VM આવી_V_VM જે_RP_RPD લઈ_V_VM આવજે_V_VAUX તેમ_PR_PRL કહી_V_VM દહેજની_N_NN માંગણ_N_NN કરી_V_VM માનસીક_JJ અને_CC_CCD શારીરીક_JJ ત્રાસ_N_NN આપી_V_VM ફરીયાદીને_N_NN માવતર_N_NN ગયા_V_VAUX બાદ_PSP તેડવા_N_NN ન_RP_NEG જતા_V_VAUX તથા_CC_CCD કરીયાવરની_N_NN માંગણી_N_NN કરતા_V_VAUX પાછો_RB નહી_RP_NEG આપી_V_VM છેતરપિંડી_N_NN વિશ્વાસઘાત_JJ કરી_V_VM કરીયાવર_N_NN ઓળવી_V_VAUX જઇ_V_VM ભારતીય_JJ દંડ_N_NN સહિતાની_N_NN કલમ_N_NN -_RD_PUNC ૪૯૮_QT_QTC(_RD_PUNCક_N_NN)_RD_PUNC,_RD_PUNC ૪૦૬_QT_QTC,_RD_PUNC ૪૨૦_QT_QTC,_RD_PUNC ૧૧૪_QT_QTC તથા_CC_CCD દહેજ_N_NN પ્રતિબંધ_N_NN ધારા_N_NN કલમ_N_NN ૩_QT_QTC,_RD_PUNC ૭_QT_QTC મુજબનો_PSP શિક્ષાપાત્ર_JJ ગુનો_N_NN કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=26> (_RD_PUNC૨_QT_QTC)_RD_PUNC શું_PR_PRQ હુકમ_N_NN?_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=27> (_RD_PUNC૭_QT_QTC)_RD_PUNC ઉપરોકત_RP_RPD મુદાઓના_N_NN મારા_PR_PRP નિર્ણયો_N_NN નીચે_N_NST મુજબ_PSP છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=28> (_RD_PUNC૧_QT_QTC)_RD_PUNC નકારમાં_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=29> (_RD_PUNCર_QT_QTC)_RD_PUNC આખરી_JJ હુકમ_N_NN મુજબ_PSP._RD_PUNC</Sentence>
+
+<Sentence id=30>ઉપરોકત_RP_RPD મુદાઓના_N_NN નિર્ણયના_N_NN મારા_PR_PRP કારણો_N_NN નીચે_N_NST મુજબ_PSP છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=31> (_RD_PUNC૮_QT_QTC)_RD_PUNC મુદાનં_N_NN ૧_QT_QTC :_RD_PUNC-_RD_PUNC આ_DM_DMD કામે_N_NN ફરીયાદપક્ષના_N_NN પુરાવાનું_N_NN મુલ્યાંકન_RB કરતા_V_VAUX ફરીયાદપક્ષે_N_NN ફરીયાદી_N_NN આશીકા_N_NNP વેલજીભાઈ_N_NNP ગઢીયાએ_N_NNP આંક_N_NN-_RD_PUNC  ૩૩ની_QT_QTC જુબાનીમાં_N_NN એવું_RP_RPD જણાવેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC તેઓ_PR_PRP રાજકોટ_N_NNP મુકામે_N_NN રહેલ_V_VAUX છે_V_VAUX અને_CC_CCD પ્રાઈવેટ_JJ નોકરી_N_NN ફરે_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=32>તેઓએ_PR_PRP એમબીએ_RD_RDF સુધીનો_RP_RPD અભ્યાસ_N_NN કરેલો_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=33>આજથી_N_NST આશરે_RP_INTF નવેક_QT_QTC વર્ષ_N_NN પહેલા_N_NST તેઓના_PR_PRP લગ્ન_N_NN રોનકભાઈ_N_NNP સાથે_PSP તેઓના_PR_PRP રીતરીવાજ_N_NN મુજબ_PSP લગ્ન_N_NN થયેલા_V_VAUX હતા_V_VAUX અને_CC_CCD તેઓ_PR_PRP લગ્ન_N_NN બાદ_PSP તેઓના_PR_PRP પતિ_N_NN,_RD_PUNC સાસુ_N_NN મંજુલાબેન_N_NNP તથા_CC_CCD વડ_JJ સાસુ_N_NN જમનાબેન_N_NNP સાથે_PSP રહેતા_V_VM હતા_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=34>લગ્ન_N_NN બાદ_PSP તેઓની_PR_PRP સાસરીમા_N_NN મતભેદ_N_NN થતા_V_VAUX મનદુખ_N_NN થવાથી_V_VM લગ્ન_N_NN બાદ_PSP ત્રણેક_QT_QTC માસ_N_NN સાસરીમા_N_NN રોકાયા_V_VM બાદ_PSP તેઓના_PR_PRP પીયરમા_N_NN ગયેલા_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=35>સામાન્ય_JJ બોલાચાલી_N_NN થતા_V_VAUX તેઓને_PR_PRP લાગી_V_VM આવતા_V_VAUX તેઓએ_PR_PRP ફરીયાદ_N_NN કરેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=36>તેઓને_PR_PRP ફરીયાદ_N_NN બતાવવામા_V_VAUX આવે_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=37>જેમા_PR_PRL તેઓની_PR_PRP સહી_N_NN છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=38>જે_RP_RPD તેઓ_PR_PRP ઓળખી_V_VM બતાવે_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=39> જે_RP_RPD આંક_N_NN-_RD_PUNC  ૩૪થી_QT_QTC રજુ_N_NN છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=40>હવે_N_NST તેઓને_PR_PRP આ_DM_DMD કેસમા_N_NN સમાધાન_N_NN થઈ_V_VM ગયેલ_V_VAUX હોવાથી_V_VM તેઓને_PR_PRP આ_DM_DMD કેસ_N_NN આગળ_N_NST ચલાવવો_V_VAUX નથી_RP_NEG કે_CC_CCS વિશેષમા_JJ કોઈ_DM_DMI પુરાવો_N_NN આપવો_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=41>સદર_N_NN ફરીયાદીને_N_NN ફરીયાદપક્ષે_N_NN વિએપીપીશ્રીનાઓએ_N_NN ફરી_RB ગયેલ_V_VAUX જાહેર_V_VM કરેલ_V_VAUX હોવા_V_VAUX છતા_CC_CCD તેઓ_PR_PRP ફરીયાદની_N_NN હકીકતને_N_NN સમર્થન_N_NN કરતા_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=42>એ_DM_DMD વાતનો_N_NN ઈન્કાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC તેઓએ_PR_PRP પોલીસ_N_NN રૂબરૂની_JJ ફરીયાદમા_N_NN એવુ_RP_RPD લખાવેલ_V_VM કે_CC_CCS તેઓના_PR_PRP પતિ_N_NN અને_CC_CCD સાસુ_N_NN એવુ_RP_RPD પણ_CC_CCD કહેતા_V_VM હતા_V_VAUX કે_CC_CCS તેઓને_PR_PRP રસોઈ_N_NN બનાવતા_V_VAUX આવડતી_V_VM નથી_RP_NEG તેમજ_CC_CCD તેઓ_PR_PRP તેઓના_PR_PRP માવતરેથી_JJ તેઓના_PR_PRP જ્ઞાતીના_N_NN રીવાજ_N_NN મુજબ_PSP કરીયાવર_N_NN લાવેલ_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+
+<Sentence id=43>તેમજ_CC_CCD તેઓના_PR_PRP પતિ_N_NN તેઓને_PR_PRP અવારનવાર_JJ મારતા_V_VAUX અને_CC_CCD તેઓના_PR_PRP પતિ_N_NN સાસુ_N_NN તેમજ_CC_CCD નણંદો_N_NN તેઓને_PR_PRP બનાવતા_V_VAUX આવડતુ_V_VM નથી_RP_NEG તેવુ_PR_PRL કહી_V_VM મેણાટોણા_JJ મારી_V_VM માનસીક_JJ શારીકીક_JJ ત્રાસ_N_NN આપેલ_V_VAUX._RD_PUNC</Sentence> 
+
+<Sentence id=44>એ_DM_DMD વાતનો_N_NN ઈન્કાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS તેઓના_PR_PRP પતિ_N_NN કહેત!_V_VAUX હતા_V_VAUX કે_CC_CCS તેઓ_PR_PRP માવતરને_N_NN ત્યાંથી_N_NST કરીયાવર_N_NN લાવેલ_V_VAUX નથી_RP_NEG કે_CC_CCS ગાડી_N_NN લઈ_V_VM આપેલ_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=45>આ_DM_DMD બાબતે_N_NN અવારનવાર_JJ દહેજની_N_NN માંગણી_N_NN કરેલ_V_VAUX હોય_V_VAUX._RD_PUNC</Sentence> 
+
+<Sentence id=46>એ_DM_DMD વાતનો_N_NN સ્વીકાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS તેઓને_PR_PRP પતિ_N_NN સાથે_PSP છુટાછેડા_JJ થઈ_V_VM ગયેલા_V_VAUX છે_V_VAUX અને_CC_CCD હાલમા_N_NST તેઓના_PR_PRP લગ્ન_N_NN બીજી_QT_QTO જગ્યાએ_N_NN થઈ_V_VM ગયેલા_V_VAUX છે_V_VAUX._RD_PUNC</Sentence> 
+
+<Sentence id=47>એ_DM_DMD વાતનો_N_NN ઈન્કાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS આરોપી_N_NN સાથે_PSP છુટાછેડા_JJ થઈ_V_VM ગયેલ_V_VAUX હોવાથી_V_VM તેમને_PR_PRP બચાવવા_V_VAUX ખોટી_JJ જુબાની_N_NN આપે_V_VM છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=48>ઉલટતપાસ_JJ બચાવપક્ષના_N_NN વિવશ્રી_JJ બીડી_N_NNP રાજ્યગુર્‌નાઓએ_N_NNP કરેલ_V_VAUX તેમા_PR_PRL તેઓએ_PR_PRP એ_DM_DMD વાતનો_N_NN સ્વીકાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC તેઓને_PR_PRP કોઈ_DM_DMI શારીરીક_JJ કે_CC_CCS માનસીક_JJ ત્રાસ_N_NN આપવામા_V_VAUX આવેલ_V_VAUX નથી_RP_NEG કે_CC_CCS કોઈપણ_DM_DMI પ્રકારના_N_NN દહેજન_N_NN માંગણી_N_NN કરેલ_V_VAUX નથી_RP_NEG કે_CC_CCS મેણટોણ।_JJ મારેલ_V_VM નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=49>એ_DM_DMD વાતનો_N_NN સ્વીકાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS સામાન્ય_JJ બોલાચાલી_N_NN થતા_V_VAUX તેઓને_PR_PRP લાગી_V_VM આવતા_V_VAUX તેઓએ_PR_PRP ફરીયાદ_N_NN કરેલી_V_VM._RD_PUNC </Sentence>
+
+<Sentence id=50>એ_DM_DMD વાતનો_N_NN સ્વીકાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC તેઓને_PR_PRP આ_DM_DMD કેસ_N_NN આગળ_N_NST ચલાવવો_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=51>આ_DM_DMD કામે_N_NN રજુ_N_NN થયેલ_V_VAUX મૌખીક_JJ તથા_CC_CCD દસ્તાવેજી_JJ પુરાવાને_N_NN એકીસાથે_RB વંચાણે_N_NN લેતાં_V_VM હાલના_N_NST કેસમાં_N_NN ફરીયાદપક્ષ_N_NN આરોપીઓ_N_NN વિરિઘ્ધનો_N_NN કેસ_N_NN આગળ_N_NST ચલાવવા_V_VAUX માંગતા_V_VAUX નથી_RP_NEG તેવું_PR_PRL જાહેર_V_VM કરેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=52>વધુમાં_QT_QTF આંક_N_NN-_RD_PUNC ૩૭થી_QT_QTC ફરીયાદી_N_NN આશીડ_N_NNP વેલજીભાઈ_N_NNP ગઢીયા_N_NNP નાઓએ_N_NN કલોઝિંગ_JJ પુરસીસ_N_NN આપેલી_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=53> તે_PR_PRL રીતે_N_NN આ_DM_DMD કામે_N_NN ફરીયાદી_N_NN નાઓએ_N_NN તેઓની_PR_PRP જુબાનીમા_N_NN જણાવેલ_V_VAUX છે_V_VAUX કે_CC_CCS તેઓને_PR_PRP માત્ર_JJ સામાન્ય_JJ બોલાચાલી_N_NN થયેલ_V_VAUX અને_CC_CCD તેઓને_PR_PRP લાગી_V_VM આવતા_V_VAUX તેઓએ_PR_PRP સદર_N_NN ફરીયાદ_N_NN કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=54>વધુમાં_QT_QTF તેઓએ_PR_PRP પોતાની_PR_PRP ઉલટતપાસમા_N_NN એ_DM_DMD વાતનો_N_NN સ્વીકાર_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS તેઓને_PR_PRP કોઈ_DM_DMI શારીરીક_JJ કે_CC_CCS માનસીક_JJ ત્રાસ_N_NN આપવામા_V_VAUX આવેલ_V_VAUX નથી_RP_NEG કે_CC_CCS કોઈપણ_DM_DMI પ્રકારના_N_NN દહેજન_N_NN માંગણી_N_NN કરેલ_V_VAUX નથી_RP_NEG કે_CC_CCS મેણાટોણા_JJ મારેલ_V_VM નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=55>આમ_RP_RPD ઉપરોકત_RP_RPD રજુ_N_NN થયેલ_V_VAUX પુરાવા_N_NN અને_CC_CCD ફરીયાદી_N_NN તથા_CC_CCD સાહેદની_N_NN જુબાનીથી_N_NN તા._N_NN ૧૦_QT_QTC/_RD_PUNC૧૫_QT_QTC/_RD_PUNCર૦૦૯થી_QT_QTC ઓગસટ_N_NN ર૦૦૯_QT_QTC દરમ્યાન_PSP આ_DM_DMD કામના_N_NN ફરીયાદીના_N_NN લગ્ન_N_NN રોનકભાઈ_N_NNP સાથે_PSP થયેલ_V_VAUX છે_V_VAUX અને_CC_CCD મંજુલાબેન_N_NNP સાસુ_N_NN થાય_V_VM છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=56>જયારે_N_NST માનસીબેન_N_NNP,_RD_PUNC વૈશાલીબેન_N_NNP તથા_CC_CCD શ્વેતાબેન_N_NNP નણંદો_N_NN થાય_V_VM છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=58>જેઓએ_PR_PRP ફરીયાદીને_N_NN લગ્ન_N_NN બાદ_PSP રસોઈ_N_NN બનાવતા_V_VAUX નથી_RP_NEG આવડતી_V_VM તથા_CC_CCD માવતરના_N_NN ઘરેથી_N_NN ગાડી_N_NN નથી_RP_NEG લઈ_V_VM આવી_V_VM જે_RP_RPD લઈ_V_VM આવજે_V_VAUX તેમ_PR_PRL કહી_V_VM દહેજની_N_NN માંગણી_N_NN કરી_V_VM માનસીક_JJ અને_CC_CCD શારીરીક_JJ ત્રાસ_N_NN આપી_V_VM ફરીયાદીને_N_NN માવતર_N_NN ગયા_V_VAUX બાદ_PSP તેડવા_N_NN ન_RP_NEG જતા_V_VAUX તથા_CC_CCD કરીયાવરની_N_NN માંગણી_N_NN કરતા_V_VAUX પાછો_RB નહી_RP_NEG આપી_V_VM છેતરપિંડી_N_NN વિશ્વાસઘાત_JJ કરી_V_VM કરીયાવર_N_NN ઓળવી_V_VAUX જવાની_V_VAUX કોઈ_DM_DMI હકીકત_N_NN ફરીયાદપક્ષ_N_NN નિ:શંકપાગે_N_NN સાબીત_N_NN કરી_V_VM શકેલ_V_VAUX ન_RP_NEG હોય_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=59>આમ_RP_RPD આ_DM_DMD કામે_N_NN રેકર્ડ_N_NN પરના_PSP તમામ_QT_QTF મૌખીક_JJ તથા_CC_CCD દસ્તાવેજી_JJ પુરાવા_N_NN વંચાણે_N_NN લેવામા_V_VAUX આવે_V_VAUX તો_RP_RPD આરોપી_N_NN વિરુઘ્ધ_N_NN તહોમત_N_NN સાબિત_N_NN થયેલ_V_VAUX માની_V_VM શકાય_V_VAUX નહી_RP_NEG તેથી_PSP મુદા_N_NN ૧નો_QT_QTC જવાબ_N_NN નકારમાં_N_NN આપવામાં_V_VAUX આવે_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=60> (_RD_PUNC૯_QT_QTC)_RD_PUNC મુદા_N_NN નં._N_NNર_QT_QTC :_RD_PUNC-_RD_PUNC આમ_RP_RPD ઉપરોકત_RP_RPD રજુ_N_NN થયેલ_V_VAUX રેકર્ડ_N_NN પરના_PSP મોખીક_JJ પુરાવાને_N_NN વંચાણે_N_NN લેતા_V_VM તહોમત_N_NN મુજબની_PSP કોઈ_DM_DMI હકીકત_N_NN આરોપીઓ_N_NN વિરુધ્ધ_N_NN સાબીત_N_NN થતી_V_VM ન_JJ હોય_V_VAUX જેથી_PR_PRL મુદા_N_NN નં._N_NN ૧નો_QT_QTC નિર્ણય_N_NN નકાર_JJ ઠરાવી_V_VM મુદા_N_NN નં._N_NN રનો_QT_QTC જવાબ_N_NN નીચે_N_NST મુજબનો_PSP આખરી_JJ હુકમ_N_NN કરુ_V_VM છુ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=61> (_RD_PUNC૧_QT_QTC)_RD_PUNC ક્રિમીનલ_JJ પ્રોસીજર_N_NN કોડની_N_NN કલમ_N_NN -_RD_PUNC ર૪૮_QT_QTC(_RD_PUNC૧_QT_QTC)_RD_PUNC મુજબ_PSP આરોપી_N_NN નં._N_NN (_RD_PUNC૧_QT_QTC)_RD_PUNC મંજુલાબેન_N_NNP મનસુખભાઈ_N_NNP હીરપરા_N_NNP,_RD_PUNC ઉ.વ._N_NN પ૪_QT_QTC,_RD_PUNC રહે_N_NN નીર્મલા_N_NNP રોડ_N_NN પ્રકાશ_N_NNP સોસાયટી_N_NN -_RD_PUNC ૧_QT_QTC રાજકોટ_N_NNP,_RD_PUNC આરોપી_N_NN નં._N_NN (_RD_PUNCર_QT_QTC)_RD_PUNC માનસીબેન_N_NNP  મહેશભાઇ_N_NNP મુંગલપરા_N_NNP,_RD_PUNC ઉ.વ._N_NN ૩૭_QT_QTC,_RD_PUNC રહે_N_NN નીર્મલા_N_NNP રોડ_N_NN તીરૂપતીનગર_N_NNP શેરી_N_NN નં._N_NN -_RD_PUNC ૧_QT_QTC ''_RD_PUNC  રાજકોટ_N_NNP,_RD_PUNC આરોપી_N_NN નં._N_NN (_RD_PUNC૩_QT_QTC)_RD_PUNC વૈશાલીબેન_N_NNP  વિજ્યભાઈ_N_NNP સોજીત્રા_N_NNP,_RD_PUNC ઉ.વ._N_NN ૩૪_QT_QTC,_RD_PUNC રહે_N_NN સત્યમ_N_NNP કોલોની_N_NN પ્લોટ_N_NN નં._N_NN ૪_QT_QTC રીઘ્ધી_N_NNP સીઘ્ધી_N_NNP એરફોર્સ_N_NN ર_QT_QTC રોડ_N_NN જામનગર_N_NNP તથા_CC_CCD આરોપી_N_NN નં._N_NN (_RD_PUNC૪_QT_QTC)_RD_PUNC શ્વેતાબેન_N_NNP કેતનભાઈ_N_NNP માલાણી_N_NNP,_RD_PUNC ઉ.વ._N_NN ૩૫_QT_QTC,_RD_PUNC રહે_N_NN,_RD_PUNC બાપુનગર_N_NN ઈન્ડીયા_N_NN કોલોની_N_NN રામજી_N_NNP મંદીર_N_NN રોડ_N_NN રાધેક્રિષ્ના_N_NNP એપા._N_NN ફલેટ_N_NN નં._N_NN ૧_QT_QTC અમદાવાદનાઓને_N_NNP તેઓની_PR_PRP વિરુઘ્ધના_N_NN ભારતીય_JJ દંડ_N_NN સહિતાની_N_NN કલમ_N_NN -_RD_PUNC ૪૯૮_QT_QTC(_RD_PUNCક_N_NN)_RD_PUNC,_RD_PUNC ૪૦૬_QT_QTC,_RD_PUNC ૪ર૦_QT_QTC,_RD_PUNC ૧૧૪_QT_QTC તથા_CC_CCD દહેજ_N_NN પ્રતિબંધ_N_NN ધારા_N_NN કલમ_N_NN ૩_QT_QTC,_RD_PUNC૭ના_QT_QTC ગુન્હાના_N_NN તહોમતમાંથી_N_NN નિર્દોષ_JJ ઠરાવી_V_VM છોડી_V_VM મુકવાનો_V_VAUX હુકમ_N_NN કરવામા_V_VAUX આવે_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=62> (_RD_PUNC૨_QT_QTC)_RD_PUNC _આ_DM_DMD કામના_N_NN પક્ષકારોને_N_NN ઘરમેળે_JJ સમાધાન_N_NN થઈ_V_VM જતા_V_VAUX આ_DM_DMD કામના_N_NN આરોપીને_N_NN ઈપીકો_N_NN કલમ_N_NN ૪૦૬_QT_QTC,_RD_PUNC ૪ર૦_QT_QTC અન્વયેના_N_NN શિક્ષાપાત્ર_JJ ગુનામાથી_N_NN કિપો_N_NN કોડની_N_NN કલમ_N_NN -_RD_PUNC ૩ર૦_QT_QTC (_RD_PUNC૧_QT_QTC)_RD_PUNC (_RD_PUNC૮_QT_QTC)_RD_PUNC નિર્દોષ_JJ ઠરાવી_V_VM છોડી_V_VM મુકવામા_V_VAUX આવેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=63> (_RD_PUNC૩_QT_QTC)_RD_PUNC કિપ્રોકોડની_N_NN કલમ_N_NN -_RD_PUNC ૧૯૭૩ની_QT_QTC કલમ_N_NN ૪૩૭_QT_QTC(_RD_PUNCએ_N_NN)_RD_PUNC મુજબ_PSP આરોપીના_N_NN જામીનખત_N_NN અપીલ_N_NN પીરીયડ_N_NN સુધી_RP_RPD ચાલુ_JJ રાખવાનો_V_VAUX હુકમ_N_NN કરવામા_V_VAUX આવે_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=64>આરોપીના_N_NN ખત_N_NN તથા_CC_CCD જામીન_N_NN ખત_N_NN અપીલ_N_NN સમય_N_NN પુરો_RB થયે_V_VM રદ_N_NN ગણવા_V_VAUX._RD_PUNC</Sentence>
+
+</Corpora>

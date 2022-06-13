@@ -1,0 +1,48 @@
+<Corpora type="Monolingual-POS-TAGGED" Language="Gujarati">
+
+<Sentence id=1>શ્રી_JJ કે.પી.જાની_N_NNP,_RD_PUNC પ્રીસાઈડીંગ_N_NN ઓફીસર_N_NN,_RD_PUNC ઈન્ડસ્ટ્રીયલ_N_NN ટીબ્યુનલ_N_NN,_RD_PUNC રાજકોટ_N_NNP સમક્ષ_PSP મુ._N_NN રાજકોટ_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=2> આંક_N_NN-_RD_PUNC ૧૦_QT_QTC રેફરન્સ_N_NN (_RD_PUNC આઈ.ટી._N_NN )_RD_PUNC નંબર_N_NN ૩૫/૨૦૧૭_QT_QTC._RD_PUNC</Sentence>
+
+<Sentence id=3>વિભાગીય_JJ નિયામકશ્રી_JJ,_RD_PUNC એસ.ટી._N_NN કોર્પોરેશન_N_NN,_RD_PUNC
+મોતીબાગ_N_NNP,_RD_PUNC જુનાગઢ_N_NNP._RD_PUNC </Sentence>
+
+<Sentence id=4> પ્રથમ_QT_QTO પક્ષકાર_N_NN વિરુઘ્ધ_N_NN પ્રમુખશ્રી_N_NN,_RD_PUNC ગરવી_JJ ગુજરાત_N_NNP જનરલ_N_NN કામદાર_N_NN મંડળ_N_NN,_RD_PUNC ૧_QT_QTC,_RD_PUNC શક્તિનગર_N_NNP,_RD_PUNC ગરબી_N_NN ચોક_N_NN,_RD_PUNC જીલ્લા_N_NN પંચાયત_N_NN સોસાયટી_N_NN પાછળ_N_NST,_RD_PUNC
+જુનાગઢ_N_NNP._RD_PUNC </Sentence>
+
+<Sentence id=5> બીજા_QT_QTO પક્ષકાર_N_NN 
+પ્રતિનિધિત્વ_JJ :-_RD_PUNC
+પ્રથમ_QT_QTO પક્ષકાર_N_NN તરફે_PSP :_RD_PUNC વિઘ્વાન_JJ વકીલ_N_NN શ્રી_JJ એસ.ડી.જોટાણીયા_N_NNP
+બીજા_QT_QTO પક્ષકાર_N_NN તરફે_PSP :_RD_PUNC વિઘ્વાન_JJ વકીલ_N_NN શ્રી_JJ એચ.પી.ત્રિવેદી_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=6>બાબત_N_NN :_RD_PUNC-_RD_PUNC ઔધોગિક_JJ વિવાદ_N_NN અધિનિયમ_N_NN,_RD_PUNC ૧૯૪૭ની_QT_QTC કલમ_N_NN ૧૦_QT_QTC(_RD_PUNC૧_QT_QTC)_RD_PUNC અન્વયે_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=7> હાલનો_N_NST આ_DM_DMD ઔધોગિક_JJ  વિવાદ_N_NN શ્રમ_N_NN નિયામક_N_NN ગાંઘીનગરનાંએ_N_NNP તેમના_PR_PRP તા_N_NN ૦૮_QT_QTC/_RD_PUNC૦૫_QT_QTC/_RD_PUNC૧૭નાં_QT_QTC હુકમ_N_NN કમાંક_N_NN કે.એચ./એચ.એસ.એમ.સી./૪૦૨૦૩/૫/ર/આઈડીઆર/એજે/૪૦/૨૦૧૭_QT_QTC અન્વયે_N_NN આ_DM_DMD ઔદ્યોગીક_JJ ન્યાયપંચ_N_NN સમક્ષ_PSP ન્યાય_N_NN નિર્ણય_N_NN અર્થે_PSP મોકલેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+ <Sentence id=8>જેની_PR_PRL અનુસુચિ_N_NN નીચે_N_NST મુજબ_PSP છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=9>ગુ.રા.મા.વા.વ્ય._N_NN નિગમ_N_NN કોર્પોરેશન_N_NN જુનાગઢ_N_NNP વિભાગનાં_N_NN વેરાવળ_N_NNP કેન્દ્રમાં_N_NN કંડકટર_N_NN બેજ_N_NN નં._N_NN ૨૭૮૩_QT_QTC તરીકે_PSP નોકરી_N_NN કરતાં_V_VAUX શ્રી_JJ ભીમા_N_NNP પીઠા_N_NNP રાઠોડને_N_NNP માલીકે_N_NN તેનાં_PR_PRP વિભાગીય_JJ દફતરી_N_NN હુકમ_N_NN નં._N_NN ૨૩/૨૦૧૫_QT_QTC (_RD_PUNCડીફોલ્ટ_N_NN કેસ_N_NN નં._N_NN ૧૪/૨૦૧૪_QT_QTC)_RD_PUNC વિભાગીય_JJ નિયામકશ્રીની_N_NN કચેરી_N_NN એસ.ટી._N_NN જુનાગઢનાં_N_NNP પત્ર_N_NN નં._N_NN ડીસીજે/ટ્રા-ડી/#રપ_QT_QTC તા._N_NN ૦૭_QT_QTC/_RD_PUNC૦૨_QT_QTC/_RD_PUNC૨૦૧૫નાં_QT_QTC હુકમથી_N_NN વાર્ષીક_JJ પગાર_N_NN વધારો_QT_QTF ૧_QT_QTC (_RD_PUNCએક_QT_QTC)_RD_PUNC વર્ષ_N_NN માટે_PSP કાયમી_JJ અસરથી_N_NN બંધ_N_NN કરવાનો_V_VAUX હુકમ_N_NN તદન_JJ ગેરવ્યાજબી_JJ,_RD_PUNC ગેરકાયદેસરનો_JJ,_RD_PUNC કુદરતી_JJ ન્યાયનાં_N_NN સિઘ્ધાંતો_N_NN અને_CC_CCD પ્રસ્‍થાપિત_JJ કાયદાઓની_N_NN જોગવાઈઓ_N_NN વિરુઘ્ધનાં_N_NN હતા_V_VAUX અને_CC_CCD છે_V_VAUX તેથી_CC_CCD તે_RB રદબાતલ_N_NN ઠરાવી_V_VAUX આજ_N_NST સુધીમાં_RP_RPD
+માલીકે_N_NN કામદારનાં_N_NN પગાર_N_NN અને_CC_CCD નોકરીનાં_N_NN આનુષાંગીક_JJ લાભોમાંથી_N_NN કરેલ_V_VAUX પગાર_N_NN કાપ_N_NN
+તફાવત_N_NN સહીતની_QT_QTF આર્થીક_JJ લાભો_N_NN નુકશાની_N_NN તફાવતની_N_NN તમામ_QT_QTF રકમ_N_NN પરત્વેનાં_N_NN અન્ય_JJ તમામ_QT_QTF
+લાભો_N_NN ૧૮_QT_QTC %_RD_SYM લેખેનાં_N_NN વ્યાજ_N_NN સાથે_PSP ચુકવી_V_VM આપવા_V_VAUX જોઈએ_V_VAUX કે_CC_CCS કેમ_PR_PRQ ?_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=10> આ_DM_DMD કામની_N_NN સુનાવણી_N_NN દરમ્યાન_PSP તા._N_NN ૨૩_QT_QTC/_RD_PUNC૦૧_QT_QTC/_RD_PUNC૨૦૧૮નાં_QT_QTC રોજ_N_NN બંને_QT_QTC પક્ષકારો_N_NN વચ્ચે_N_NN ઘરમેળે_JJ સમાઘાન_N_NN થતાં_V_VAUX ઔદ્યોગીક_JJ ન્યાયપંચ_N_NN સમક્ષ_PSP આંક_N_NN-_RD_PUNC૯થી_QT_QTC સમાધાન_N_NN રજુ_V_VM કરેલ_V_VAUX હતું_V_VAUX અને_CC_CCD બંને_QT_QTC પક્ષકારોનાં_N_NN પ્રતિનિધિઓ_N_NN દવારા_PSP ઔધ્ધોગીક_JJ ન્યાયપંચ_N_NN સમક્ષ_PSP રુબરુમાં_JJ રજુઆત_N_NN કરતાં_V_VAUX બંને_QT_QTC પક્ષકારોને_N_NN સમાધાન_N_NN કબુલ_N_NN મંજુર_N_NN હોય_V_VAUX સમાધાન_N_NN રેકર્ડ_N_NN ઉપર_N_NST લેવા_V_VM તથા_CC_CCD સમાધાનની_N_NN રુઈએ_N_NN ઔધોગીક_JJ તકરારનો_N_NN નિવેડો_N_NN લાવવા_V_VAUX રજુઆત_N_NN કરેલ_V_VAUX હતી_V_VAUX જેની_PR_PRL ઔદ્યોગીક_JJ ન્યાય_N_NN પંચ_N_NN દવારા_PSP નોઘ_N_NN લેવામાં_V_VAUX આવેલ_V_VAUX હતી_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=11> મારા_PR_PRP દવારા_PSP ઔદ્યોગીક_JJ વિવાદ_N_NN ધારો_N_NN ૧૯૪૭_QT_QTC અને_CC_CCD તેની_PR_PRL નીચેનાં_N_NST નિયમો_N_NN તથા_CC_CCD વિવિધ_JJ અદાલતો_N_NN દવારા_PSP પ્રસ્‍થાપિત_JJ થયેલ_V_VAUX કાયદાનાં_N_NN સિઘ્ઘાંતોને_N_NN ઘ્યાન_N_NN ઉપર_N_NST લેતાં_V_VM ઔદ્યોગીક_JJ વિવાદ_N_NN ધારો_N_NN ઔદ્યોગીક_JJ તકરારોની_N_NN તપાસ_N_NN અને_CC_CCD પતાવટ_N_NN માટે_PSP અને_CC_CCD બીજા_QT_QTO અમુક_QT_QTF હેતુઓ_N_NN માટેની_PSP જોગવાઈ_N_NN કરવાનાં_V_VAUX ઉદેશથી_N_NN બનાવવામાં_V_VAUX આવેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=12>મારા_PR_PRP દવારા_PSP આંક_N_NN-_RD_PUNC૯નું_QT_QTC સમાધાન_N_NN ઘ્યાન_N_NN ઉપર_N_NST લેવામાં_V_VAUX આવેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=13>અને_CC_CCD બંને_QT_QTC પક્ષકારોને_N_NN સમાધાન_N_NN કબુલ_N_NN મંજુર_N_NN હોય_V_VAUX સમાધાન_N_NN રેકર્ડ_N_NN કરી_V_VM નીચે_N_NST મુજ_PSP આખરી_JJ હુકમ_N_NN કરું_V_VAUX છું_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=14> (_RD_PUNC૧_QT_QTC)_RD_PUNC બંને_QT_QTC પક્ષકારો_N_NN દવારા_PSP આંક_N_NN-_RD_PUNC ૯થી_QT_QTC સંયુક્ત_JJ રીતે_RB સમાધાન_N_NN રજુ_V_VM કરેલ_V_VAUX હોય_V_VAUX સમાધાનની_N_NN શરતો_N_NN મુજબ_PSP ઉપરોકત_RP_RPD વિવાદ_N_NN ફેસલ_N_NN કરવામાં_V_VAUX આવે_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=15> (_RD_PUNCર_QT_QTC)_RD_PUNC આ_DM_DMD કામનાં_N_NN બંને_QT_QTC પક્ષકારોએ_N_NN આંક_N_NN-_RD_PUNC ૯થી_QT_QTC રજુ_V_VM થયેલ_V_VAUX સમાધાનની_N_NN શરતો_N_NN મુજબ_PSP વર્તવાનું_V_VAUX રહેશે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=16> (_RD_PUNC૩_QT_QTC)_RD_PUNC ખર્ચ_N_NN અંગે_PSP કોઈ_DM_DMI હુકમ_N_NN કરવામાં_V_VAUX આવતો_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=17>સ્થળ_N_NN :_RD_PUNC રાજકોટ_N_NNP (_RD_PUNC કિરીટ_N_NNP પ્રભુલાલ_N_NNP જાની_N_NNP )_RD_PUNC
+તારીખ_N_NN :_RD_PUNC ૦૨_QT_QTC-_RD_PUNC૦૨_QT_QTC-_RD_PUNC૨૦૧૮_QT_QTC જી.જે._N_NN ૦૦૫૦૩_QT_QTC
+ઔદ્યોગિક_JJ ન્યાયપંચ_N_NN,_RD_PUNC
+રાજકોટ_N_NNP._RD_PUNC</Sentence>
+
+</Corpora>

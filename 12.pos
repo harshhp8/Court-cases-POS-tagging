@@ -1,0 +1,296 @@
+<Corpora type="Monolingual-POS-TAGGED" Language="Gujarati">
+
+<Sentence id=1>રાજકોટ_N_NNP જિલ્લાની_N_NN પ્રથમ_QT_QTO મજૂર_N_NN અદાલતના_N_NN કર્મચારી_N_NN વળતર_N_NN ધારા_N_NN હેઠળ_PSP નિમાયેલ_V_VAUX કમિશ્નર_N_NN શ્રી_JJ આર.બી.ઈટાલીયા_N_NNP સમક્ષ_PSP._RD_PUNC
+</Sentence>
+
+<Sentence id=2>કર્મચારી_N_NN વળતર_N_NN (_RD_PUNCએર્ગ્પમેન્ટ_N_NN)_RD_PUNC અરજી_N_NN નંબર_N_NN :_RD_PUNC ૧૫૫_QT_QTC/_RD_PUNC૨૦૧૮_QT_QTC._RD_PUNC</Sentence>
+
+<Sentence id=3>અરજદાર_N_NN :_RD_PUNC રાજકુમાર_N_NNP દુર્ગાપ્રસાદ_N_NNP યાદવ_N_NNP
+કુશમહવા_N_NN,_RD_PUNC બરદોલીયા_N_NN,_RD_PUNC બલરામપુર_N_NNP,_RD_PUNC બરદોલીયા_N_NN,_RD_PUNC ઉતરપ્રદેશ_N_NNP-_RD_PUNC૨૭૧_QT_QTC ૨૦૭_QT_QTC વિરુધ્ધ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=4>સામાવાળા_JJ :_RD_PUNC (_RD_PUNC૧_QT_QTC)_RD_PUNC જે.કે.મેન્યુફેક્ચર્સ_N_NN
+આજી_N_NN વસાહત_N_NN,_RD_PUNC જી.આઈ.ડી.સી._N_NN સી-૧_QT_QTC બી_N_NN,_RD_PUNC ૨૮_QT_QTC
+રાજકોટ_N_NNP-_RD_PUNC૩૬૦_QT_QTC ૦૦૨_QT_QTC._RD_PUNC</Sentence>
+
+<Sentence id=5>(_RD_PUNC૨_QT_QTC)_RD_PUNC ધી_N_NN ઓર્રીએન્ટલ_N_NN ઈસ્યોરન્સ_N_NN કુ.લી._N_NN,_RD_PUNC
+ડી.ઓ._N_NN-_RD_PUNC૨_QT_QTC મલય_N_NNP ટેડ_N_NN સેન્ટર_N_NN,_RD_PUNC ઢેબર_N_NN રોડ_N_NN,_RD_PUNC વન_QT_QTC વે_N_NN,_RD_PUNC જીવન_N_NN કોર્મ_N_NN બેંક_N_NN સામે_PSP,_RD_PUNC રાજકોટ_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=6>હાજર_N_NN રહયા_V_VAUX :_RD_PUNC અરજદાર_N_NN તરફે_PSP :_RD_PUNC વિ.વ.શ્રી_JJ એમ.એમ.તન્ના_N_NNP સામાવાળા_JJ નં._N_NN ૧_QT_QTC તરફે_PSP :_RD_PUNC ગેરહાજર_JJ સામાવાળા_JJ નં._N_NN ૨_QT_QTC તરફે_PSP :_RD_PUNC વિ.વ.શ્રી_JJ ડી.આર.ચૌધરી_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=7>આંક_N_NN-_RD_PUNC૧_QT_QTC અને_CC_CCD આંક_N_NN-_RD_PUNC૧૦નો_QT_QTC સંયુકત_JJ હુકમ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=8> (_RD_PUNC૧_QT_QTC)_RD_PUNC આ_DM_DMD કામના_N_NN સામાવાળા_JJ નં_N_NN-_RD_PUNC૧ના_QT_QTC એ_DM_DMD સામાવાળા_JJ નં._N_NN ૨_QT_QTC પાસે_PSP કર્મચારી_N_NN અકસ્માત_N_NN વીમો_N_NN લીધેલ_V_VAUX હતો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=9> અરજદાર_N_NN રાજકુમાર_N_NNP યાદવને_N_NNP તા._N_NN ૧૫_QT_QTC/_RD_PUNC૦૩_QT_QTC/_RD_PUNC૨૦૧૮_QT_QTC રોજ_N_NN સામાવાળા_JJ નં._N_NN ૧ને_QT_QTC ત્યાં_N_NST કામ_N_NN કરતાં_V_VAUX થયેલ_V_VAUX અકસ્માત_N_NN ઈજાઓને_N_NN કારણે_N_NN આવેલ_V_VAUX કાયમી_JJ આંશિક_JJ અસમર્થતાના_JJ વળતર_N_NN પેટે_PSP વીમા_N_NN કંપનીએ_N_NN વળતર_N_NN મંજુર_N_NN કરતા_V_VAUX તા._N_NN ૧૦_QT_QTC/_RD_PUNC૦૭_QT_QTC/_RD_PUNC૨૦૧૮ના_QT_QTC રોજ_N_NN રૂ_N_NN ૧૮,૮૮૨નો_QT_QTC ચેક_N_NN નિયત_N_NN નમુના_N_NN ફોર્મ_N_NN-_RD_PUNC એલ_N_NN,_RD_PUNC વીમા_N_NN ક્લેઈમ_N_NN ફોર્મ_N_NN-_RD_PUNC,_RD_PUNC મેડીકલ_N_NN રીપોર્ટ_N_NN,_RD_PUNC ડોક્ટરશ્રીનું_N_NN ખોડ_N_NN અંગેનું_PSP સર્ટી_N_NN,_RD_PUNC અરજદારના_N_NN આધારકાર્ડની_N_NN નકલ_N_NN,_RD_PUNC અરજદારનો_N_NN ઈજાવાળો_N_NN ફોટોગ્રાફ_N_NN,_RD_PUNC પગારપત્રક_N_NN અને_CC_CCD હાજરીપત્રક_N_NN ઝેરોક્ષ_N_NN સાથે_PSP અત્રેની_PSP કચેરીમાં_N_NN જમા_V_VM કરાવતા_V_VAUX,_RD_PUNC તેને_PR_PRP એગ્રીમેન્ટ_N_NN રજીસ્ટરે_N_NN નોંધી_V_VAUX પક્ષકારને_N_NN એગ્રીમેન્ટની_N_NN નોંધણી_V_VAUX કરવા_V_VAUX અંગે_PSP નોટીસ_N_NN કાઢવામાં_V_VAUX આવેલી_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=10>અરજદારને_N_NN નોટીસ_N_NN બજતા_N_NN તેઓએ_PR_PRP હાજર_N_NN થઈ_V_VAUX આંક_N_NN-_RD_PUNC૧૦થી_QT_QTC અરજી_N_NN રજુ_V_VM કરી_V_VM જમા_V_VM થયેલ_V_VAUX વળતરની_N_NN રકમ_N_NN ઓછી_JJ જમા_V_VM કરાવેલી_V_VAUX છે_V_VAUX અને_CC_CCD મળવાપાત્ર_JJ થતી_V_VAUX રકમ_N_NN રૂ_N_NN ૪૪,૩૫૧_QT_QTC થાય_V_VAUX છે_V_VAUX જેથી_CC_CCD તફાવતની_N_NN બાકી_JJ રહેતી_V_VAUX રકમ_N_NN રૂ_N_NN ૨૫,૪૬૯_QT_QTC સામાવાળા_JJ જમા_V_VM કરાવે_V_VAUX તેવો_RP_RPD હુકમ_N_NN કરવા_V_VAUX દાદ_N_NN માંગેલ_V_VAUX,_RD_PUNC તથા_CC_CCD તેમાં_PR_PRL એવું_RP_RPD જણાવેલ_V_VAUX કે_CC_CCS,_RD_PUNC અરજદારનો_N_NN પગાર_N_NN માસિક_N_NN રૂ_N_NN ૪,૮૦૧_QT_QTC તથા_CC_CCD ૨૩_QT_QTC વર્ષની_N_NN ઉમર_N_NN સામે_PSP ફેક્ટર_N_NN ૨૧૯.૯૫_QT_QTC તથા_CC_CCD વ.કો._N_NN એકટ_N_NN મુજબ_PSP ૭_QT_QTC ટકા_N_NN ખોટ_JJ રહી_V_VM ગયેલ_V_VAUX છે_V_VAUX અને_CC_CCD તે_RP_RPD રીતે_RB કુલ_JJ વળતરની_N_NN રકમ_N_NN રૂ_N_NN ૪૪,૩૫૧_QT_QTC થાય_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=11>તે_PR_PRL અપાવવા_V_VAUX અરજ_N_NN કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=12>અરજદારની_N_NN અરજી_N_NN અન્વયે_N_NN આ_DM_DMD કામના_N_NN સામાવાળાઓને_JJ તફાવતની_N_NN રકમ_N_NN અંગે_PSP તેમના_PR_PRP વિરુધ્ધ_N_NN હુકમ_N_NN શા_PR_PRQ માટે_PSP ન_RP_NEG કરવો_V_VAUX તેના_PR_PRL કારણો_N_NN જણાવવા_V_VAUX શોકોઝ_JJ નોટીસ_N_NN કાઢવામાં_V_VAUX આવેલી_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=13>સામાવાળા_JJ નંબર_N_NN-_RD_PUNC૧ના_QT_QTC એ_DM_DMD આંક_N_NN-_RD_PUNC૧૨થી_QT_QTC જવાબ_N_NN રજુ_V_VM કરો_V_VAUX એવુ_RP_RPD જણાવેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC આ_DM_DMD કામે_N_NN વળતરની_N_NN રકમ_N_NN સામાવાળા_JJ નં._N_NN-_RD_PUNCરના_QT_QTC એ_DM_DMD જમા_V_VM કરાવેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=14>જો_RP_RPD કોઈ_DM_DMI વળતરની_N_NN રકમ_N_NN ખુટતી_JJ હોય_V_VAUX તો_RP_RPD તેની_PR_PRL જવાબદારી_N_NN વીમા_N_NN કંપનીની_N_NN છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=15>સામાવાળા_JJ નં._N_NN -_RD_PUNC૧_QT_QTC કોઈ_DM_DMI રજુઆત_N_NN કરવા_V_VAUX માંગતા_V_VAUX નથી_RP_NEG કે_CC_CCS જુબાની_N_NN આપવા_V_VAUX માંગતા_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=16>સામાવાળા_JJ નંબર_N_NN-_RD_PUNC૨_QT_QTC વીમા_N_NN કંપનીએ_N_NN આંક_N_NN-_RD_PUNC૧૭થી_QT_QTC લેખીત_JJ જવાબ_N_NN વાંધા_N_NN રજુ_V_VM કરી_V_VM જણાવેલું_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC અરજદારની_N_NN અરજી_N_NN ખરી_JJ અને_CC_CCD કાયદેસરની_JJ નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=17>કર્મચારી_N_NN વળતર_N_NN ધારાની_N_NN જોગવાઈ_N_NN મુજબ_PSP
+વળતર_N_NN ચુકવવાની_V_VAUX પ્રાથમીક_JJ જવાબદારી_N_NN માલીકની_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=18> સામાવાળા_JJ નં._N_NN-_RD_PUNC૧ના_QT_QTC એ_DM_DMD ક્લેઈમ_N_NN અંગે_PSP રજુ_V_VM
+કરેલ_V_VAUX દસ્તાવેજોમાં_N_NN ડો.ગીરીશ_N_NNP અમલાણીનું_N_NNP સર્ટીફીકેટ_N_NN રજુ_V_VM થયેલ_V_VAUX તે_PR_PRL મુજબ_PSP કોઈ_DM_DMI ખોડ_N_NN રહેલ_V_VAUX નથી_RP_NEG તેમ_PR_PRL છતા_CC_CCD ડો.હીરેન_N_NNP કોઠારીના_N_NNP સર્ટી._N_NN મુજબ_PSP વીમા_N_NN કંપનીએ_N_NN ૩%_QT_QTC ખોડ_N_NN ગણી_V_VM રકમ_N_NN જમા_V_VM કરાવેલ_V_VAUX છે_V_VAUX અને_CC_CCD અરજદારે_N_NN એગ્રીમેન્ટમાં_N_NN સહી_N_NN કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence> 
+
+<Sentence id=19>અરજદારે_N_NN ૭%_QT_QTC ખોડ_N_NN હોવાનું_V_VAUX જણાવેલ_V_VAUX છે_V_VAUX પરંતુ_CC_CCD
+તે_PR_PRL હકીકત_N_NN ખરી_JJ નથી_RP_NEG અને_CC_CCD કોઈ_DM_DMI પુરાવો_N_NN નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=20> ખોડ_N_NN માટે_PSP ડો.નો_N_NN પુરાવો_N_NN જરૂરી_N_NN છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=21>તેમ_PR_PRL જણાવી_V_VAUX વધુમાં_QT_QTF એવુ_RP_RPD જણાવેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC માલીકે_N_NN મોકલેલ_V_VAUX દસ્તાવેજ_N_NN પ્રમાણે_N_NN વળતર_N_NN જમા_V_VM કરાવેલ_V_VAUX છે_V_VAUX તેથી_CC_CCD અરજી_N_NN રદ_N_NN કરવી_V_VAUX જોઈએ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=22>આ_DM_DMD કામે_N_NN અરજદાર_N_NN તરફે_PSP નીચે_N_NST મુજબના_PSP પુરાવા_N_NN રજુ_V_VM થયેલા_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=23>ક્રમ_N_NN વિગત_N_NN માર્ક_N_NN /_RD_PUNC આંક_N_NN
+૧._QT_QTC અરજદારની_N_NN જુબાની_N_NN આંક_N_NN-_RD_PUNC૧૯_QT_QTC
+૨._QT_QTC અરજદારના_N_NN સાહેદ_N_NN ડો.હીરેન_N_NNP કોઠારીની_N_NNP જુબાની_N_NN આંક_N_NN-_RD_PUNCર૨પ૫_QT_QTC
+૩._QT_QTC અરજદારનો_N_NN એકસ-૨_N_NN રીપોર્ટ_N_NN માર્ક_N_NN-_RD_PUNC૯/૧_QT_QTC
+૪._QT_QTC એકસ-રે_N_NN ફીલ્મ_N_NN માર્ક_N_NN-_RD_PUNC૯/૨_QT_QTC
+પ._QT_QTC અરજદારનો_N_NN ફોટોગ્રાફ_N_NN-_RD_PUNC૨_QT_QTC માર્ક_N_NN-_RD_PUNC૯/૩_QT_QTC._RD_PUNC</Sentence>
+
+<Sentence id=24>અરજદાર_N_NN તરફે_PSP આંક_N_NN-_RD_PUNCર૬થી_QT_QTC ક્લોઝીંગ_N_NN પુરશીષ_N_NN રજુ_V_VM કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=25>સામાવાળા_JJ નં._N_NN ૧ના_QT_QTC એ_DM_DMD કોઈ_DM_DMI પૂરાવો_N_NN રજુ_V_VM કરેલ_V_VAUX નથી_RP_NEG,_RD_PUNC આંક_N_NN-_RD_PUNC૨૭થી_QT_QTC કલોઝીંગ_N_NN પુરસીસ_N_NN રજુ_V_VM કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=26>આ_DM_DMD કામે_N_NN સામાવાળા_JJ નં._N_NN રના_QT_QTC એ_DM_DMD નીચે_N_NST મુજબના_PSP પુરાવા_N_NN રજુ_V_VM કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=27>ક્રમ_N_NN વિગત_N_NN માર્ક_N_NN
+૧_QT_QTC ડો.હીરેન_N_NNP કોઠારીનું_N_NNP સર્ટી._N_NN માર્ક_N_NN-_RD_PUNC૧/૧_QT_QTC
+ર_QT_QTC ડો._N_NN અમલાણીનો_N_NNP મેડીકલ_N_NN રીપોર્ટ_N_NN માર્ક_N_NN-_RD_PUNC૧/૨_QT_QTC
+૩_QT_QTC વીમા_N_NN કલેઈમ_N_NN ફોર્મ_N_NN માર્ક_N_NN-૧/૩_QT_QTC
+૪_QT_QTC અરજદારના_N_NN આધારકાર્ડની_N_NN નકલ_N_NN માર્ક_N_NN-_RD_PUNC૧/૪_QT_QTC
+પ_QT_QTC અરજદારની_N_NN ઈજાનો_N_NN ફોટોગ્રાફ_N_NN માર્ક_N_NN-_RD_PUNC૧/પ_QT_QTC
+દ_N_NN પગારપત્રક_N_NN તથા_CC_CCD હાજરીપત્રકની_N_NN નકલ_N_NN માર્ક_N_NN-_RD_PUNC૧/૬_QT_QTC
+૭_QT_QTC વીમા_N_NN કંપનીને_N_NN ડીસ્ચાર્જ_JJ વાઉચર_N_NN માર્ક_N_NN-_RD_PUNC૨૧/૧_QT_QTC
+૮_QT_QTC ડો._N_NN અમલાણીનો_N_NNP મેડીકલ_N_NN રીપોર્ટ_N_NN માર્ક_N_NN-_RD_PUNC૨૧/ર_QT_QTC
+૯_QT_QTC ડો._N_NN કોઠારીનું_N_NNP મેડીકલ_N_NN અભિપ્રાય_N_NN માર્ક_N_NN-_RD_PUNC૨૧/૩_QT_QTC._RD_PUNC</Sentence>
+
+<Sentence id=28>સામાવાળા_JJ નં._N_NN-_RD_PUNC૨_QT_QTC તરફે_PSP આંક_N_NN-_RD_PUNC૨૮થી_QT_QTC કલોઝીંગ_N_NN પુરસીસ_N_NN રજુ_V_VM કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=29>આ_DM_DMD કામે_N_NN અરજદારના_N_NN વિ.વ.શ્રી_JJ એ_DM_DMD અરજી_N_NN તથા_CC_CCD રેકર્ડ_N_NN મુજબ_PSP દલીલ_N_NN કરેલ_V_VAUX છે_V_VAUX તથા_CC_CCD એવુ_RP_RPD જણાવેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC અરજદારને_N_NN જમણા_JJ હાથે_N_NN વચ્ચેની_N_NST આંગળીમાં_N_NN એક_QT_QTC વેઢો_N_NN કપાયેલ_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=30>જે_RP_RPD એક્સ-રે_N_NN માં_N_NN તથા_CC_CCD ફોટોગ્રાફમાં_N_NN જોઈ_V_VM શકાય_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=31>તેમ_PR_PRL છતા_CC_CCD વીમાકંપનીએ_N_NN ૩%_QT_QTC મુજબ_PSP ખોડ_N_NN ગણી_V_VM વળતરની_N_NN રકમ_N_NN જમા_V_VM કરાવેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=32>આ_DM_DMD કામે_N_NN ડોકટરશ્રી_N_NN કોઠારીને_N_NNP તપાસવામાં_V_VAUX આવેલ_V_VAUX છે_V_VAUX તેણે_PR_PRP પણ_CC_CCD અરજદારને_N_NN ૭%_QT_QTC ખોડ_N_NN હોવાનું_V_VAUX સ્વીકારેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=33> આથી_CC_CCD અરજદારને_N_NN તે_PR_PRL મુજબ_PSP ગણતરી_V_VAUX કરી_V_VM વળતર_N_NN
+ચુકવવા_V_VAUX સામાવાળા_JJ જવાબદાર_JJ છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=34>અરજદારને_N_NN જમણા_JJ હાથે_N_NN પહેલી_QT_QTO આંગળીમાં_N_NN અગાઉ_N_NST ઈજા_N_NN થયેલ_V_VAUX હતી_V_VAUX તે_PR_PRL હકીકત_N_NN આંક_N_NN-_RD_PUNC૨૯થી_QT_QTC સોગંદનામુ_N_NN કરી_V_VM જાહેર_V_VM પણ_CC_CCD કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=35>  યોગ્ય_JJ હુકમ_N_NN
+કરવા_V_VAUX રજુઆત_N_NN કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=36>સામાવાળા_JJ નં._N_NN-_RD_PUNC૧_QT_QTC તરફે_PSP કોઈ_DM_DMI દલીલ_N_NN માટે_PSP હાજર_N_NN નહી_RP_NEG રહેતા_V_VAUX,_RD_PUNC તેનો_PR_PRP હકક_N_NN આંક_N_NN-_RD_PUNC૩૪ના_QT_QTC હુંકમ_N_NN કરી_V_VM બંધ_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=37>આ_DM_DMD કામે_N_NN સામાવાળા_JJ નંબર_N_NN-_RD_PUNC૨ના_QT_QTC તરફે_PSP તેના_PR_PRP વિ.વ.શ્રીની_N_NN રજુઆત_N_NN છે_V_VAUX કે_CC_CCS,_RD_PUNC અરજદારને_N_NN સારવાર_RB આપનાર_V_VAUX ડો._N_NN ગીરીશ_N_NNP અમલાણીનો_N_NNP મેડીકલ_N_NN રીપોર્ટ_N_NN માર્ક_N_NN-_RD_PUNC૨૧/રથી_QT_QTC રજુ_V_VM થયેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=38>તેમાં_PR_PRL
+અરજદારને_N_NN કમાવાની_N_NN શકિતમાં_N_NN કોઈ_DM_DMI ઘટાડો_QT_QTF થયેલ_V_VAUX હોવાનું_V_VAUX નોંધેલ_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=39>તેમ_PR_PRL છતા_CC_CCD વીમાકંપનીએ_N_NN ડોકટરશ્રી_N_NN કોઠારીના_N_NNP અભિપ્રાય_N_NN ઉપર_N_NST આધાર_N_NN રાખી_V_VM ૩%_QT_QTC મુજબ_PSP વળતર_N_NN જમા_V_VM કરાવેલ_V_VAUX છે_V_VAUX તેથી_CC_CCD અરજદારની_N_NN અરજી_N_NN રદ_N_NN કરવા_V_VAUX વિનંતી_JJ છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=40>દલીલો_N_NN ધ્યાને_N_NN લીધી_V_VM રેકર્ડ_N_NN વંચાણે_V_VAUX લીધું_V_VAUX મારા_PR_PRP નિર્ણય_N_NN અર્થે_PSP નીચે_N_NST મુજબના_PSP મુદા_N_NN ઉપસ્થિત_N_NN થાય_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=41>મુદાઓN_NN-_RD_PUNC
+૧._QT_QTC શું_PR_PRQ એગ્રીમેન્ટની_N_NN નોંધણી_V_VAUX રજીસ્ટરે_N_NN કરવા_V_VAUX હુકમ_N_NN કરવો_V_VAUX જોઈએ_V_VAUX?_RD_PUNC</Sentence>
+
+<Sentence id=42>૨._QT_QTC શું_PR_PRQ સામાવાળાઓ_JJ વિરુધ્ધ_N_NN જમા_V_VM રકમ_N_NN ઉપરાંત_RP_RPD વધુ_JJ વળતરની_N_NN રકમ_N_NN અંગે_PSP હુકમ_N_NN કરવો_V_VAUX જોઈએ_V_VAUX?_RD_PUNC</Sentence>
+
+<Sentence id=43>૩._QT_QTC શું_PR_PRQ હુકમ_N_NN?_RD_PUNC</Sentence>
+
+<Sentence id=44> (_RD_PUNC૮_QT_QTC)_RD_PUNC ઉપરોકત_RP_RPD મુદાના_N_NN મારા_PR_PRP નિર્ણયો_N_NN નીચે_N_NST મુજબ_PSP છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=45>નિર્ણયો_N_NN :_RD_PUNC
+૧._QT_QTC નકારમાં_N_NN
+૨._QT_QTC હકારમા_N_NN
+૩._QT_QTC આખરી_JJ હુકમ_N_NN મુજબ_PSP._RD_PUNC</Sentence>
+
+<Sentence id=46> (_RD_PUNC૯_QT_QTC)_RD_PUNC ઉપરોકત_RP_RPD નિર્ણયના_N_NN મારા_PR_PRP કારણો_N_NN નીચે_N_NST મુજબ_PSP છે_V_VAUX._RD_PUNC</Sentence>
+
+
+<Sentence id=47>(_RD_PUNC૯.૧_QT_QTC)_RD_PUNC આ_DM_DMD કામે_N_NN સામાવાળા_JJ તરફે_PSP રજુ_V_VM થયેલ_V_VAUX આંક_N_NN-_RD_PUNC૧માં_QT_QTC જણાવ્યા_V_VAUX મુજબ_PSP તથા_CC_CCD અરજદારે_N_NN તેની_PR_PRL ખૂટતી_JJ રકમની_N_NN અરજીમાં_N_NN જણાવ્યા_V_VAUX મુજબ_PSP સરેરાશ_JJ માસિક_N_NN પગાર_N_NN રૂ_N_NN ૪,૮૦૧_QT_QTC હતો_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=48>તેમજ_CC_CCD
+અકસ્માત_N_NN સમયે_N_NN અરજદારની_N_NN ઉમર_N_NN ૨૩_QT_QTC વર્ષની_N_NN હતી_V_VAUX,_RD_PUNC તથા_CC_CCD તેની_PR_PRP સામેનું_N_NST ફેકટર_N_NN ૨૧૯.૯૫_QT_QTC હતું_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=49>તેમજ_CC_CCD અરજદારને_N_NN અકસ્માત_N_NN સામાવાળા_JJ નં._N_NN ૧ની_QT_QTC નોકરીની_N_NN ફરજ_N_NN દરમ્યાન_PSP તથા_CC_CCD ફરજના_N_NN
+કારણે_N_NN થયેલ_V_VAUX હોવાનું_V_VAUX અને_CC_CCD અકસ્માતમાં_N_NN અરજદારને_N_NN ઈજા_N_NN થયાની_V_VAUX હકીકત_N_NN અંગે_PSP પક્ષકારો_N_NN
+વચ્ચે_PSP કોઈ_DM_DMI તકરાર_N_NN નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=50>અરજદારના_N_NN કહેવા_V_VAUX મુજબ_PSP અકસ્માતને_N_NN કારણે_N_NN તેને_PR_PRP ૭_QT_QTC ટકા_N_NN ખોટ_JJ રહી_V_VM
+ગયેલ_V_VAUX,_RD_PUNC જયારે_N_NST સામાવાળા_JJ નં._N_NN ૨_QT_QTC વીમા_N_NN કંપનીના_N_NN કહેવા_V_VAUX મુજબ_PSP તેને_PR_PRP ૩_QT_QTC ટકા_N_NN ખોટ_JJ રહેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=51>આથી_CC_CCD
+અરજદારને_N_NN કેટલા_QT_QTF ટકા_N_NN શારિરીક_JJ ખોટ_JJ રહેલ_V_VAUX છે_V_VAUX અને_CC_CCD તેના_PR_PRL કારણે_N_NN કમાવાની_N_NN શકિતમાં_N_NN કેટલો_QT_QTF ધટાડો_JJ થયેલ_V_VAUX છે_V_VAUX તે_PR_PRL બાબતે_N_NN નિર્ણય_N_NN કરવાનો_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+
+<Sentence id=52> (_RD_PUNC૯.૨_QT_QTC)_RD_PUNC કર્મચારી_N_NN વળતર_N_NN ધારાની_N_NN ક્લમ_N_NN ૪_QT_QTC(_RD_PUNC૧_QT_QTC)_RD_PUNC(_RD_PUNCસી_N_NN)_RD_PUNC(_RD_PUNC1_QT_QTC)_RD_PUNC માં_N_NN કર્મચારી_N_NN વળતર_N_NN ધારા_N_NN
+અન્વયે_N_NN વળતરની_N_NN ગણતરી_V_VAUX માટે_PSP લોસ_N_NN ઓફ_PSP અર્નીંગ_N_NN કેપેસીટી_N_NN કઈ_PR_PRQ રીતે_RB નકકી_N_NN કરવી_V_VAUX તે_PR_PRL જણાવેલ_V_VAUX
+છે_V_VAUX._RD_PUNC  </Sentence>
+
+<Sentence id=53>આથી_CC_CCD તે_PR_PRL કલમ_N_NN ધ્યાને_N_NN લેવી_V_VM જરૂરી_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=54>સદરહુ_N_NN કાયદાની_N_NN જોગવાઈ_N_NN ધ્યાને_N_NN લેતાં_V_VM જયારે_N_NST કર્મચારીને_N_NN કાયમી_JJ આંશિક_JJ અસમર્થતા_N_NN
+આવેલ_V_VAUX હોય_V_VAUX અને_CC_CCD તે_PR_PRL ઈજા_N_NN શેડયુલ્ડ_N_NN-_RD_PUNC૧માં_QT_QTC જણાવ્યા_V_VAUX મુજબની_PSP હોય_V_VAUX તેવા_PR_PRL સંજોગોમાં_N_NN શેડયુલ્ડ_N_NN-_RD_PUNC૧માં_QT_QTC
+દર્શાવા_V_VAUX મુજબ_PSP કર્મચારીને_N_NN એ_DM_DMD અકસ્માત_N_NN ઈજાના_N_NN કારણે_N_NN કમાવાની_N_NN શકિતમાં_N_NN ઘટાડો_QT_QTF થયેલ_V_VAUX
+ગણાય_V_VAUX,_RD_PUNC પરંતુ_CC_CCD જયારે_N_NST શેડયુલ્ડ_N_NN-_RD_PUNC૧_QT_QTC મુજબની_PSP ઈજા_N_NN ન_RP_NEG હોય_V_VAUX તેવા_PR_PRL સંજોગોમાં_N_NN કવોલીફાઈડ_N_NN મેડીકલ_N_NN
+પ્રેકટીશનરે_N_NN આકાર્યા_N_NN મુજબ_PSP કર્મચારીની_N_NN કમાવાની_N_NN શકિતમાં_N_NN ઘટાડો_QT_QTF ગણવાનો_V_VAUX રહેશે_V_VAUX._RD_PUNC</Sentence> 
+
+<Sentence id=55>કવોલીકાઈડ_N_NN
+મેડીકલ_N_NN પ્રેકટીશનરની_N_NN વ્યાખ્યા_N_NN કલમ_N_NN ર_QT_QTC(_RD_PUNCઆઈ_N_NN)_RD_PUNC મુજબ_PSP રજીસ્ટર્ડ_N_NN મેડીકલ_N_NN પ્રેકટીશનર_N_NN તેમ_PR_PRL કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=56>આમ_N_NST આ_DM_DMD કાયદાકીય_JJ જોગવાઈ_N_NN મુજબ_PSP જયારે_N_NST કર્મચારીને_N_NN થયેલ_V_VAUX ઈજા_N_NN શીડયુલ્ડ_N_NN ન_RP_NEG હોય_V_VAUX એટલે_CC_CCD કે_CC_CCD,_RD_PUNC
+નોન_JJ-_RD_PUNCશીડયુલ્ડ_N_NN હોય_V_VAUX ત્યારે_N_NST મહત્વનો_JJ પુરાવો_N_NN મેડીકલ_N_NN પ્રેકટીશનરનો_N_NN ગણાય_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence _id=57>(_RD_PUNC૯.૩_QT_QTC)_RD_PUNC આ_DM_DMD કામે_N_NN અરજદારને_N_NN રહેલ_V_VAUX કાયમી_JJ ખોડ_N_NN તથા_CC_CCD કમાવાની_N_NN શકિતમાં_N_NN ઘટાડો_QT_QTF પુરવાર_JJ કરવા_V_VAUX
+માટે_PSP અરજદાર_N_NN તરફે_PSP આંક_N_NN-_RD_PUNC૨પથી_QT_QTC ડોકટરશ્રી_N_NN હીરેન_N_NNP કોઠારીને_N_NNP તપાસવામાં_V_VAUX આવેલ_V_VAUX છે_V_VAUX તથા_CC_CCD
+આંક_N_NN-_RD_PUNC૧૯થી_QT_QTC અરજદારે_N_NN જુબાની_N_NN આપેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=58>અરજદારે_N_NN તેની_PR_PRP જુબાનીમાં_N_NN એવુ_RP_RPD જણાવેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC તેને_PR_PRP જમણા_JJ હાથની_N_NN વચ્ચેની_N_NST આંગળીમાં_N_NN ઈજા_N_NN થયેલ_V_VAUX છે_V_VAUX અને_CC_CCD જમણા_JJ હાથની_N_NN વચ્ચેની_N_NST આંગળીનો_N_NN વેઢો_N_NN
+કપાઈ_N_NN ગયેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=59>અરજદારે_N_NN આંક_N_NN-_RD_PUNC૨૦થી_QT_QTC એવુ_RP_RPD પણ_CC_CCD જાહેર_V_VM કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC હાલના_N_NST સવાલવાળા_JJ
+બનાવમાં_N_NN તેને_PR_PRP ફકત_JJ જમણા_JJ હાથની_N_NN વચ્ચેની_N_NST આંગળીમા_N_NN જ_RP_RPD ઈજા_N_NN થયેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+
+<Sentence id=60>જમણા_JJ હાથની_N_NN પહેલી_QT_QTO
+આંગળીમાં_N_NN થયેલ_V_VAUX ઈજા_N_NN અગાઉની_N_NST છે_V_VAUX,_RD_PUNC એટલે_CC_CCD કે_CC_CCD આ_DM_DMD અકસ્માતમાં_N_NN થયેલ_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+
+<Sentence id=61>આ_DM_DMD કામે_N_NN માર્ક_N_NN-_RD_PUNC૯/૩થી_QT_QTC અરજદારના_N_NN હાથની_N_NN ઈજા_N_NN દર્શાવતા_V_VAUX ૨_QT_QTC કોટોગ્રાકસ_N_NN રજુ_V_VM થયેલ_V_VAUX છે_V_VAUX તથા_CC_CCD માર્ક_N_NN-_RD_PUNC૯/રથી_QT_QTC
+એક્સ-રે_N_NN ફીલ્મ_N_NN રજુ_V_VM થયેલ_V_VAUX છે_V_VAUX,_RD_PUNC તેના_PR_PRL પરથી_PSP પણ_CC_CCD અરજદારને_N_NN જમણા_JJ હાથની_N_NN વચ્ચેની_N_NST આંગળીનો_N_NN
+એક_QT_QTC વેઢો_N_NN કપાયાનું_V_VAUX જણાય_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=62>(_RD_PUNC ૯.૪_QT_QTC)_RD_PUNC સામાવાળા_JJ તરફે_PSP એવી_RP_RPD તકરાર_N_NN લેવામાં_V_VAUX આવેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC સારવાર_RB આપનાર_V_VAUX ડોક્ટરશ્રી_N_NN
+અમલાણીના_N_NNP મેડીકલ_N_NN રીપોર્ટ_N_NN મુજઅ_PSP અરજદારને_N_NN કોઈ_DM_DMI ખોડ_N_NN રહેલ_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=63>પરંતુ_CC_CCD સામાવાળા_JJ
+તરફે_PSP તેને_PR_PRP તપાસવામાં_V_VAUX આવેલ_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+
+<Sentence id=64>સામાવાળા_JJ નં._N_NN-_RD_PUNCર૨ના_QT_QTC એ_DM_DMD ડોકટરશ્રી_N_NN કોઠારીના_N_NNP માર્ક_N_NN-_RD_PUNC૧/૧_QT_QTC
+વાળા_JJ સર્ટી._N_NN ઉપર_N_NST આધાર_N_NN રાખી_V_VM ૩%_QT_QTC ખોડ_N_NN ગણીને_V_VM વળતરની_N_NN રકમ_N_NN જમા_V_VM કરાવેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=65> પરતુ_CC_CCD
+અરજદાર_N_NN તરફે_PSP આ_DM_DMD કામે_N_NN ડોકટરશ્રી_N_NN કોઠારીને__N_NNP સાહેદ_N_NN સમન્સ_JJ કરી_V_VM આંક_N_NN-_RD_PUNC૨૫થી_QT_QTC તપાસવામાં_V_VAUX
+આવેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=66> આ_DM_DMD ડોક્ટર_N_NN સાહેદે_N_NN પોતે_PR_PRP અરજદારના_N_NN કેસ_N_NN પેપર્સ_N_NN અને_CC_CCD એકસ-રે_N_NN તપાસેલ_V_VAUX હોવાનું_V_VAUX તેમજ_CC_CCD
+જમણા_JJ હાથની_N_NN વચ્ચેની_N_NST આંગળીનો_N_NN ઉપરનો_N_NST વેઢો_N_NN કપાયેલ_N_NN હોવાનું_V_VAUX જણાવેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=67> આ_DM_DMD
+ડોકટર_N_NN સાહેદને_N_NN કર્મચારી_N_NN વળતર_N_NN ધારાનું_N_NN શેડ્યુલ_N_NN બતાવતા_V_VAUX,_RD_PUNC અરજદારને_N_NN થયેલ_V_VAUX ઈજાના_N_NN કેસમાં_N_NN
+૦થી_QT_QTC લઈને_V_VM ૭%_QT_QTC સુધી_RP_RPD આકારી_JJ શકાય_V_VAUX તેમ_PR_PRL જણાવેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+
+<Sentence id=68>તેમજ_CC_CCD તેઓએ_PR_PRP પોતે_PR_PRP જુબાની_N_NN દરમ્યાન_PSP
+એવુ_RP_RPD જણાવેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC અરજદારને_N_NN સર્ટી._N_N આપતા_V_VAUX સમયે_N_NN ફીઝીકલ_JJ તપાસેલ_V_VAUX ન_RP_NEG હતા_V_VAUX અને_CC_CCD ફીઝીકલ_JJ તપાસીએ_V_VAUX તો_RP_RPD પર્સનટેઝમાં_N_NN ફેરફાર_N_NN થઈ_V_VAUX શકે_V_VAUX._RD_PUNC</Sentence>
+
+
+<Sentence id=69> આ_DM_DMD ડોકટર_N_NN સાહેદ_N_NN ધ્વારા_PSP અરજદારને_N_NN કોર્ટ_N_NN રૂબરુ_RB
+તપાસ્યા_V_VAUX બાદ_PSP,_RD_PUNC એક્સ-રે_N_NN રીપોર્ટ_N_NN જોયા_V_VAUX બાદ_PSP ડોક્ટરશ્રી_N_NN કોઠારીએ_N_NNP એવુ_RP_RPD જણાવેલ_V_VAUX કે_CC_CCS,_RD_PUNC
+અરજદારને_N_NN વચ્ચેની_N_NST આંગળીનો_N_NN ઉપરનો_N_NST વેઢો_N_NN કપાયેલ_N_NN છે_V_VAUX અને_CC_CCD કર્મચારી_N_NN વળતર_N_NN ધારા_N_NN પ્રમાણે_N_NN ૭%_QT_QTC ખોડ_N_NN આધારી_N_NN શકાય_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=70>આમ_N_NST આ_DM_DMD ડોક્ટરશ્રી_N_NN કોઠારીની_N_NNP જુબાની_N_NN તથા_CC_CCD અરજદારના_N_NN ફોટોગ્રાફ_N_NN
+અને_CC_CCD એક્સ-રે_N_NN રીપોર્ટ_N_NN પરથી_PSP અરજદારને_N_NN જમણા_JJ હાથની_N_NN વચ્ચેની_N_NST આંગળીમાં_N_NN એક_QT_QTC વેઢો_N_NN કપાયેલ_N_NN
+હતો_V_VAUX તે_PR_PRL સ્પષ્ટ_JJ થાય_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+
+<Sentence id=71>કર્મચારી_N_NN વળતર_N_NN ધારાના_N_NN શેડયુલ_N_NN-_RD_PUNC૧_QT_QTC,_RD_PUNC ભાગ_N_NN-_RD_PUNC૨ના_QT_QTC ક્રમ_N_NN નં._N_N-_RD_PUNC૩૩_QT_QTC મુજબ_PSP
+વચ્ચેની_N_NST આંગળીમાં_N_NN એક_QT_QTC વેઢો_N_NN કપાય_V_VAUX તો_RP_RPD કમાવાની_N_NN શકિતમાં_N_NN ૭%_QT_QTC ઘટાડો_QT_QTF ગણવાનો_V_VAUX રહે_V_VM છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=72>એટલે_CC_CCD
+કે_CC_CCD અરજદારને_N_NN થયેલ_V_VAUX છે_V_VAUX તે_PR_PRL ઈજા_N_NN શેડ્યુલ_N_NN ઈજા_N_NN છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=73>આ_DM_DMD સંજોગોમાં_N_NN કર્મચારી_N_NN વળતર_N_NN ધારાની_N_NN કલમ_N_NN
+૪_QT_QTC(_RD_PUNC૧_QT_QTC)_RD_PUNC(_RD_PUNCસી_N_NN)_RD_PUNC(_RD_PUNC1_QT_QTC)_RD_PUNC ની_N_NN જોગવાઈ_N_NN મુજબ_PSP જયારે_N_NST શેડયુલ_N_NN ઈજા_N_NN હોય_V_VAUX ત્યારે_N_NST તેમાં_PR_PRL દર્શાવ્યા_V_VAUX મુજ_PSP 
+કમાવાની_N_NN શકિતમાં_N_NN ઘટાડો_QT_QTF ગણવાનો_V_VAUX રહે_V_VM છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=74>આ_DM_DMD સંજોગોમાં_N_NN આ_DM_DMD કામના_N_NN અરજદારને_N_NN થયેલ_V_VAUX
+અકસ્માત_N_NN ઈજાથી_N_NN ૭%_QT_QTC કમાવાની_N_NN શકિતમાં_N_NN ઘટાડો_QT_QTF થયાનું_V_VAUX સાબીત_N_NN થાય_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=75>(_RD_PUNC૯.૫_QT_QTC)_RD_PUNC અરજદારનો_N_NN સરેરાશ_JJ માસિક_N_NN પગાર_N_NN રૂ_N_N ૪,૮૦૧_QT_QTC હતો_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=76>તેમજ_CC_CCD અકસ્માત_N_NN
+સમયે_N_NN અરજદારની_N_NN ઉમર_N_NN ૨૩_QT_QTC વર્ષની_N_NN હતી_V_VAUX,_RD_PUNC તથા_CC_CCD તેની_PR_PRP સામેનું_N_NST કેકટર_N_NN ૨૧૯.૯૫_QT_QTC હતું_V_VAUX,_RD_PUNC તથા_CC_CCD
+ઉપરોકત_RP_RPD નિર્ણય_N_NN મુજબ_PSP લોસ_N_NN ઓફ_PSP અર્નીંગ_N_NN કેપેસીટી_N_NN ૭_QT_QTC ટકા_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=77> આ_DM_DMD સંજોગોમાં_N_NN
+અરજદાર_N_NN વળતરની_N_NN રકમ_N_NN તરીકે_PSP રૂ_N_N ૪૪,૩૫૧_QT_QTC મેળવવા_V_VAUX હકકદાર_JJ છે_V_VAUX તેની_PR_PRP સામે_PSP કંપનીએ_N_NN માત્ર_JJ રૂ_N_N ૧૮,૮૮૨_QT_QTC જમા_V_VM કરાવેલા_V_VAUX હોઈ_V_VAUX બાકી_JJ રકમ_N_NN રૂ_N_N ૨૫,૪૬૯_QT_QTC
+અરજદાર_N_NN સામાવાળાઓ_JJ પાસેથી_PSP વસુલ_N_NN મેળવવા_V_VAUX હકકદાર_JJ બને_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=78>વીમા_N_NN કંપનીએ_N_NN વળતરની_N_NN જમા_V_VM કરાવેલી_V_VAUX રકમ_N_NN ઓછી_JJ હોઈ_V_VAUX અને_CC_CCD તે_PR_PRL અરજદારે_N_NN કબુલ_N_NN રાખેલ_V_VAUX ન_RP_NEG હોઈ_V_VAUX રજુ_V_VM થયેલ_V_VAUX એગ્રીમેન્ટ_N_NN કલમ_N_NN-_RD_PUNC૨૮_QT_QTC(_RD_PUNC૮_QT_QTC)_RD_PUNC(_RD_PUNCડી_N_NN)_RD_PUNCને_N_NN ધ્યાને_N_NN લેતા_V_VM નોંધણી_V_VAUX કરવા_V_VAUX હુકમ_N_NN કરવો_V_VAUX યોગ્ય_JJ જણાતો_N_NN નથી_RP_NEG જેથી_CC_CCD મુદા_N_NN નં._N_NN ૧નો_QT_QTC જવાબ_N_NN નકારમાં_N_NN આપવામાં_V_VAUX આવે_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=79> (_RD_PUNC૯.૬_QT_QTC)_RD_PUNC કાયદાની_N_NN કલમ_N_NN-_RD_PUNC૨૮_QT_QTC સાથે_PSP નિયમ_N_NN-_RD_PUNC૫૧_QT_QTC(_RD_PUNC૨_QT_QTC)_RD_PUNC વાંચતા_V_VAUX કમિશ્નરશ્રી_N_NN એગ્રીમેન્ટની_N_NN નોંધણી_V_VAUX કરવાનો_V_VAUX ઈન્કાર_N_NN તેઓ_PR_PRP કરે_V_VM ત્યારે_N_NST એગ્રીમેન્ટથી_N_NN નકકી_N_NN થયેલી_V_VAUX રકમ_N_NN ઉપરાંતની_RP_RPD રકમ_N_NN ચુકવી_V_VM આપવા_V_VAUX હુકમ_N_NN કરવાની_V_VAUX સત્તા_N_NN,_RD_PUNC જેની_PR_PRL સામે_PSP હુકમ_N_NN કરવાનો_V_VAUX હોય_V_VAUX તેને_PR_PRP આ_DM_DMD અંગે_PSP રજુઆત_N_NN કરવાની_V_VAUX તક_N_NN આપ્યા_V_VAUX પછી_PSP મળેલી_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=80>જેથી_CC_CCD આ_DM_DMD કામે_N_NN ખુટતી_JJ રકમ_N_NN રૂ_N_NN ૨૫,૪૬૯_QT_QTC અરજદારને_N_NN ચુકવી_V_VM આપવાનો_V_VAUX સામાવાળાઓ_JJ વિરુધ્ધ_N_NN હુકમ_N_NN કરવો_V_VAUX વાજબી_JJ અને_CC_CCD ન્યાયી_JJ જણાય_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=81>કાયદાની_N_NN કલમ_N_NN-_RD_PUNC૨૮_QT_QTC સાથે_PSP વાંચતા_V_VAUX નિયમ_N_NN-_RD_PUNC૫૧_QT_QTC કમિશ્નરશ્રીને_N_NN જયારે_N_NST એગ્રીમેન્ટ_N_NN અન્વયે_N_NN
+જમા_V_VM કરાવવામાં_V_VAUX આવેલી_V_VAUX રકમ_N_NN અપુરતી_JJ અને_CC_CCD અયોગ્ય_JJ જણાય_V_VAUX તો_RP_RPD એગ્રીમેન્ટની_N_NN નોંધણી_V_VAUX
+કરવાનો_V_VAUX ઈન્કાર_N_NN કરી_V_VM જમા_V_VM કરાવવામાં_V_VAUX આવેલી_V_VAUX રકમ_N_NN ઉપરાંતની_RP_RPD રકમ_N_NN અંગે_PSP જે_RP_RPD પક્ષકાર_N_NN સામે_PSP હુકમ_N_NN કરવાનો_V_VAUX હોય_V_VAUX તેમને_PR_PRP આ_DM_DMD બાબતે_N_NN શોકોઝ_JJ નોટીસ_N_NN આપી_V_VM રજુઆત_N_NN સાંભળી_V_VM  હુકમ_N_NN કરી_V_VM શકે_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=82> કલમ_N_NN-_RD_PUNC૨૮_QT_QTC અને_CC_CCD નિયમ_N_NN ૫૧_QT_QTC નીચે_N_NST મુજબ_PSP છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=83>સામાવાળા_JJ નંબર_N_NN-_RD_PUNC ૧ના_QT_QTC એ_DM_DMD વળતરની_N_NN કુલ_JJ ચુકવવા_V_VAUX પાત્ર_JJ થતી_V_VAUX રકમ_N_NN રૂ_N_NN ૪૪,૩૫૧_QT_QTC અરજદારને_N_NN ચુકવેલ_V_VAUX નથી_RP_NEG અને_CC_CCD કંપનીએ_N_NN આ_DM_DMD રકમ_N_NN સામે_PSP માત્ર_JJ રૂ_N_NN ૧૮,૮૮૨_QT_QTC જે_RP_RPD તા._N_NN ૧૦_QT_QTC/_RD_PUNC૦૭_QT_QTC/_RD_PUNC૨૦૧૮ના_QT_QTC રોજ_N_NN જમા_V_VM કરાવેલા_V_VAUX છે_V_VAUX તે_PR_PRL જોતા_V_VM સામાવાળાઓ_JJ બાકી_JJ રહેતી_V_VAUX વળતરની_N_NN રકમ_N_NN રા._N_NN ૨૫,૪૬૯_QT_QTC આ_DM_DMD કામના_N_NN અરજદારને_N_NN ચુકવી_V_VM આપવા_V_VAUX માટે_PSP જવાબદાર_JJ થાય_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+
+<Sentence id=84>સામાવાળા_JJ નંબર_N_NN-_RD_PUNC ૧ના_QT_QTC એ_DM_DMD અરજદારને_N_NN અકસ્માત_N_NN ઈજા_N_NN થયેલી_V_VAUX છે_V_VAUX અને_CC_CCD કાયમી_JJ અસર્મથતા_JJ રહેલી_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=85> તેવી_RP_RPD સ્પષ્ટ_JJ જાણકારી_N_NN તેઓને_PR_PRP હોવા_V_VAUX છતાં_CC_CCD વળતર_N_NN પેટે_PSP કોઈ_DM_DMI રકમ_N_NN અરજદારને_N_NN ચૂકવી_V_VM આપેલ_V_VAUX ન_RP_NEG
+હોઈ_V_VAUX કે_CC_CCD તેમના_PR_PRP માનવા_V_VAUX મુજબ_PSP ચુકવવા_V_VAUX પાત્ર_JJ થતી_V_VAUX વળતરની_N_NN રકમ_N_NN કમિશ્નર_N_NN સમક્ષ_PSP તેમણે_PR_PRP જમા_V_VM
+કરાવેલ_V_VAUX ન_RP_NEG હોઈ_V_VAUX વળતરની_N_NN રકમ_N_NN પર_PSP વ્યાજ_N_NN ચુકવવા_V_VAUX માટે_PSP તેઓ_PR_PRP કાયદાની_N_NN કલમ_N_NN-_RD_PUNC૪_QT_QTC (_RD_PUNCએ_N_NN)_RD_PUNC (_RD_PUNC૩_QT_QTC)_RD_PUNC
+(_RD_PUNCએ_N_NN)_RD_PUNC મુજબ_PSP જવાબદાર_JJ ઠરે_V_VM છે_V_VAUX._RD_PUNC</Sentence> 
+
+<Sentence id=86>વળતરની_N_NN રકમ_N_NN ન_RP_NEG ચુકવી_V_VM આપવા_V_VAUX માટેનું_PSP કોઈ_DM_DMI જ_RP_RPD વ્યાજબી_JJ
+કારણ_N_NN સામાવાળા_JJ નંબર_N_NN-_RD_PUNC૧ના_QT_QTC એ_DM_DMD જણાવેલું_V_VAUX નથી_RP_NEG ,_RD_PUNC એક_QT_QTC માત્ર_JJ કારણ_N_NN વીમો_N_NN હોવો_V_VAUX તે_PR_PRL વ્યાજબી_JJ કારણ_N_NN ગણી_V_VM શકાય_V_VAUX નહીં_RP_NEG કારણ_N_NN કે_CC_CCD વળતર_N_NN ચુકવી_V_VM આપવાની_V_VAUX પ્રાથમીક_JJ જવાબદારી_N_NN કાયદા_N_NN હેઠળ_PSP માલીકની_N_NN બને_V_VAUX છે_V_VAUX._RD_PUNC</Sentence> 
+
+<Sentence id=87>વ્યાજની_N_NN જવાબદારી_N_NN કાયદા_N_NN હેઠળ_PSP માલીકના_N_NN માથે_N_NN નાખવામાં_V_VAUX આવેલ_V_VAUX અને_CC_CCD વળતર_N_NN ચુકવવાની_V_VAUX જવાબદારી_N_NN પુરી_RB કરવામાં_V_VAUX દાખવેલી_N_NN બેદરકારીને_N_NN કારણે_N_NN માલીકના_N_NN
+માથે_N_NN ઉપસ્થિત_JJ થાય_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=88>જે_RP_RPD રકમનો_N_NN સમાવેશ_V_VAUX મારા_PR_PRP નમ્ર_JJ મંતવ્ય_N_NN મુજબ_PSP કલમ_N_NN-_RD_PUNC૨૮_QT_QTC અને_CC_CCD નિયમ_N_NN-_RD_PUNC૫૧_QT_QTC
+(_RD_PUNC૨_QT_QTC)_RD_PUNC જણાવેલી_V_VAUX રકમમાં_N_NN થઈ_V_VAUX જતો_V_VAUX હોઈ_V_VAUX આ_DM_DMD અરજી_N_NN અન્વયે_N_NN વ્યાજની_N_NN રકમનો_N_NN હુકમ_N_NN સામાવાળા_JJ
+નંબર_N_NN-_RD_PUNC૧_QT_QTC વિરુધ્ધ_N_NN કરી_V_VM શકાય_V_VAUX તેમ_PR_PRL છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=89> તે_PR_PRL સંજોગોમાં_N_NN જયારે_N_NST વિમા_N_NN કંપની_N_NN સામાવાળા_JJ નંબર_N_NN-_RD_PUNC ૧ની_QT_QTC વળતરની_N_NN જવાબદારીની_N_NN ક્ષતિ_JJ પુરતી_RB આપવા_V_VAUX માટે_PSP જવાબદાર_JJ થતી_V_VAUX હોઈ_V_VAUX,_RD_PUNC તેઓ_PR_PRP સામે_PSP પણ_CC_CCD ખુટતી_JJ વળતરની_N_NN રકમ_N_NN રૂ_N_NN ૨૫,૪૬૯_QT_QTC અંગે_PSP હુકમ_N_NN કરવો_V_VAUX વ્યાજબી_JJ અને_CC_CCD ન્યાયી_JJ જણાય_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+
+<Sentence id=90>જયારે_N_NST સામાવાળા_JJ નં._N_NN-_RD_PUNC ૧ના_QT_QTC એ_DM_DMD અરજદારને_N_NN ખૂટતી_JJ રકમ_N_NN ઉપર_N_NST અકસ્માત_N_NN તારીખથી_N_NN વાર્ષિક_N_NN ૧૨%_QT_QTC મુજબ_PSP સાદુ_JJ વ્યાજ_N_NN ચુકવવા_V_VAUX હુકમ_N_NN કરવો_V_VAUX ન્યાયી_N_NN જણાય_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=91>આ_DM_DMD કામે_N_NN પ્રોવીજનલ_JJ વળતરની_N_NN રકમ_N_NN જમા_V_VM થયેલ_V_VAUX હોય_V_VAUX,_RD_PUNC દંડ_N_NN અંગે_PSP કોઈ_DM_DMI હુકમ_N_NN કરવામાં_V_VAUX આવતો_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=92> (_RD_PUNC૯.૮_QT_QTC)_RD_PUNC જેથી_CC_CCD કેસનું_N_NN રેકર્ડ_N_NN તથા_CC_CCD કાયદાની_N_NN પરીસ્થિતીને_N_NN લક્ષમાં_N_NN લઈને_V_VM ન્યાયના_N_NN હિતમાં_N_NN નીચે_N_NST મુજબ_PSP હુકમ_N_NN કરવામાં_V_VAUX આવે_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=93>૧._QT_QTC એગ્રીમેન્ટની_N_NN નોંધણી_V_VAUX કરવાની_V_VAUX દાદ_N_NN નામંજુર_RP_NEG કરવામાં_V_VAUX આવે_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=94>૨._QT_QTC આથી_CC_CCD સામાવાળા_JJ નંબર_N_NN-_RD_PUNC૧_QT_QTC,_RD_PUNC ૨ને_QT_QTC હુકમ_N_NN કરવામાં_V_VAUX આવે_V_VAUX છે_V_VAUX કે_CC_CCD આ_DM_DMD હુકમની_N_NN જાણ_V_VM થયાના_V_VAUX
+દિન-૩૦માં તેઓએ અરજદાર કર્મચારીને ચૃકવવાપાત્રની વળતરની કુલ રકમ
+રૂ.૪૪,૩૫૧/-(અંકે રૂપિયા ચુમાલીસ હજાર ત્રણસો એકાવન પૃરા) માંથી બાકી રહેલી રકમ
+રૂ।.૨૫,૪૬૯/-(અંકે રૂપિયા પચ્ચીસ હજાર ચારસો ઓગણસીતેર પૂરા) અત્રેની કચેરીમાં જમા
+કરાવવી.</Sentence>
+
+<Sentence id=95>૩._QT_QTC સામાવાળા_JJ નંબર_N_NN-_RD_PUNC૧ના_QT_QTC એ_DM_DMD ખૂટતી_JJ વળતરની_N_NN રકમ_N_NN ઉપર_N_NST અકસ્માત_N_NN તારીખથી_N_NN વાર્ષિક_N_NN ૧૨%_QT_QTC
+મુજબ_PSP સાદુ_JJ વ્યાજ_N_NN અલગથી_JJ ચુકવવા_V_VAUX હુકમ_N_NN કરવામાં_V_VAUX આવે_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=96>૪._QT_QTC સામાવાળાઓએ_JJ અરજદારને_N_NN અરજી_N_NN ખર્ચના_N_NN ર્રૂ_N_NN ૨,૦૦૦_QT_QTC અલગથી_JJ ચુકવવા_V_VAUX હુકમ_N_NN કરવામાં_V_VAUX આવે_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=97>સ્થળ_N_NN :_RD_PUNC રાજકોટ_N_NNP (_RD_PUNC ચ્મેશકુમાર_N_NNP બાબુભાઈ_N_NNP ઈટાલીયા_N_NNP )_RD_PUNC
+તારીખ_N_NN :_RD_PUNC ૨૫_QT_QTC/_RD_PUNC૦૪_QT_QTC/_RD_PUNC૨૦૧૯_QT_QTC જીજે_N_NN-_RD_PUNC૦૦૮૨૪_QT_QTC
+કામદાર_N_NN વળતર_N_NN ધારા_N_NN કમિશ્નર_N_NN
+અને_CC_CCD ન્યાયાધીશ_N_NN (_RD_PUNCએસ.ડી._N_NN)_RD_PUNC
+મજુર_N_NN અદાલત_N_NN નંબર_N_NN-_RD_PUNC૧_QT_QTC,_RD_PUNC રાજકોટ_N_NNP._RD_PUNC</Sentence>
+</Corpora>
+

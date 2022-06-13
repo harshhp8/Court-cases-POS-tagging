@@ -1,0 +1,391 @@
+<Corpora type="Monolingual-POS-TAGGED" Language="Gujarati">
+
+<Sentence id=1> શ્રી_JJ કે.પી.જાની_N_NN,_RD_PUNC
+ પ્રીસાઈડીંગ_N_NN ઓફીસર_N_NN,_RD_PUNC ઈન્ડસ્ટ્રીયલ_N_NN ટીબ્યુનલ_N_NN,_RD_PUNC રાજકોટ_N_NNP સમક્ષ_PSP મુ_N_NN રાજકોટ_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=2> રેફરન્સ_N_NN (_RD_PUNCઆઈ.ટી._N_NN)_RD_PUNC નંબર_N_NN ૫૪/૧૯૯૮_QT_QTC,_RD_PUNC ૫૫/૯૮_QT_QTC,_RD_PUNC #_RD_SYM ૨/૯૮_QT_QTC અને_CC_CCD ૧૮૫_QT_QTC._RD_PUNC</Sentence>
+
+<Sentence id=3> ચીફ_JJ ઓફીસરશ્રી_JJ,_RD_PUNC જેતપુર_N_NNP નગરપાલીકા_N_NN,_RD_PUNC જેતપુર_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=4> પ્રથમ_QT_QTO પક્ષકાર_N_NN વિરુઘ્થ_N_NN સૌરાષ્ટ્ર_N_NNP એમ્પ્લોઈઝ_N_NN યુનીયન_N_NN,_RD_PUNC ઉમેશ_N_NNP કોમર્શીયલ_N_NN સેન્ટર_N_NN,_RD_PUNC બીજો_QT_QTO માળ_N_NN,_RD_PUNC ચૌધરી_N_NNP હાઈસ્કુલ_N_NN પાસે_PSP,_RD_PUNC રાજકોટ_N_NNP બીજા_QT_QTO પક્ષકાર_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=5> પ્રતિનિધિત્વ_JJ :_RD_PUNC-_RD_PUNC પ્રથમ_QT_QTO પક્ષકાર_N_NN તરફે_PSP :_RD_PUNC વિઘ્વાન_JJ વકીલ_N_NN શ્રી_JJ જી.કે.ભટૃ_N_NNP બીજા_QT_QTO પક્ષકાર_N_NN તરફે_PSP :_RD_PUNC વિઘ્વાન_JJ પ્રતિનીધી_JJ શ્રી_JJ ડી.ડી.છાયા_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=6>બાબત_N_NN :_RD_PUNC-_RD_PUNC પ્રાથમીક_JJ મુદે_N_NN નિર્ણય_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=7> હાલનો_N_NST આ_DM_DMD ઔદ્યોગીક_JJ વિવાદ_N_NN નાયબ_N_NN શ્રમ_N_NN આયુક્ત_N_NN રાજકોટનાંએ_N_NNP તેમનાં_PR_PRP તા._N_NN ૨૦_QT_QTC/_RD_PUNC૪_QT_QTC/_RD_PUNC૯૮નાં_QT_QTC  હુકમ_N_NN કમાંક_N_NN કેએચ_N_NN/_RD_PUNCએચએસએમસી_N_NN/_RD_PUNC૩૭૪૮_QT_QTC ઔ.વિ.રે._N_NN ૯૪/૯૮_QT_QTC તા._N_NN ૨૦_QT_QTC/_RD_PUNC૪_QT_QTC/_RD_PUNC૯૮નાં_QT_QTC હુકમ_N_NN કમાંક_N_NN કેએચ_N_NN/_RD_PUNCએચએસએમસી_N_NN/_RD_PUNC૩૭૫૦_QT_QTC ઔ.વિ.રે._N_NN ૯૫/૯૮_QT_QTC તા._N_NN ૨૦_QT_QTC/_RD_PUNC૪_QT_QTC/_RD_PUNC૯૮નાં_QT_QTC હુકમ_N_NN કમાંક_N_NN કેએચ_N_NN/_RD_PUNCએચએસએમસી_N_NN/_RD_PUNC૩૭૪૯_QT_QTC ઔ.વિ.રે._N_NN ૯૭/૯૮_QT_QTC તા._N_NN ૨૩_QT_QTC/_RD_PUNC૦૮_QT_QTC/_RD_PUNC૦નાં_QT_QTC હુકમ_N_NN કમાંક_N_NN કેએચ_N_NN/_RD_PUNCએચએસએમસી_N_NN/_RD_PUNC૩૭૪રર_QT_QTC ઔ.વિ.રે._N_NN ૧૪૧/૦૭_QT_QTC અન્વયે_N_NN આ_DM_DMD ઔદ્યોગીક_JJ ન્યાય_N_NN પંચ_N_NN સમક્ષ_PSP ન્યાય_N_NN નિર્ણય_N_NN અર્થે_PSP મોકલેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=8>જેની_PR_PRL અનુસુચિ_N_NN નીચે_N_NST મુજબ_PSP છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=9> સંસ્થાનાં_N_NN કામદારો_N_NN શ્રી_JJ (_RD_PUNC૧_QT_QTC)_RD_PUNC કરશન_N_NNP જેઠા_N_NNP ગરમર_N_NNP (_RD_PUNC૨_QT_QTC)_RD_PUNC છેલાણા_N_NNP હરદાસ_N_NNP ડોસાભાઈ_N_NNP (_RD_PUNC૩_QT_QTC)_RD_PUNC સીંગલ_N_NN બાબુભાઈ_N_NNP અરજણભાઈ_N_NNP (_RD_PUNC૪_QT_QTC)_RD_PUNC હિતેષ_N_NNP લક્ષ્મણ_N_NNP કરમકાટાને_N_NNP તેમનાં_PR_PRP પ્રોબેશન_N_NN પીરીયડ_N_NN પુરો_RB થયા_V_VAUX તારીખથી_N_NN કાયમી_JJ કરવા_V_VAUX અને_CC_CCD સરકારી_N_NN ધારા_N_NN ધોરણ_N_NN મુજબ_PSP પગાર_N_NN,_RD_PUNC મોંઘવારી_N_NN તથા_CC_CCD અન્ય_JJ તમામ_QT_QTF લાભો_N_NN આપવા_V_VAUX જોઈએ_V_VAUX કે_CC_CCS કેમ_N_NN ?_RD_PUNC</Sentence>
+
+<Sentence id=10> પરીશીષ્ટમાં_N_NN જણાવેલ_V_VAUX ૯_QT_QTC કર્મચારી_N_NN/_RD_PUNCકામદારોને_N_NN તેમનાં_PR_PRP પ્રોબેશન_N_NN પીરીયડ_N_NN પુરો_RB થયા_V_VAUX તારીખથી_N_NN કાયમી_JJ કરવા_V_VAUX અને_CC_CCD સરકારી_N_NN ધારા_N_NN ધોરણ_N_NN મુજબ_PSP પગાર_N_NN,_RD_PUNC મોંઘવારી_N_NN તથા_CC_CCD અન્ય_JJ તમામ_QT_QTF લાભો_N_NN આપવા_V_VAUX જોઈએ_V_VAUX કે_CC_CCS કેમ_N_NN ?_RD_PUNC</Sentence>
+
+<Sentence id=11> (_RD_PUNC૧_QT_QTC)_RD_PUNC મનસુખભાઈ_N_NNP હીરાભાઈ_N_NNP ચૌહાણ_N_NNP (_RD_PUNCર_QT_QTC)_RD_PUNC પટેલ_N_NNP બીપીનચંદૂ_N_NNP કુંવરભાઈ_N_NNP (_RD_PUNC૩_QT_QTC)_RD_PUNC રાવત_N_NNP જુવાનસીંહ_N_NNP માલજીભાઈ_N_NNP (_RD_PUNC૪_QT_QTC)_RD_PUNC વિઠલ_N_NNP બચુભાઈ_N_NNP કાપડીયા_N_NNP (_RD_PUNC૫_QT_QTC)_RD_PUNC પરબત_N_NNP નારણ_N_NNP ગરચર_N_NNP (_RD_PUNC2_QT_QTC)_RD_PUNC મેરામણ_N_NNP રુડાભાઈ_N_NNP રાડા_N_NNP (_RD_PUNC૭_QT_QTC)_RD_PUNC ભુરાભાઈ_N_NNP બીજલભાઈ_N_NNP ગરચર_N_NNP (_RD_PUNC૮_QT_QTC)_RD_PUNC ભીખાભાઈ_N_NNP પરબતભાઈ_N_NNP છેલાણા_N_NNP અને_CC_CCD (_RD_PUNC૯_QT_QTC)_RD_PUNC મેર_N_NNP હિતેષ_N_NNP જાવસીંગભાઈ_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=12> સંસ્થાનાં_N_NN કામદાર_N_NN શ્રી_JJ મુસાર_N_NNP રામાભાઈ_N_NNP ગોગાભાઈને_N_NNP તેમનાં_PR_PRP પ્રોબેશન_N_NN પીરીયડ_N_NN પુરો_RB થયા_V_VAUX તારીખથી_N_NN કાયમી_JJ કરવા_V_VAUX અને_CC_CCD સરકારી_N_NN ધારા_N_NN ધોરણ_N_NN મુજબ_PSP પગાર_N_NN,_RD_PUNC મોંઘવારી_N_NN તથા_CC_CCD અન્ય_JJ તમામ_QT_QTF લાભો_N_NN આપવા_V_VAUX જોઈએ_V_VAUX કે_CC_CCS કેમ_N_NN ?_RD_PUNC</Sentence>
+
+<Sentence id=13> કર્મચારીશ્રી_N_NN ગીરીશભાઈ_N_NNP કાનજીભાઈ_N_NNP કોળીને_N_NNP પ્રોબેશન_N_NN પીરીયડ_N_NN પુરો_RB કર્યા_V_VAUX તારીખથી_N_NN એટલે_CC_CCD કે_CC_CCD તા._N_NN ૨૪_QT_QTC/_RD_PUNC૦ર_QT_QTC/_RD_PUNC૧૯૯૭થી_QT_QTC કલીનર_N_NN તરીકે_PSP કાયમી_JJ કરવા_V_VAUX કે_CC_CCS કેમ_N_NN ?_RD_PUNC</Sentence>
+
+<Sentence id=14>અને_CC_CCD સરકારી_N_NN ધારાધોરણ_N_NN મુજબ_PSP પગાર_N_NN,_RD_PUNC મોઘવારી_N_NN વિગેરે_N_NN તમામ_QT_QTF લાભો_N_NN આપવા_V_VAUX કે_CC_CCS કેમ_N_NN ?_RD_PUNC</Sentence>
+
+<Sentence id=15>આ_DM_DMD કામમાં_N_NN મારા_PR_PRP પુરોગામી_N_NN ન્યાયધીશશ્રીએ_N_NN આંક_N_NN-_RD_PUNC૧૪૮થી_QT_QTC તા._N_NN ૧૫_QT_QTC/_RD_PUNC૦૨_QT_QTC/_RD_PUNC૨૦૧૪નાં_QT_QTC રોજ_N_NN એવોર્ડ_N_NN કરેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=16>જે_RP_RPD એવોર્ડથી_N_NN નારાજ_N_NN થઈ_V_VAUX બીજા_QT_QTO પક્ષકારે_N_NN નામદાર_N_NN ગુજરાત_N_NNP
+હાઈકોર્ટમાં_N_NN સ્પે.સી.એ.નં._N_NN ૧૧૩૭૮_QT_QTC/_RD_PUNC૧૪થી_QT_QTC સ્પે.સી.એ.નં._N_NN ૧૧૩૮૧_QT_QTC/_RD_PUNC૧૪ની_QT_QTC જયારે_N_NST
+પ્રથમ_QT_QTO પક્ષકારે_N_NN સ્પે.સી.એ.નં._N_NN ૮૫૨૯_QT_QTC/_RD_PUNC૧૪ની_QT_QTC દાખલ_N_NN કરેલી_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=17> નામદાર_N_NN ગુજરાત_N_NNP હાઈકોર્ટ_N_NN દવારા_PSP સદરહુ_N_NN કામે_N_NN તા._N_NN ૭_QT_QTC/_RD_PUNC૦૭_QT_QTC/_RD_PUNC૧નાં_QT_QTC રોજ_N_NN હુકમ_N_NN કરી_V_VM  અત્રેની_PSP કોર્ટ_N_NN દવારા_PSP તા._N_NN ૧૫_QT_QTC/_RD_PUNC૦૨_QT_QTC/_RD_PUNC૨૦૧૪નાં_QT_QTC રોજ_N_NN કરેલ_V_VAUX એવોર્ડ_N_NN રદ_N_NN કરી_V_VM કેસ_N_NN રીમાન્ડ_N_NN કરેલ_V_VAUX છે_V_VAUX તથા_CC_CCD પ્રથમ_QT_QTO પક્ષકાર_N_NN સંસ્થાનો_N_NN
+તા._N_NN ૦૮_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC સબંધીત_JJ કામદારોની_N_NN નોકરી_N_NN ટર્માનેટ_N_NN કરતો_V_VAUX હુકમ_N_NN ઘ્યાને_N_NN લેતાં_V_VM
+સમુચીત_N_NN સરકાર_N_NN દવારા_PSP ન્યાય_N_NN નિર્ણય_N_NN માટે_PSP મોકલવામાં_V_VAUX આવેલ_V_VAUX રેફરન્સનાં_N_NN હુકમની_N_NN
+કાયદેસરતા_N_NN અને_CC_CCD વ્યાજબીપણું_JJ પ્રાથમીક_JJ મુદ્દો_N_NN કાઢી_V_VM નકકી_V_VAUX કરવા_V_VAUX અને_CC_CCD ત્યારબાદ_N_NST અત્રેની_PSP
+ટ્રીબ્યુનલને_N_NN રેફરન્સનો_N_NN ન્યાય_N_NN નિર્ણય_N_NN કરવો_V_VAUX જરુરી_N_NN જણાય_V_VAUX તો_RP_RPD પક્ષકારોને_N_NN પુરાવો_N_NN આપવા_V_VAUX
+પરવાનગી_N_NN આપી_V_VM નિર્ણય_N_NN કરવા_V_VAUX હુકમ_N_NN થઈ_V_VAUX આવેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=18>વધુમાં_QT_QTF સબંધીત_JJ કામદારો_N_NN કોઈ_DM_DMI પણ_CC_CCD જાતનાં_N_NN વિલંબ_N_NN વિના_PSP અત્રેની_PSP ટ્રીબ્યુનલ_N_NN પાસે_PSP વચગાળાનાં_JJ હુકમ_N_NN/_RD_PUNC વચગાળાનાં_JJ પ્રોટેકશન_N_NN માટે_PSP અરજી_N_NN કરી_V_VM શકશે_V_VAUX તેવો_RP_RPD હુકમ_N_NN કરેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=19>નામદાર_N_NN ગુજરાત_N_NNP હાઈકોર્ટનાં_N_NN ઉપરોકત_RP_RPD હુકમ_N_NN અન્વયે_N_NN સબંધીત_JJ કામદારો_N_NN દવારા_PSP આંક_N_NN-_RD_PUNC૧૫૧થી_QT_QTC અરજ_N_NN ગુજારતાં_V_VAUX અત્રેની_PSP કોર્ટ_N_NN દવારા_PSP તા._N_NN ૦૮_QT_QTC/_RD_PUNC૦૮_QT_QTC/_RD_PUNC૨૦૧૭નાં_QT_QTC રોજ_N_NN સબંધીત_JJ કામદારોની_N_NN નોકરીની_N_NN શરતોમાં_N_NN ફેરફાર_N_NN ન_RP_NEG કરવા_V_VAUX કે_CC_CCS છુટા_JJ કરવા_V_VAUX કે_CC_CCS કરાવવા_V_VAUX નહીં_RP_NEG તેવો_RP_RPD યથાવત_JJ પરીસ્થિતિ_N_NN જાળવી_V_VM રાખવાનો_V_VAUX હુકમ_N_NN કરી_V_VM આ_DM_DMD હુકમ_N_NN રેફરન્સ_N_NN કેસનાં_N_NN આખરી_JJ નિર્ણય_N_NN સુધી_RP_RPD કાયમ_JJ શા_PR_PRQ માટે_PSP ન_RP_NEG કરવો_V_VAUX તે_PR_PRL અંગેની_PSP પ્રથમ_QT_QTO પક્ષકારને_N_NN નોટીસ_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=20>જે_RP_RPD અન્વયે_N_NN પ્રથમ_QT_QTO પક્ષકાર_N_NN દવારા_PSP આંક_N_NN-_RD_PUNC૧૫૪થી_QT_QTC વાંઘા_JJ જવાબ_N_NN રજુ_V_VM કરવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=21> ત્યારબાદ_N_NST પ્રથમ_QT_QTO પક્ષકારનાં_N_NN વકીલશ્રીએ_N_NN તેઓ_PR_PRP કાયદાની_N_NN પ્રક્રિયા_N_NN કર્યા_V_VAUX વગર_N_NN સબંધીત_JJ કામદારોની_N_NN નોકરીમાં_N_NN કોઈ_DM_DMI બદલ_N_NN ન_RP_NEG કરવાની_V_VAUX નગરપાલીકા_N_NN વતી_N_NN ખાત્રી_JJ અને_CC_CCD વિશ્વાસ_N_NN આપે_V_VAUX છે_V_VAUX તેવો_RP_RPD શેરો_N_NN કરતાં_V_VAUX તે_PR_PRL શેરો_N_NN ઘ્યાને_N_NN લઈ_V_VM
+અરજીનો_N_NN નિકાલ_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=22>ત્યારબાદ_N_NST નામદાર_N_NN ગુજરાત_N_NNP હાઈકોર્ટનાં_N_NN ઉપરોકત_RP_RPD હુકમ_N_NN મુજબ_PSP અત્રેની_PSP કોર્ટી_N_NN આંક_N_NN-_RD_PUNC૧૭૦થી_QT_QTC નીચે_N_NST મુજબ_PSP પ્રાથમીક_JJ મુદ્દો_N_NN કાઢવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=23>પ્રાથમીક_JJ મુદ્દો_N_NN :_RD_PUNC-_RD_PUNC</Sentence>
+
+<Sentence id=24>(_RD_PUNC૧_QT_QTC)_RD_PUNC શું_PR_PRQ પ્રથમ_QT_QTO પક્ષકાર_N_NN સંસ્થાનો_N_NN તા_N_NN ૦૮_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC સબંધીત_JJ કામદારોની_N_NN નોકરી_N_NN ટર્મીનેટ_N_NN કરતો_V_VAUX હુકમ_N_NN ઘ્યાને_N_NN લેતાં_V_VM સમુચીત_N_NN સરકાર_N_NN દવારા_PSP ન્યાય_N_NN નિર્ણય_N_NN માટે_PSP મોકલવામાં_V_VAUX આવેલ_V_VAUX હાલનો_N_NST રેફરન્સ_N_NN વ્યાજબી_JJ અને_CC_CCD ચાલવા_JJ પાત્ર_N_NN છે_V_VAUX ?_RD_PUNC</Sentence>
+
+<Sentence id=25> (_RD_PUNCર_QT_QTC)_RD_PUNC શું_PR_PRQ હુકમ_N_NN?_RD_PUNC</Sentence>
+
+<Sentence id=26> (_RD_PUNC૫_QT_QTC)_RD_PUNC ઉપરોકત_RP_RPD મુદ્દાનો_N_NN મારો_PR_PRP નિર્ણય_N_NN નીચે_N_NST મુજબ_PSP છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=27>નિર્ણય_N_NN :_RD_PUNC-_RD_PUNC</Sentence>
+
+<Sentence id=28> (_RD_PUNC૧_QT_QTC)_RD_PUNC હકારમાં_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=29>(_RD_PUNCર_QT_QTC)_RD_PUNC આખરી_JJ હુકમ_N_NN મુજબ_PSP._RD_PUNC</Sentence>
+
+<Sentence id=30>ઉપરોક્ત_RP_RPD પ્રાથમિક_N_NN મુદ્દે_N_NN બીજા_QT_QTO પક્ષકાર_N_NN તરફે_PSP આંક_N_NN-_RD_PUNC૧૧થી_QT_QTC સોગંદ_N_NN ઉપર_N_NST સરતપાસ_N_NN રજુ_V_VM થયેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=31>જેની_PR_PRL ઉલટ_JJ તપાસ_N_NN પ્રથમ_QT_QTO પક્ષકાર_N_NN દવારા_PSP કરવામાં_V_VAUX આવેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=32>જયારે_N_NST પ્રથમ_QT_QTO
+પક્ષકાર_N_NN તરફે_PSP સાહેદ_N_NN મુકેશભાઈ_N_NNP એલ._N_NNP જાનીની_N_NNP આંક_N_NN-_RD_PUNC૧પ૫થી_QT_QTC સોગંદ_N_NN ઉપર_N_NST સરતપાસ_N_NN રજુ_V_VM થયેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=33>જેની_PR_PRL ઉલટતપાસ_N_NN બીજા_QT_QTO પક્ષકારનાં_N_NN વકીલશ્રી_N_NN દવારા_PSP કરવામાં_V_VAUX આવેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=34> (_RD_PUNC૭_QT_QTC)_RD_PUNC બીજા_QT_QTO પક્ષકાર_N_NN દવારા_PSP આંક_N_NN-_RD_PUNC૧રથી_QT_QTC તથા_CC_CCD પ્રથમ_QT_QTO પક્ષકાર_N_NN દવારા_PSP આંક_N_NN-_RD_PUNC૧૭૭થી_QT_QTC પ્રાથમીક_JJ
+મુદ્દે_N_NN કલોઝીંગ_N_NN પુરસીસ_N_NN રજુ_V_VM કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=35> (_RD_PUNC૮_QT_QTC)_RD_PUNC બીજા_QT_QTO પક્ષકાર_N_NN તરફે_PSP વિ.વ.શ્રી_JJ _CC_CCDડી.ડી.છાયા_N_NNP તથા_CC_CCD પ્રથમ_QT_QTO પક્ષકાર_N_NN તરફે_PSP વિ.વ.શ્રી_JJ
+જી.કે.ભટ્ને_N_NNP સાંભળ્યા_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=36>પક્ષકારો_N_NN તરફે_PSP આ_DM_DMD કામે_N_NN અગાઉ_PSP રજુ_V_VM થયેલ_V_VAUX દસ્તાવેજી_JJ તથા_CC_CCD મૌખિક_JJ
+પુરાવો_N_NN તેમજ_CC_CCD પ્રાથમિક_N_NN મુદ્દા_N_NN અન્વયે_N_NN રજુ_V_VM થયેલ_V_VAUX મૌખિક_JJ પુરાવો_N_NN ઘ્યાને_N_NN લઈ_V_VM પ્રાથમીક_JJ
+મુદ્દાનો_N_NN નિર્ણય_N_NN કરવા_V_VAUX વિનંતી_JJ કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=37> કારણો_N_NN:_RD_PUNC</Sentence>
+
+<Sentence id=38>આ_DM_DMD કામે_N_NN પ્રાથમીક_JJ મુદ્દાની_N_NN ચર્ચા_N_NN કરતા_V_VAUX પહેલા_QT_QTO તે_PR_PRL અન્વયે_N_NN પક્ષકારો_N_NN તરફે_PSP રજુ_V_VM થયેલ_V_VAUX મૌખિક_JJ પુરાવો_N_NN જોઈએ_V_VAUX તો_RP_RPD,_RD_PUNC બીજા_QT_QTO પક્ષકાર_N_NN તરફે_PSP સાહેદ_N_NN પરબતભાઈ_N_NNP નારણભાઈ_N_NNP ગરચરની_N_NNP આંક_N_NN-_RD_PUNC૧૭૧થી_QT_QTC સોગંદ_N_NN
+ઉપર_N_NST સરતપાસ_N_NN રજુ_V_VM થયેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=39>તેમનાં_PR_PRP સરતપાસનાં_N_NN કથન_N_NN મુજબ_PSP આ_DM_DMD કેસનાં_N_NN સબંધીત_JJ
+કામદારોની_N_NN નિમણુંક_N_NN પ્રથમ_QT_QTO  પક્ષકાર_N_NN દવારા_PSP નિયમ_N_NN મુજબ_PSP કાર્યવાહી_N_NN કરી_V_VM ઈન્ટરવ્યુ_N_NN લઈ_V_VM
+સીલેક્શન_N_NN કમીટી_N_NN મારફત_PSP જનરલ_N_NN બોર્ડનાં_N_NN ઠરાવથી_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=40>તેઓની_PR_PRP નિમણુંક_N_NN થયા_V_VAUX
+બાદ_PSP કલેકટરશ્રી_N_NN રાજકોટ_N_NNP સમક્ષ_PSP કલમ_N_NN-_RD_PUNC૨૫૮_QT_QTC નીચે_N_NST અરજી_N_NN દાખલ_N_NN થયેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=41> જેમાં_RP_RPD ક્લેકટરશ્રીએ_N_NN
+નિમણુંકની_N_NN પ્રક્રિયા_N_NN રદ_N_NN કરેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=42>પરંતું_CC_CCD તે_RP_RPD દરમ્યાન_PSP બીજા_QT_QTO પક્ષકારે_N_NN નામદાર_N_NN ગુજરાત_N_NNP હાઈકોર્ટમાં_N_NN કેસ_N_NN કરેલ_V_VAUX તથા_CC_CCD ઔદ્યોગીક_JJ વિવાદ_N_NN ઉભો_V_VAUX કરેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=43>નામદાર_N_NN ગુજરાત_N_NNP હાઈકોર્ટ_N_NN દવારા_PSP હાલનો_N_NST
+રેફરન્સ_N_NN મેરીટ_N_NN ઉપર_N_NST ચલાવવા_V_VAUX હુકમ_N_NN કરેલ_V_VAUX અને_CC_CCD દરમ્યાન_PSP અમારી_PR_PRP નોકરીની_N_NN શરતોમાં_N_NN કોઈ_DM_DMI
+ફેરફાર_N_NN ન_RP_NEG કરવો_V_VAUX તેવો_RP_RPD હુકમ_N_NN કરેલ_V_VAUX અને_CC_CCD તે_PR_PRL રીતે_RB નોકરીમાં_N_NN ચાલું_V_VM છીએ_V_VAUX._RD_PUNC89 </Sentence>/*-
+
+<Sentence id=44>આ_DM_DMD એવોર્ડથી_N_NN નારાજ_N_NN
+થઈ_V_VAUX નગરપાલીકાએ_N_NN નામદાર_N_NN ગુજરાત_N_NNP હાઈકોર્ટ_N_NN સમક્ષ_PSP અપીલ_N_NN કરેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=45> જે_RP_RPD કામે_N_NN કેસ_N_NN
+રીમાન્ડ_N_NN થયેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=46>અમારી_PR_PRP નિમણુંક_N_NN ક્લેટકરશ્રી_N_NN દવારા_PSP રદ_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=47>તે_RP_RPD મુદ્દો_N_NN નામદાર_N_NN ગુજરાત_N_NNP હાઈકોર્ટ_N_NN દવારા_PSP ઘ્યાને_N_NN ઉપર_N_NST લેવામાં_V_VAUX આવેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=48>પરંતું_CC_CCD ફાઈનલ_JJ હિયરીંગ_N_NN
+દરમ્યાન_PSP અમારી_PR_PRP નોકરી_N_NN નામદાર_N_NN ગુજરાત_N_NNP હાઈકોર્ટનાં_N_NN આદેશ_N_NN અન્વયે_N_NN ચાલું_V_VM છે_V_VAUX તે_PR_PRL અમારા_PR_PRP
+વકીલ_N_NN બતાવી_V_VAUX શકેલ_V_VAUX નહી_RP_NEG જેના_RP_RPD કારણે_N_NN વિસંગતતા_JJ ઉભી_V_VM થયેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence> 
+
+<Sentence id=49>કલેકટરશ્રી_N_NN રાજકોટ_N_NNP
+દવારા_PSP જે_RP_RPD તે_RP_RPD સમયે_N_NN જનરલ_N_NN બોર્ડનાં_N_NN ઠરાવો_V_VAUX સ્થગીત_JJ કરવામાં_V_VAUX આવેલ_V_VAUX હતાં_V_VAUX,_RD_PUNC રદ_N_NN કરવામાં_V_VAUX
+આવેલ_V_VAUX ન_RP_NEG હતાં_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=50>કલેક્ટરનાં_N_NN હુકમ_N_NN બાદ_PSP જનરલ_N_NN બોર્ડે_N_NN કલેક્ટરશ્રીનાં_N_NN આખરી_JJ
+ચુકાદાને_N_NN આધીન_N_NN ઠરાવ_N_NN રદ_N_NN કરેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=51>ત્યારબાદ_N_NST કલેક્ટરશ્રી_N_NN દવારા_PSP આખરી_JJ હુકમ_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=52>પ્રથમ_QT_QTO પક્ષકાર_N_NN દવારા_PSP અમોને_PR_PRP છુટા_JJ કરવા_V_VAUX ઔદ્યોગીક_JJ વિવાદ_N_NN ધારાની_N_NNP કલમ_N_NN ૩૩_QT_QTC(_RD_PUNC૨_QT_QTC)_RD_PUNC (_RD_PUNCબી_N_NN)_RD_PUNC
+હેઠળ_N_NN કાર્યવાહી_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=53>અમારી_PR_PRP નોકરી_N_NN સળંગ_RB છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=54>અમોને_PR_PRP છઠ્ઠા_QT_QTC વેતન_N_NN પંચ_N_NN મુજબ_PSP બેઝીક_JJ આપવામાં_V_VAUX આવે_V_VAUX છે_V_VAUX પરંતું_CC_CCD ઈન્ક્રીમેન્ટો_N_NN આપવામાં_V_VAUX આવતાં_V_VAUX નથી_RP_NEG એટલે_CC_CCD કે_CC_CCD,_RD_PUNC દરેક_QT_QTF પગાર_N_NN પંચ_N_NN અમલમાં_N_NN આવે_V_VAUX તેમાં_PR_PRL મુળ_JJ પગારમાં_N_NN રાખવામાં_V_VAUX આવે_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=55>જેથી_CC_CCD મોટું_JJ આર્થીક_JJ નુકશાન_N_NN થાય_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=56>હાલનો_N_NST રેફરન્સ_N_NN પણ_CC_CCD તે_PR_PRL રીતે_RB કરવામાં_V_VAUX આવેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=57>તેઓનાં_PR_PRP ઉલટતપાસનાં_N_NN
+કથન_N_NN મુજબ_PSP તેઓ_PR_PRP તમામ_QT_QTF કામદાર_N_NN વતી_N_NN જુબાની_N_NN આપે_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=58> બઘા_QT_QTF કામદારોએ_N_NN આ_DM_DMD અંગે_PSP તેઓને_PR_PRP
+મૌખિક_JJ અધિકાર_N_NN આપેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=59>કલેકટર_N_NN સાહેબે_N_NN નોકરીમાં_N_NN છુટા_JJ કરવા_V_VAUX હુકમ_N_NN કરવાં_V_VAUX છતાં_RB તમો_PR_PRP નોકરીમાં_N_NN હતા_V_VAUX તે_PR_PRL દર્શાવવા_V_VAUX તમારી_PR_PRP પાસે_PSP કોઈ_DM_DMI આધાર_N_NN છે_V_VAUX ?_RD_PUNC </Sentence>
+
+<Sentence id=60>તેવા_PR_PRL પ્રશ્નનાં_N_NN જવાબમાં_N_NN
+કલેક્ટર_N_NN સાહેબનાં_N_NN હુકમ_N_NN આધારે_N_NN ચીફ_JJ ઓફીસરે_N_NN છુટા_JJ કરવા_V_VAUX હુકમ_N_NN કરતાં_V_VAUX કોર્ટમાં_N_NN આવેલાનું_V_VAUX
+અને_CC_CCD તે_PR_PRL આધારે_N_NN નોકરીમાં_N_NN ચાલું_V_VM હોવાનું_V_VAUX જાહેર_V_VM કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=61> તેઓએ_PR_PRP પગાર_N_NN ઉપર_N_NST ઈન્કીમેન્ટ_N_NN
+આપતાનો_V_VAUX ઈન્કાર_N_NN કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=62> તેઓએ_PR_PRP સરકારશ્રી_N_NN દવારા_PSP મંજુર_N_NN થતાં_V_VAUX પગાર_N_NN પંચનો_N_NN લાભ_N_NN મળતાનું_V_VAUX અને_CC_CCD તેની_PR_PRL નોંધ_N_NN સર્વિસ_N_NN બુકમાં_N_NN થતાનું_V_VAUX કબુલ_N_NN રાખી_V_VM સર્વિસ_N_NN બુકમાં_N_NN થયેલ_V_VAUX નોંધ_N_NN
+અંગે_PSP કોઈ_DM_DMI વાંધો_N_NN લીધેલ_V_VAUX ન_RP_NEG હોવાનું_V_VAUX કબુલ_N_NN રાખેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=63>આ_DM_DMD કામે_N_NN પ્રથમ_QT_QTO પક્ષકાર_N_NN તરફે_PSP સાહેદ_N_NN મુકેશભાઈ_N_NNP એલ.જાનીની_N_NNP આંક_N_NN-_RD_PUNC૧પ૫થી_QT_QTC સોગંદ_N_NN ઉપર_N_NST સરતપાસ_N_NN રજુ_V_VM થયેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=64>તેમનાં_PR_PRP કથન_N_NN મુજબ_PSP મ્યુનીસીપાલીટીનાં_N_NN જનરલ_N_NN બોર્ડનાં_N_NN ઠરાવ_N_NN નં._N_NN ૩ર_QT_QTC તા._N_NN ૧૭_QT_QTC/_RD_PUNC૦૪_QT_QTC/_RD_PUNC૯પથી_QT_QTC ઉમેદવારોને_N_NN ઈન્ટરવ્યુમાં_N_NN બોલાવી_V_VM પસંદગી_N_NN આપવાની_V_VAUX સતા_N_NN એસ્ટાબ્લીશમેન્ટ_N_NN કમીટીને_N_NN આપવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=65> આ_DM_DMD ઠરાવ_N_NN અન્વયે_N_NN ભરતીની_N_NN જાહેરાત_N_NN
+વગેરે_PSP પ્રક્રિયા_N_NN કરી_V_VM જનરલ_N_NN બોર્ડની_N_NN અપેક્ષાએ_N_NN બેક્લોગ_N_NN ભરતીની_N_NN નિમણુંકનાં_N_NN હુકમ_N_NN 
+તા._N_NN ૨૪_QT_QTC/_RD_PUNC૦૮_QT_QTC/_RD_PUNC૧૯૯૫_QT_QTC તથા_CC_CCD તા._N_NN ૨૫_QT_QTC/_RD_PUNC૦૮_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC કરવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=66> આ_DM_DMD બેક્લોગ_N_NN ભરતી_N_NN
+વિરુઘ્ધ_N_NN કલેક્ટરશ્રી_N_NN સાહેબ_N_NN સમક્ષ_PSP ગેરકાયદેસર_JJ ભરતીની_N_NN રજુઆત_N_NN થતાં_V_VAUX બંને_QT_QTC પક્ષોને_N_NN
+સાંભળી_V_VM ગુણદોષ_JJ તપાસતા_V_VAUX કલેક્ટરશ્રી_N_NN દવારા_PSP કલમ_N_NN-_RD_PUNCર૫૮ની_QT_QTC મનાઈ_N_NN હુકમ_N_NN પત્ર_N_NN
+તા._N_NN ૦૮_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC આપવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=67>બેકલોગ_N_NN ભરતી_N_NN પ્રક્રિયા_N_NN જનરલ_N_NN બોર્ડની_N_NN
+અપેક્ષાએ_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=68> તે_PR_PRL જનરલ_N_NN બોર્ડનાં_N_NN ઠરાવ_N_NN નં._N_NN ૯૭_QT_QTC તા._N_NN ૨_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫થી_QT_QTC ઠરાવ_N_NN નં._N_NN ૧૦_QT_QTC તથા_CC_CCD ૧૧નાં_QT_QTC નિર્ણય_N_NN તથા_CC_CCD તા._N_NN ૨૪_QT_QTC/_RD_PUNC૦૮_QT_QTC/_RD_PUNC૧૯૯૫_QT_QTC તથા_CC_CCD તા._N_NN ર૫_QT_QTC/_RD_PUNC૦૮_QT_QTC/_RD_PUNC૧૯૯૫થી_QT_QTC
+અપાયેલ_V_VAUX નિમણુંક_N_NN હુકમો_N_NN રદ_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX હતા_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=69>કલેકટર_N_NN સાહેબનાં_N_NN કલમ_N_NN-_RD_PUNC૨૫૮_QT_QTC
+અન્વયેનાં_N_NN હુકમ_N_NN અન્વયે_N_NN બેકલોગ_N_NN કર્મચારીઓને_N_NN ફરજ_N_NN મુકત_V_VAUX કરવા_V_VAUX તા._N_NN ૦૮_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC
+આદેશથી_N_NN છુટા_JJ કરેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=70>જે_RP_RPD સબંધે_N_NN કર્મચારીઓએ_N_NN નામદાર_N_NN ગુજરાત_N_NNP હાઈકોર્ટમાં_N_NN સ્પે.સી.એ.નં._N_NN ૭૭૧૪૭_QT_QTC/_RD_PUNC૯પ_QT_QTC તથા_CC_CCD એલ.પી.એ.નં._N_NN ૪૫૮_QT_QTC/_RD_PUNC૯થી_QT_QTC કલેકટર_N_NN સાહેબનાં_N_NN હુકમ_N_NN સામે_N_NST સ્ટે_JJ મેળવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=71>રેફરન્સ_N_NN આઈ.ટી._N_NN નં._N_NN ૫૪_QT_QTC/_RD_PUNC૯૮_QT_QTC તથા_CC_CCD ૫૫_QT_QTC/_RD_PUNC૯૮નાં_QT_QTC  કામે_N_NN ન્યાયપંચ_N_NN દવારા_PSP કામદારોને_N_NN તા._N_NN ૦૧_QT_QTC/_RD_PUNC૦૧_QT_QTC/_RD_PUNC૧૪થી_QT_QTC કાયમી_JJ ગણી_V_VM લાભો_N_NN ચુકવવા_V_VAUX હુકમ_N_NN કરેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=72> જે_RP_RPD સામે_N_NST નગરપાલીકા_N_NN દવારા_PSP
+નામદાર_N_NN ગુજરાત_N_NNP હાઈકોર્ટમાં_N_NN સ્પે.સી.એ.નં._N_NN ૮૫૨૯_QT_QTC/_RD_PUNC૨૦૧૪_QT_QTC કરતાં_V_VAUX ઔદ્યોગીક_JJ ન્યાય_N_NN પંચનો_N_NN
+એવોર્ડ_N_NN રદ_N_NN કરી_V_VM કેસ_N_NN રીમાન્ડ_N_NN થયેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=73>જે_RP_RPD કામે_N_NN ઔદ્યોગીક_JJ ન્યાયપંચ_N_NN દવારા_PSP કોર્ટનો_N_NN બીજો_QT_QTO
+હુકમ_N_NN થતાં_V_VAUX સુધી_RP_RPD સબંધીત_JJ કામદારોની_N_NN નોકરીની_N_NN શરતોમાં_N_NN ફેરફાર_N_NN ન_RP_NEG કરવા_V_VAUX કે_CC_CCS છુટા_JJ ન_RP_NEG કરવા_V_VAUX
+તેવો_RP_RPD યથાવત_JJ પરિસ્થિતિ_N_NN જાળવી_V_VM રાખવાનો_V_VAUX હુકમ_N_NN થયેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=74> તે_PR_PRL અન્વયે_N_NN કર્મચારીઓ_N_NN નોકરીમાં_N_NN
+ચાલું_V_VM છે_V_VAUX ,_RD_PUNC સબંધીત_JJ કર્મચારીઓનાં_N_NN જનરલ_N_NN બોર્ડની_N_NN મંજુરી_N_NN મળેલ_V_VAUX ન_RP_NEG હોય_V_VAUX ઈન્કીમેન્ટ_N_NN તથા_CC_CCD
+મકાન_N_NN ભાડું_N_NN મળતું_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=75> તેઓએ_PR_PRP ઉલટતપાસમાં_N_NN કબુલ_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC સબંધીત_JJ કામદારો_N_NN નોકરીમાં_N_NN રહયા_V_VAUX ત્યારથી_N_NST આજદિન_N_NST સુધીમાં_RP_RPD તેની_PR_PRL નોકરીમાં_N_NN કોઈ_DM_DMI બ્રેક_N_NN નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=76>તેઓએ_PR_PRP એમ_RP_RPD પણ_CC_CCD
+કબુલ_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC ક્લેકટરશ્રીનાં_N_NN હુકમ_N_NN મુજબ_PSP સબંધીત_JJ કામદારોને_N_NN છુટા_JJ કરવાની_V_VAUX
+કાર્યવાહી_N_NN ચાલું_V_VM હતી_V_VAUX તે_PR_PRL દરમ્યાન_PSP નામદાર_N_NN હાઈકોર્ટથી_N_NN સ્ટે_JJ આવતાં_V_VAUX કોઈ_DM_DMI કામદારને_N_NN છુટા_JJ
+કરેલ_V_VAUX ન_RP_NEG હતા_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=77>આ_DM_DMD કામે_N_NN પડેલ_V_VAUX દસ્તાવેજી_JJ તથા_CC_CCD મૌખિક_JJ પુરાવો_N_NN વંચાણે_N_NN લેતાં_V_VM તા._N_NN ૨૯_QT_QTC/_RD_PUNC૦_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC રોજ_N_NN દૈનિક_JJ પત્ર_N_NN ફુલછાબમાં_N_NN અનામત_N_NN વર્ગોનાં_N_NN બેકલોગ_N_NN ભરવા_V_VAUX અંગેની_PSP જાહેરાત_N_NN આવેલી_V_VAUX અને_CC_CCD તે_PR_PRL જુદી_JJ જુદી_JJ જગ્યાઓ_N_NN માટે_PSP અનુસુચીત_N_NN જાતી_N_NN,_RD_PUNC અનુસુચીત_N_NN જન_N_NN જાતી_N_NN તથા_CC_CCD શારીરીક_JJ ખોડખાપણની_N_NN જગ્યાઓ_N_NN ભરવા_V_VAUX અંગેની_PSP હતી_V_VAUX._RD_PUNC</Sentence> 
+
+<Sentence id=78> આંક_N_NN-_RD_PUNC૭થી_QT_QTC ૮_QT_QTC તથા_CC_CCD ૭૧_QT_QTC વંચાણે_N_NN લેતાં_V_VM
+સબંધીત_JJ કામદારોને_N_NN આ_DM_DMD જાહેરાત_N_NN અન્વયે_N_NN ઈન્ટરવ્યુ_N_NN કોલ_N_NN આપવામાં_V_VAUX આવેલા_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=79>આંક_N_NN-_RD_PUNC૯_QT_QTC
+તથા_CC_CCD આંક_N_NN-_RD_PUNC૭૦_QT_QTC વંચાણે_N_NN લેતાં_V_VM સબંધીત_JJ કામદારોને_N_NN આ_DM_DMD ઈન્ટરવ્યુ_N_NN અન્વયે_N_NN નિમણુંક_N_NN આપવામાં_V_VAUX
+આવેલી_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=80>વધુમાં_QT_QTF જોવામાં_V_VAUX આવે_V_VAUX તો_RP_RPD,_RD_PUNC આ_DM_DMD નિમણુંક_N_NN હુકમ_N_NN ૭_QT_QTC માસનાં_N_NN પ્રોબેશન_N_NN પીરીયડ_N_NN ઉપર_N_NST
+તથા_CC_CCD જનરલ_N_NN બોર્ડની_N_NN અપેક્ષાએ_N_NN નિમણુંક_N_NN આપવામાં_V_VAUX આવેલ_V_VAUX હતી_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=81> આંક_N_NN-_RD_PUNC૩૩_QT_QTC વંચાણે_N_NN લેતાં_V_VM તે_PR_PRL
+ક્લેક્ટરશ્રી_N_NN રાજકોટ_N_NNP દવારા_PSP તા._N_NN ૦૮_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC રોજ_N_NN હુકમ_N_NN કરી_V_VM જેતપુર_N_NNP
+નગરપાલીકાએ_N_NN અનામત_N_NN બેક્લોગની_N_NN ભરેલ_JJ જગ્યા_N_NN અન્વયે_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX ઠરાવ_N_NN નં._N_NN ૧૦_QT_QTC
+તથા_CC_CCD ઠરાવ_N_NN નં._N_NN ૧૧_QT_QTC ગુજરાત_N_NNP નગરપાલીકા_N_NN અધિનિયમની_N_NN કલમ_N_NN ૨૫૮_QT_QTC(_RD_PUNC૧_QT_QTC)_RD_PUNC અન્વયે_N_NN મળેલ_V_VAUX
+સતાની_N_NN રુઈએ_N_NN સ્થગીત_JJ કરવાનો_V_VAUX અને_CC_CCD આ_DM_DMD ઠરાવો_V_VAUX પહેલાની_N_NST પુનઃ_JJ સ્થિતિ_N_NN હાલનાં_N_NST તબકકે_N_NN
+સ્થાપિત_N_NN કરવા_V_VAUX હુકમ_N_NN કરી_V_VM કલેકટરશ્રી_N_NN રાજકોટ_N_NNP દવારા_PSP વધુ_QT_QTF રજુઆત_N_NN માટે_PSP મુદત_N_NN
+તા._N_NN ૨2_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC મુકરર_N_NN કરવામાં_V_VAUX આવેલી_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=82>આંક_N_NN-_RD_PUNC૭ર૨_QT_QTC વંચાણે_N_NN લેતા_V_VM તે_PR_PRL પ્રથમ_QT_QTO પક્ષકાર_N_NN જેતપુર_N_NNP નગરપાલીકા_N_NN દવારા_PSP તા._N_NN ૦૮_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC રોજ_N_NN હુકમ_N_NN કરી_V_VM તા._N_NN ૨૪_QT_QTC/_RD_PUNC૦૮_QT_QTC/_RD_PUNC૧૯૯૫_QT_QTC
+તથા_CC_CCD તા._N_NN ૨૫_QT_QTC/_RD_PUNC૦૮_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC હુકમથી_N_NN આપવામાં_V_VAUX આવેલ_V_VAUX નિમણુંકો_N_NN કલેકટરશ્રી_N_NN,_RD_PUNC રાજકોટનો_N_NNP
+તા._N_NN ૦૮_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC હુકમ_N_NN ઘ્યાને_N_NN લઈ_V_VM સબંધીત_JJ કામદારોને_N_NN કલેકટરશ્રી_N_NN,_RD_PUNC રાજકોટનાં_N_NNP
+તા._N_NN ૦૮_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC હુકમ_N_NN અન્વયે_N_NN આખરી_JJ હુકમને_N_NN આધીન_N_NN છુટા_JJ કરવા_V_VAUX હુકમ_N_NN કરવામાં_V_VAUX
+આવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=83>ઉપરોકત_RP_RPD પુરાવાથી_N_NN એ_CC_CCD બાબત_N_NN સ્પષ્ટ_JJ થાય_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC સબંધીત_JJ કામદારોને_N_NN તા._N_NN ૨૪_QT_QTC-_RD_PUNC૨૫_QT_QTC/_RD_PUNC૦૮_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC હુકમથી_N_NN અપાયેલ_V_VAUX નિમણુંકો_N_NN  માસનાં_N_NN પ્રોબેશન_N_NN પીરીયડ_N_NN માટે_PSP તથા_CC_CCD જનરલ_N_NN બોર્ડની_N_NN
+અપેક્ષાએ_N_NN અપાયેલ_V_VAUX તેમજ_CC_CCD આવી_RP_RPD નિમણુંક_N_NN ક્લેકટરશ્રીનો_N_NN તા._N_NN ૦૮_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC
+હુકમને_N_NN ઘ્યાને_N_NN લઈ_V_VM ક્લેક્ટરશ્રીનાં_N_NN આ_DM_DMD હુકમ_N_NN સબંધે_N_NN આખરી_JJ આદેશને_N_NN આધીન_N_NN સબંધીત_JJ
+કામદારોને_N_NN છુટા_JJ કરવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=84> જેથી_CC_CCD છુટા_JJ કરવાનો_V_VAUX  હુકમ_N_NN ફાઈનલ_JJ ન_RP_NEG હતો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=85>આ_DM_DMD હુકમથી_N_NN નારાજ_N_NN થઈ_V_VAUX સબંધીત_JJ કામદારોએ_N_NN નામદાર_N_NN ગુજરાત_N_NNP હાઈકોર્ટમાં_N_NN સ્પે.સી.એ.નં._N_NN
+૭૭૧૭_QT_QTC/_RD_PUNC૧૯૯૫ની_QT_QTC  દાખલ_N_NN કરેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=86>જે_RP_RPD કામે_N_NN નામદાર_N_NN ગુજરાત_N_NNP હાઈકોર્ટે_N_NN વચગાળાની_JJ રાહત_N_NN
+આપેલી_V_VM અને_CC_CCD ત્યારબાદ_N_NST તા._N_NN ૧૦_QT_QTC/_RD_PUNC૪_QT_QTC/_RD_PUNC૯૭નાં_QT_QTC હુકમથી_N_NN અરજી_N_NN ડીસમીસ_JJ કરી_V_VM વચગાળાની_JJ રાહત_N_NN
+ઉઠાવી_V_VAUX લીધેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=87> જે__RP_RPD હુકમ_N_NN સામે_N_NST સબંધીત_JJ કામદારોએ_N_NN નામદાર_N_NN ગુજરાત_N_NNP હાઈકોર્ટમાં_N_NN
+એલ.પી.એ.નં._N_NN  ૪૫૮_QT_QTC/_RD_PUNC૯થી_QT_QTC દાખલ_N_NN કરેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=88> જેમાં_RP_RPD નામદાર_N_NN હાઈકોર્ટથી_N_NN સબંધીત_JJ
+કામદારોની_N_NN નોકરી_N_NN પ્રોટેકટ_N_NN કરવામાં_V_VAUX આવેલી_V_VAUX અને_CC_CCD ત્યારબાદ_N_NST તા._N_NN રર_QT_QTC/_RD_PUNC૧૨_QT_QTC/_RD_PUNCર૦૦૪નાં_QT_QTC
+હુકમથી_N_NN સબંધીત_JJ કામદારોનો_N_NN રેફરન્સ_N_NN પેન્ડીંગ_JJ હોય_V_VAUX તે_PR_PRL કારણસર_N_NN રેફરન્સનાં_N_NN આખરી_JJ
+નિર્ણય_N_NN સુધી_RP_RPD સબંધીત_JJ કામદારોની_N_NN નોકરી_N_NN પ્રોટેકટ_N_NN કરવા_V_VAUX હુકમ_N_NN કરી_V_VM એલ.પી.એ.નો_N_NN
+નિકાલ_N_NN કરેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=89>ત્યારબાદ_N_NST મારા_PR_PRP પુરોગામી_N_NN ન્યાયધીશશ્રી_N_NN દવારા_PSP તા._N_NN ૧૫_QT_QTC/_RD_PUNC૦૨_QT_QTC/_RD_PUNC૨૦૧૪નાં_QT_QTC
+એવોર્ડથી_N_NN સબંધીત_JJ કામદારોનો_N_NN રેફરન્સ_N_NN અંશતઃ_JJ મંજુર_N_NN રાખવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=90>જે_RP_RPD હુકમથી_N_NN નારાજ_N_NN
+થઈ_V_VAUX પ્રથમ_QT_QTO પક્ષકારે_N_NN સ્પે.સી.એ.નં._N_NN ૧૧૩૭૮_QT_QTC/_RD_PUNC૧૪થી_QT_QTC સ્પે.સી.એ.નં._N_NN ૧૧૩૮૧_QT_QTC/_RD_PUNC૧૪ની_QT_QTC દાખલ_N_NN
+કરેલ_V_VAUX જે_RP_RPD કામે_N_NN થયેલ_V_VAUX હુકમ_N_NN મુજબ_PSP હાલનો_N_NST કેસ_N_NN રીમાન્ડ_N_NN થયેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=91> પ્રથમ_QT_QTO પક્ષકારનાં_N_NN
+સાહેદે_N_NN આંક_N_NN-_RD_PUNC૧૭૫ની_QT_QTC ઉલટતપાસમાં_N_NN પણ_CC_CCD કબુલ_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC સબંધીત_JJ કામદારો_N_NN નોકરીમાં_N_NN
+રહયા_V_VAUX ત્યારથી_N_NST આજ_N_NST દિન_N_NN સુધીમાં_RP_RPD તેની_PR_PRL નોકરીમાં_N_NN કોઈ_DM_DMI બ્રેક_N_NN નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=92>આમ_RP_RPD,_RD_PUNC ઉપર_N_NST જણાવેલ_V_VAUX
+હકીકત_N_NN તથા_CC_CCD પ્રથમ_QT_QTO પક્ષકારનાં_N_NN સાહેદે_N_NN કરેલ_V_VAUX કબુલાત_N_NN મુજબ_PSP સબંધીત_JJ કામદારો_N_NN નોકરીમાં_N_NN
+રહયા_V_VAUX ત્યારથી_N_NST સળંગ_RB નોકરીમાં_N_NN હોવાનું_V_VAUX તારણ_N_NN થાય_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=93>બીજા_QT_QTO પક્ષકાર_N_NN તરફે_PSP એવી_RP_RPD દલીલ_N_NN થયેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC સબંધીત_JJ કામદારોએ_N_NN તેઓને_PR_PRP નોકરીમાંથી_N_NN
+છુટા_JJ કરવાનાં_V_VAUX હુકમ_N_NN સામે_N_NST કરેલ_V_VAUX એસ.સી.એ.નં._N_NN ૭૭૧૭_QT_QTC/_RD_PUNC૧૯૯૫_QT_QTC રદ_N_NN થયેલી_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=94>પરંતું_CC_CCD છુટા_JJ
+કરવાનાં_V_VAUX હુકમમાં_N_NN જણાવ્યા_V_VAUX મુજબ_PSP કલેકટરશ્રીનો_N_NN હુકમ_N_NN ઘ્યાને_N_NN લઈ_V_VM કલેક્ટરશ્રીનાં_N_NN આખરી_JJ
+આદેશને_N_NN આધીન_N_NN છુટા_JJ કરવામાં_V_VAUX આવેલા_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=95> કલેકટરશ્રીએ_N_NN તેના_PR_PRL તા._N_NN ૦૮_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC હુકમમાં_N_NN
+તે_PR_PRL બાબતની_N_NN વધુ_QT_QTF સુનાવણી_N_NN તા._N_NN ૨૭_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC રોજ_N_NN રાખવામાં_V_VAUX આવેલી_V_VAUX પરંતું_CC_CCD આ_DM_DMD બાબતનો_N_NN હજુ_N_NN સુધી_RP_RPD કોઈ_DM_DMI આખરી_JJ નિર્ણય_N_NN કરેલ_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=96> આ_DM_DMD અંગે_PSP જોઈએ_V_VAUX તો_RP_RPD,_RD_PUNC બીજા_QT_QTO પક્ષકારનાં_N_NN સાહેદે_N_NN
+આંક_N_NN-_RD_PUNC૧૧ની_QT_QTC સોગંદ_N_NN ઉપરની_N_NST સરતપાસમાં_N_NN આ_DM_DMD બાબત_N_NN સોગંદ_N_NN ઉપર_N_NST જાહેર_V_VM કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=97>જેની_PR_PRL વિરુઘ્ધની_N_NN કોઈ_DM_DMI હકીકત_N_NN ઉલટતપાસમાં_N_NN રેકર્ડ_N_NN પર_PSP આવેલ_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=100> વઘુમાં_QT_QTF જોઈએ_V_VAUX તો_RP_RPD,_RD_PUNC
+પ્રથમ_QT_QTO પક્ષકારનાં_N_NN સાહેદે_N_NN તેઓની_PR_PRP આંક_N_NN-_RD_PUNC૧૩૮ની_QT_QTC ઉલટમાં_N_NN કબુલ_N_NN કરેલ_V_VAUX છે_V_VAUX કે_CC_CCD,_RD_PUNC
+ગુ.મ્યુ._N_NN એકટની_N_NN કલમ_N_NN-_RD_PUNC૫૮_QT_QTC હેઠળનાં_N_NN પ્રોસીડીંગ્ઝમાં_N_NN જે_RP_RPD તે_PR_PRL વખતે_PSP કલેકટરશ્રી_N_NN એ_CC_CCD આ_DM_DMD કામનાં_N_NN
+કર્મચારીઓને_N_NN નોટીસ_N_NN કરેલ_V_VAUX નથી_RP_NEG કે_CC_CCS સાંભળવાની_N_NN તક_N_NN આપેલ_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=101> તેઓએ_PR_PRP એમ_RP_RPD પણ_CC_CCD કબુલ_N_NN
+કરેલ_V_VAUX છે_V_VAUX કે_CC_CCS,_RD_PUNC ક્લમ_N_NN-_RD_PUNC૨૫૮_QT_QTC નીચેનાં_N_NST પ્રોસીડીંગમાં_N_NN આગળની_N_NST કોઈ_DM_DMI કાર્યવાહી_N_NN થઈ_V_VAUX નથી_RP_NEG,_RD_PUNC
+તે_PR_PRL પેન્ડીંગ_JJ છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=102> તેઓએ_PR_PRP સ્વેચ્છાએ_JJ જણાવેલ_V_VAUX કે_CC_CCS,_RD_PUNC તેમાં_PR_PRL કાયમી_JJ મનાઈ_N_NN હુકમ_N_NN આવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=103>જેથી_CC_CCD એ_CC_CCD બાબત_N_NN સ્પષ્ટ_JJ થાય_V_VAUX છે_V_VAUX કે_CC_CCD,_RD_PUNC કલેકટરશ્રી_N_NN રાજકોટ_N_NNP દવારા_PSP તા._N_NN ૦૮_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC રોજ_N_NN ભરતીના_N_NN ઠરાવ_N_NN સ્થગીત_JJ કરવાના_V_VAUX કરવામાં_V_VAUX આવેલ_V_VAUX હુકમ_N_NN અન્વયે_N_NN કોઈ_DM_DMI આખરી_JJ નિર્ણય_N_NN હજુ_N_NN સુધી_RP_RPD કરવામાં_V_VAUX આવેલ_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=104>વધુમાં_QT_QTF જોઈએ_V_VAUX તો_RP_RPD,_RD_PUNC કલેકટરશ્રી_N_NN રાજકોટ_N_NNP દવારા_PSP ભરતીનાં_N_NN ઠરાવો_V_VAUX સ્થગીત_JJ કરવા_V_VAUX
+સબંધે_N_NN જે_RP_RPD હુકમ_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX તે_PR_PRL જેતપુર_N_NNP નગરપાલીકા_N_NN સામે_N_NST કરવામાં_V_VAUX આવેલ_V_VAUX અને_CC_CCD તેની_PR_PRL
+નકલ_N_NN જેતપુર_N_NNP નગરપાલીકાનાં_N_NN પ્રમુખશ્રી_N_NN તથા_CC_CCD ચીફ_JJ ઓફીસરશ્રીને_N_NN મોકલવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=105>આમ_RP_RPD,_RD_PUNC આ_DM_DMD હુકમની_N_NN સીધી_JJ અસરકર્તા_N_NN પાર્ટી_N_NN જેતપુર_N_NNP નગરપાલીકા_N_NN હતી_V_VAUX અને_CC_CCD તેઓનું_PR_PRP કૃત્ય_N_NN
+સ્થગીત_JJ કરવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=106>આ_DM_DMD હુકમ_N_NN અન્વયે_N_NN જેતપુર_N_NNP નગરપાલીકાએ_N_NN કોઈ_DM_DMI રજુઆત_N_NN
+કે_CC_CCS અપીલની_N_NN કાર્યવાહી_N_NN કરેલ_V_VAUX હોય_V_VAUX તેવી_PR_PRL કોઈ_DM_DMI હકીકત_N_NN રેકર્ડ_N_NN પર_PSP આવેલ_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=107>જેતપુર_N_NNP
+નગરપાલીકા_N_NN દવારા_PSP આ_DM_DMD હુકમને_N_NN યોગ્ય_JJ ઓથોરીટી_N_NN સમક્ષ_PSP પડકારેલ_V_VAUX નથી_RP_NEG અને_CC_CCD લાંબો_JJ
+સમય_N_NN સુધી_RP_RPD આ_DM_DMD હુકમને_N_NN નગરપાલીકાએ_N_NN ન_RP_NEG પડકારતા_V_VAUX કે_CC_CCS કોઈ_DM_DMI કાર્યવાહી_N_NN ન_RP_NEG કરતાં_V_VAUX તેનો_PR_PRP સીધો_JJ
+ભોગ_N_NN સબંધીત_JJ કામદારો_N_NN બનેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=108> સબંધીત_JJ કર્મચારીઓની_N_NN ભરતી_N_NN સમયે_N_NN દૈનિક_JJ પેપરમાં_N_NN જાહેરાત_N_NN આવેલ_V_VAUX આમ_RP_RPD આ_DM_DMD ભરતી_N_NN સેટઅપની_N_NN ખાલી_JJ જગ્યા_N_NN માટેની_PSP હતી_V_VAUX,_RD_PUNC તેઓનાં_PR_PRP
+ઈન્ટરવ્યુ_N_NN લેવામાં_V_VAUX આવેલ_V_VAUX અને_CC_CCD ત્યારબાદ_N_NST નિમણુંક_N_NN આપવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC</Sentence>
+
+ <Sentence id=109>વળી_N_NST,_RD_PUNC દૈતતિક_JJ પેપરમાં_N_NN
+જાહેરાત_N_NN આવતા_V_VAUX સમયે_N_NN એક_QT_QTC ઉમેદવાર_N_NN માટે_PSP અર્ધસરકારી_JJ સંસ્થા_N_NN દવારા_PSP આવી_RP_RPD જાહેરાત_N_NN
+કાયદાનું_N_NN પાલન_N_NN કરીને_V_VM અપાયેલ_V_VAUX છે_V_VAUX તેમ_PR_PRL માનવાને_V_VAUX કારણ_N_NN રહે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=110> સબંધીત_JJ કામદારો_N_NN દવારા_PSP
+આવી_RP_RPD જાહેરાત_N_NN અન્વયે_N_NN પસંદગી_N_NN પામ્યા_V_VAUX બાદ_PSP તેઓને_PR_PRP ૭_QT_QTC%_RD_SYM માસનાં_N_NN પ્રોબેશન_N_NN ઉપર_N_NST નિમણુંક_N_NN
+આપવામાં_V_VAUX આવેલી_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=111> ક્લેક્ટરશ્રી_N_NN દવારા_PSP આવી_RP_RPD જાહેરાત_N_NN અન્વયેનાં_N_NN પ્રથમ_QT_QTO પક્ષકારનાં_N_NN
+ઠરાવો_V_VAUX સ્થગીત_JJ કરતાં_V_VAUX અને_CC_CCD નગરપાલીકાએ_N_NN છુટા_JJ કરતાં_V_VAUX તે_PR_PRL સબંધે_N_NN નામદાર_N_NN ગુજરાત_N_NNP
+હાઈકોર્ટમાં_N_NN થથેલ_V_VAUX એસ.સી.એ._N_NN તથા_CC_CCD એલ.પી.એ.માં_N_NN કામદારોની_N_NN નોકરી_N_NN પ્રોટેકટ_N_NN કરવામાં_V_VAUX
+આવેલી_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=112>પ્રથમ_QT_QTO પક્ષકારનાં_N_NN સાહેદે_N_NN તેઓની_PR_PRP આંક_N_NN-_RD_PUNC૧૩૮ની_QT_QTC ઉલટમાં_N_NN કબુલ_N_NN કર્યા_V_VAUX મુજબ_PSP
+ગુ.મ્યુ._N_NN એકટની_N_NN કલમ_N_NN-_RD_PUNC૫૮_QT_QTC હેઠળનાં_N_NN પ્રોસીડીંગ્ઝમાં_N_NN જે_RP_RPD તે_PR_PRL વખતે_PSP કલેકટરશ્રી_N_NN એ_CC_CCD આ_DM_DMD કામનાં_N_NN
+કર્મચારીઓને_N_NN નોટીસ_N_NN કરેલ_V_VAUX નથી_RP_NEG કે_CC_CCS સાંભળવાની_N_NN તક_N_NN આપેલ_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=113>તદઉપરાંત_RP_RPD કલેકટરશ્રીનાં_N_NN
+ભરતી_N_NN અન્વયેનાં_N_NN ઠરાવો_V_VAUX સ્થગીત_JJ કરતાં_V_VAUX હુકમ_N_NN અન્વયે_N_NN પ્રથમ_QT_QTO પક્ષકાર_N_NN દવારા_PSP લાંબો_JJ સમય_N_NN
+પગલા_N_NN ન_RP_NEG લેવાતાં_V_VAUX અને_CC_CCD તે_PR_PRL દરમ્યાન_PSP સબંધીત_JJ કામદારોનો_N_NN પ્રોબેશન_N_NN પીરીયડ_N_NN પુરો_RB થતાં_V_VAUX
+સ્વભાવિક_N_NN રીતે_RB એક_QT_QTC જ_RP_RPD સંસ્થામાં_N_NN કાયમી_JJ કામ_N_NN કરતાં_V_VAUX કાયમી_JJ કામદારો_N_NN અને_CC_CCD સંબંધીત_JJ કામદારો_N_NN વચ્ચે_N_NN સમાન_N_NN કામ_N_NN સમાન_N_NN વેતનને_N_NN લઈને_V_VM વિસંગતતા_JJ અને_CC_CCD અસંતોષ_N_NN ઉભો_V_VAUX થાય_V_VAUX અને_CC_CCD પ્રોબેશન_N_NN ઉપરનાં_N_NST કામદારોને_N_NN લાંબો_JJ સમય_N_NN કાયમીનાં_JJ લાભો_N_NN ન_RP_NEG મળતાં_V_VAUX અને_CC_CCD તેઓને_PR_PRP અન્યાય_N_NN થતાં_V_VAUX તેઓ_PR_PRP ઔદ્યોગીક_JJ વિવાદ_N_NN ધારા_N_NN હેઠળ_N_NN રેમેડી_N_NN મેળવવા_V_VAUX હકકદાર_N_NN થાય_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=114>વધુમાં_QT_QTF જોવામાં_V_VAUX આવે_V_VAUX તો_RP_RPD,_RD_PUNC બીજા_QT_QTO પક્ષકાર_N_NN દવારા_PSP આંક_N_NN-_RD_PUNC૧૧ની_QT_QTC સરતપાસમાં_N_NN પ્રથમ_QT_QTO
+પક્ષકાર_N_NN દવારા_PSP સબંધીત_JJ કામદારોને_N_NN છુટા_JJ કરવા_V_VAUX ઔદ્યોગીક_JJ વિવાદ_N_NN ધારાની_N_NNP કલમ_N_NN
+૩૩_QT_QTC(_RD_PUNC૨_QT_QTC)_RD_PUNC (_RD_PUNCબી_N_NN)_RD_PUNC મુજબની_PSP કોઈ_DM_DMI કાર્યવાહી_N_NN કરેલ_V_VAUX ન_RP_NEG હોવાનું_V_VAUX સોગંદ_N_NN ઉપર_N_NST જાહેર_V_VM કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=115> જેની_PR_PRL
+વિરુઘ્ઘની_N_NN કોઈ_DM_DMI હકીકત_N_NN તેમની_PR_PRP ઉલટતપાસમાં_N_NN રેકર્ડ_N_NN પર_PSP આવેલ_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=116>તેમજ_CC_CCD હાલનો_N_NST રેફરન્સ_N_NN
+રીમાન્ડ_N_NN થયા_V_VAUX બાદ_PSP કામદારોએ_N_NN નામદાર_N_NN હાઈકોર્ટના_N_NN હુકમ_N_NN મુજબ_PSP નોકરીના_N_NN પ્રોટેકશન_N_NN
+અંગે_PSP કરેલ_V_VAUX આંક_N_NN-_RD_PUNC૧૫૧ની_QT_QTC અરજીમાં_N_NN પણ_CC_CCD પ્રથમ_QT_QTO પક્ષકાર_N_NN તરફે_PSP તેઓ_PR_PRP કાયદાની_N_NN પ્રક્રિયા_N_NN કર્યા_V_VAUX
+વગર_N_NN સબંધીત_JJ કામદારોની_N_NN નોકરીમાં_N_NN કોઈ_DM_DMI બદલ_N_NN ન_RP_NEG કરવાની_V_VAUX ખાત્રી_JJ અને_CC_CCD વિશ્વાસ_N_NN
+આપે_V_VAUX છે_V_VAUX તેવો_RP_RPD શેરો_N_NN કરેલ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=117> નામદાર_N_NN ગુજરાત_N_NNP હાઈકોર્ટ_N_NN દવારા_PSP એલ.પી.એ.નં._N_NN
+૪૫૮_QT_QTC/_RD_PUNC૧૯૯૭નાં_QT_QTC નિકાલ_N_NN સબંધીત_JJ કામદારો_N_NN દવારા_PSP કરવામાં_V_VAUX આવેલ_V_VAUX ડીમાન્ડ_N_NN રેફરન્સ_N_NN
+પેન્ડીંગ_JJ હોવાનાં_V_VAUX કારણસર_N_NN કરવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=118>ત્યારબાદ_N_NST પ્રથમ_QT_QTO પક્ષકાર_N_NN દવારા_PSP ઔદ્યોગીક_JJ વિવાદ_N_NN ધારાની_N_NNP કલમ_N_NN ૩૩_QT_QTC (_RD_PUNCર_QT_QTC)_RD_PUNC (_RD_PUNCબી_N_NN)_RD_PUNC મુજબની_PSP કોઈ_DM_DMI કાર્યવાહી_N_NN કરેલ_V_VAUX હોય_V_VAUX તેમ_PR_PRL કેસની_N_NN હકીકત_N_NN
+જોતા_V_VM જણાઈ_V_VAUX આવતું_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=119>ઉપરોકત_RP_RPD તમામ_QT_QTF ચર્ચા_N_NN મુજબ_PSP સબંધીત_JJ કામદારોને_N_NN નોકરીમાંથી_N_NN ટર્મીનેટ_N_NN કરેલ_V_VAUX પરંતું_CC_CCD તેઓ_PR_PRP સ્પે.સી.એ.નં._N_NN ૭૭૧૭_QT_QTC/_RD_PUNC૧૯૯૫_QT_QTC અને_CC_CCD ત્યારબાદ_N_NST એલ.પી.એ.નં._N_NN ૪૫૮_QT_QTC/_RD_PUNC૧૯૯૭નાં_QT_QTC કામે_N_NN થયેલ_V_VAUX હુકમો_N_NN મુજબ_PSP નોકરીમાં_N_NN સળંગ_RB ચાલું_V_VM છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=120>તેઓને_PR_PRP પ્રથમ_QT_QTO પક્ષકાર_N_NN દવારા_PSP
+ક્લેક્ટરશ્રીનાં_N_NN તા._N_NN ૦૮_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC હુકમ_N_NN અન્વયે_N_NN કલેકટરશ્રીનાં_N_NN આખરી_JJ હુકમને_N_NN આઘીન_N_NN
+છુટા_JJ કરવામાં_V_VAUX આવેલ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=121>જે_RP_RPD તા._N_NN ૦૮_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC હુકમ_N_NN અન્વયે_N_NN કલેક્ટરશ્રી_N_NN દવારા_PSP
+આખરી_JJ હુકમ_N_NN હજુ_N_NN સુધી_RP_RPD કરવામાં_V_VAUX આવેલ_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=122> પ્રથમ_QT_QTO પક્ષકાર_N_NN દવારા_PSP ક્લેક્ટરશ્રીનાં_N_NN
+તા._N_NN ૦૮_QT_QTC/_RD_PUNC૦૯_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC ભરતીનાં_N_NN ઠરાવ_N_NN સ્થગીત_JJ કરતાં_V_VAUX હુકમ_N_NN અન્વયે_N_NN કોઈ_DM_DMI રજુઆત_N_NN કે_CC_CCS યોગ્ય_JJ
+ઓથોરીટી_N_NN સમક્ષ_PSP અપીલ_N_NN કરેલ_V_VAUX નથી_RP_NEG કે_CC_CCS ઔદ્યોગીક_JJ વિવાદ_N_NN ધારાની_N_NNP કલમ_N_NN ૩૩_QT_QTC (_RD_PUNCર_QT_QTC)_RD_PUNC (_RD_PUNCબી_N_NN)_RD_PUNC
+મુજબની_PSP કોઈ_DM_DMI કાર્યવાહી_N_NN પણ_CC_CCD કરેલ_V_VAUX નથી_RP_NEG._RD_PUNC </Sentence>
+
+<Sentence id=123>સબંધીત_JJ કામદારોને_N_NN તા._N_NN ૨૪_QT_QTC/_RD_PUNC૦૮_QT_QTC/_RD_PUNC૧૯૯૫_QT_QTC તથા_CC_CCD
+તા._N_NN ૨૫_QT_QTC/_RD_PUNC૦૮_QT_QTC/_RD_PUNC૧૯૯૫નાં_QT_QTC  હુકમથી_N_NN  માસનાં_N_NN પ્રોબેશન_N_NN પીરીયડ_N_NN ઉપર_N_NST નિમણુંક_N_NN આપવામાં_V_VAUX
+આવેલ_V_VAUX અને_CC_CCD ત્યારબાદ_N_NST સબંધીત_JJ કામદારોએ_N_NN ૩_QT_QTC વર્ષ_N_NN બાદ_PSP કે_CC_CCS સને_N_NN ૨૦૦માં_QT_QTC તેઓને_PR_PRP પ્રોબેશન_N_NN
+પીરીયડ_N_NN પુરો_RB થયે_V_VAUX કાયમી_JJ કરવા_V_VAUX સબંધે_N_NN રેફરન્સ_N_NN લાવેલ_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=124>તે_RP_RPD સંજોગોમાં_N_NN કેસનાં_N_NN હકીકતનાં_N_NN સંજોગો_N_NN જોતાં_V_VM સમુચીત_N_NN સરકાર_N_NN દવારા_PSP ન્યાય_N_NN નિર્ણય_N_NN માટે_PSP મોકલવામાં_V_VAUX આવેલ_V_VAUX હાલનો_N_NST રેફરન્સ_N_NN ઉપરોકત_RP_RPD તમામ_QT_QTF ચર્ચા_N_NN મુજબ_PSP વ્યાજબી_JJ અને_CC_CCD ચાલવા_JJ પાત્ર_N_NN હોય_V_VAUX તેમ_PR_PRL જણાઈ_V_VAUX આવે_V_VAUX છે_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=125>જેથી_CC_CCD મુદ્દા_N_NN નં._N_NN ૧નો_QT_QTC જવાબ_N_NN હકારમાં_N_NN ઠરાવી_V_VM મુદ્દા_N_NN નં._N_NN ર_QT_QTC અંગે_PSP નીચે_N_NST મુજ_PSP આખરી_JJ
+હુકમ_N_NN કરુ_V_VAUX છું_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=126> (_RD_PUNC૧_QT_QTC)_RD_PUNC સમુચીત_N_NN સરકાર_N_NN દવારા_PSP ન્યાય_N_NN નિર્ણય_N_NN માટે_PSP મોકલવામાં_V_VAUX આવેલ_V_VAUX હાલનો_N_NST રેફરન્સ_N_NN વ્યાજબી_JJ અને_CC_CCD ચાલવા_JJ પાત્ર_N_NN છે_V_VAUX તેમ_PR_PRL ઠરાવવામાં_V_VAUX આવે_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=127> (_RD_PUNC૨_QT_QTC)_RD_PUNC ખર્ચ_N_NN આખરી_JJ પરીણામને_N_NN અનુસરશે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=128>સ્થળ_N_NN :_RD_PUNC રાજકોટ_N_NNP (_RD_PUNC કિરીટ_N_NNP પ્રભુલાલ_N_NNP જાની_N_NNP )_RD_PUNC
+તારીખ_N_NN :_RD_PUNC ૧_QT_QTC-_RD_PUNC૧૨_QT_QTC-_RD_PUNC૨૦૧૭_QT_QTC જી.જે._N_NN ૦૦૫૦૩_QT_QTC
+ઔધોગિક_JJ ન્યાયપંચ_N_NN,_RD_PUNC
+રાજકોટ_N_NNP._RD_PUNC</Sentence>
